@@ -8,11 +8,11 @@ A key philosphy of working with the Sheffield Bioinformatics Core is that you ar
 
 ## Core Staff
 
-- [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html)
-- [Emily Chambers](http://sbc.shef.ac.uk/team/emily/)
-- Matt Parker - Starting May 2018
+- [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html) - Bioinformatics Core Director
+- [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
+- Matthew Parker - Clinical Bioinformatics Core Scientist
 
-## Core Management
+## Sc
 
 - [Winston Hide](http://sbc.shef.ac.uk/team/win/) (Core Scientific Director)
 - [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director)
