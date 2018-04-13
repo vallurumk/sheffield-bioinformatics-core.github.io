@@ -12,7 +12,7 @@ A key philosphy of working with the Sheffield Bioinformatics Core is that you ar
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
 - Matthew Parker - Clinical Bioinformatics Core Scientist
 
-## Sc
+## Scientific Directors
 
 - [Winston Hide](http://sbc.shef.ac.uk/team/win/) (Core Scientific Director)
 - [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director)
