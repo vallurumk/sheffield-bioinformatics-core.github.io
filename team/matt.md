@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Matthew Parker
-excerpt: "More about Mark..."
+excerpt: "More about Matt..."
 ---
 
-![mark](../images/IMG_2921_resize.jpg)
+![matt](../images/matt.jpg)
 
 I joined University of Sheffield Bioinformatics Core in May 2018 to provide support for the Biomedical Research Centre (BRC) 
 and other university projects in addition to strengthening the clinical bioinformatics services. 
@@ -30,36 +30,48 @@ and other university projects in addition to strengthening the clinical bioinfor
  
 ## Biography
 
-I obtained my PhD in Molecular Biology/Cancer Biology at The Institute of Cancer Research in Colin Cooper's group where I developed a keen interest in the somatic changes which lead to the development of cancer. I pursued this interest at St Jude Children's Hospital in Memphis, TN, USA where I completed my postdoctoral training as part of the Pediatric Cancer Genome Project (PCGP) team. During this time I was responsible for the analysis of whole genome sequencing data in addition to transcriptomic data derived from childhood brain tumours. These analyses lead to discoveries which increased our understanding of these tumours, in particular, in Ependymoma I discovered a highly recurrent fusion gene, C11orf95-RELA.
+I obtained my PhD in Molecular Biology/Cancer Biology at The Institute of Cancer Research in Colin Cooper's group where I developed a keen interest in the somatic changes which lead to the development of cancer. I pursued this interest at St Jude Children's Hospital in Memphis, TN, USA where I completed my postdoctoral training as part of the Pediatric Cancer Genome Project (PCGP) team. During this time I was responsible for the analysis of whole genome sequencing data in addition to transcriptomic data derived from childhood brain tumours. These analyses lead to discoveries which increased our understanding of these tumours. In Ependymoma I discovered a highly recurrent fusion gene, C11orf95-RELA.
 
-I applied the skills I had learnt in bioinformatics and genome analysis to a clinical setting. I was lead analyst on the clinical proramme for genomics at St Jude, applying whole genome, exome and transcritome sequencing as a diagnostic tool. I took part in preparations to gain CAP-CLIA certification. On retrun to the UK I took a role as Lead Cancer Analyst on the 100,000 genomes project, applying my bioinformatics skills again in a clinically focussed setting. 
+I applied the skills I had learnt in bioinformatics and genome analysis to a clinical setting. I was lead analyst on the clinical programme for genomics at St Jude, applying whole genome, exome and transcritome sequencing as a diagnostic tool. I took part in preparations to gain CAP-CLIA certification. On return to the UK I took a role as Lead Cancer Analyst on the 100,000 genomes project, applying my bioinformatics skills again in a clinically focused setting. Subsequently I joined Sheffield Diagnostics Genetics Service to provide bioinformatics suppot to clinical testing. I led a small team of bioinformaticians, building, deploying and supporting bioinformatics pipelines and applications. I successfully supported training for the clinical scientist training programme (STP). I brought the bioinformatics team and processes up to ISO-15189 standards to help attain UKAS accreditation for the laboratory as a whole. During this time I also sought Clinical Scientist Equivalence from the Academy of Healthcare Sciences. I obtained this in early 2018 and registered as a Clinical Scientist with the HCPC (Registration Number CS20252).
 
 ## Publications
 
-For my updated and full list of publications, please see my ORCid entry:-
+For my updated and full list of publications, please see my google scholar page:-
 
-[https://orcid.org/0000-0002-8853-9435](https://orcid.org/0000-0002-8853-9435)
+[https://scholar.google.co.uk/citations?user=izGXAUMAAAAJ](https://scholar.google.co.uk/citations?user=izGXAUMAAAAJ)
 
-Selected Publications
+### Selected Publications
 
-1. Dunning, M.J, Vowler, S.L., Lalonde, E., Ross-Adams. H,. Boutros, P., Mills, I.G., Lynch, A.G, and Lamb A.D., “Mining Human Prostate Cancer Datasets: The camcAPP Shiny App“ EBio Medicine 17, (2017)
+1. Parker M, Mohankumar KM, Punchihewa C, Weinlich R, Dalton JD, Li Y, Lee
+R, Tatevossian RG, Phoenix TN, Thiruvenkatam R, White E, Tang B, Orisme
+W, Gupta K, Rusch M, Chen X, Li Y, Nagahawhatte P, Hedlund E, Finkelstein
+D, Wu G, Shurtleff S, Easton J, Boggs K, Yergeau D, Vadodaria B, Mulder
+HL, Becksfort J, Gupta P, Huether R, Ma J, Song G, Gajjar A, Merchant T,
+Boop F, Smith AA, Ding L, Lu C, Ochoa K, Zhao D, Fulton RS, Fulton LL,
+Mardis ER, Wilson RK, Downing JR, Green DR, Zhang J, Ellison DW,
+Gilbertson RJ: C11orf95-RELA fusions drive oncogenic NF-kappaB
+signalling in ependymoma. Nature 2014, 506(7489):451-455.
 
-2. Ross-Adams, H., Lamb, A.D., Dunning, M.J., Halim, S., Lindberg, J., Massie, C.M., Egevad, L.A., Russell, R., Ramos-Montoya, A., Vowler, S.L., Sharma, N.L., Kay, J., Whitaker, H., Clark, J., Hurst, R., Gnanapragasam, V.J, Shah, N.C, Warren, A.Y., Cooper, C.S., Lynch, A.G., Stark, R., Mills, I.G., Gronberg, H. and Neal, D.E., “Integration of copy number and transcriptomics provides risk stratification in prostate cancer: A discovery and validation cohort study“ EBio Medicine 2(9):1133-1144, (2015).
+2. Robinson G, Parker M, Kranenburg TA, Lu C, Chen X, Ding L, Phoenix TN,
+Hedlund E, Wei L, Zhu X, Chalhoub N, Baker SJ, Huether R, Kriwacki R,
+Curley N, Thiruvenkatam R, Wang J, Wu G, Rusch M, Hong X, Becksfort J,
+Gupta P, Ma J, Easton J, Vadodaria B, Onar-Thomas A, Lin T, Li S, Pounds
+S, Paugh S, Zhao D, Kawauchi D, Roussel MF, Finkelstein D, Ellison DW,
+Lau CC, Bouffet E, Hassall T, Gururangan S, Cohn R, Fulton RS, Fulton LL,
+Dooling DJ, Ochoa K, Gajjar A, Mardis ER, Wilson RK, Downing JR, Zhang J,
+Gilbertson RJ: Novel mutations target distinct subgroups of
+medulloblastoma. Nature 2012, 488(7409):43-48.
 
-3. Weaver, J.M.J., Shannon, N., Lynch, A.G., Ross-Innes, C.S., Forshew, T., Barbera, M., Ong, C.J., Lao-Sirieix, P., Dunning, M.J., Smith, L., Smith, M., Carvalho, B., O’Donovan. M., Underwood, T., Murtaza, M., May, A.P., Grehan, N., Hardwick, R., Davies, J., Olomi, A., Aparicio, S., Rozenfeld, N., Eldridge, M., Caldas, C., Edwards, P.A.W., Tavare, S. and Fitzgerald, R.C. “Ordering of mutations in preinvasive disease stages of esophageal carcinogenesis” Nature Genetics epub ahead of print (2014) ?
+3. Parker M, Chen X, Bahrami A, Dalton J, Rusch M, Wu G, Easton J, Cheung
+NK, Dyer M, Mardis ER, Wilson RK, Mullighan C, Gilbertson R, Baker SJ,
+Zambetti G, Ellison DW, Downing JR, Zhang J, Pediatric Cancer Genome P:
+Assessing telomeric DNA content in pediatric cancers using whole-
+genome sequencing data. Genome Biol 2012, 13(12):R113.
 
-4. Dawson, S.J., Tsui, D.W.Y, Murtaza, M., Biggs, H., Rueda, O.M., Chin, S.F., Dunning, M.J., Gale, D., Forshew, T., Mahler-Araujo, B., Rajan, S., Humphray, S., Becq, J., Halsall, D., Wallis, M., Bentley, D., Caldas, C. and Rosenfeld, N., “Analysis of Circulating Tumour DNA to Monitor Metastatic Breast Cancer” The New England Journal of Medicine 368:1199-1209, 2013 ?
-
-5. Curtis, C., Shah S., Chin, S.F., Turashvili, G., Rueda, O.M., Dunning, M.J., Speed, D., Lynch, A.G., Samarajiwa, S., Y, Yuan., METABRIC Group et al “The genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups.” Nature, 481(7381):389-93,2012 ?
-
-6. Lynch, A.G., Chin, S.F., Dunning, M.J., Caldas, C., Tavare, S., and Curtis, C., “Calling sample mix-ups in cancer population studies” PLoS One, 7(8) e41815, 2012 ?
-
-7. Ritchie, M.E., Dunning, M.J., Smith, M.L., Shi, W, and Lynch, A.G., “BeadArray expression analysis using bioconductor” PLoS Computational Biology 7(12) e1002276, 2011 ?
-
-8. Dunning, M.J., Curtis, C., Barbosa-Morais, N.L., Caldas, C., Tavare, S. and Lynch, A.G., “The importance platform annotation in interpreting microarray data” Lancet Oncology 11(8):717, 2010 ?
-
-9. Barbosa-Morais, N.L, Dunning, M.J., Samarajiwa, S.A., Darot, J.F.J., Ritchie, M.E., Lynch, A.G. and TavarE, S. “A re-annotation pipeline for Illumina BeadArrays: improving the interpretation of gene expression data” Nucleic Acids Research 38(3):e17, 2009 ?
-
-10. Dunning, M.J., Barbosa-Morais, N.L, Lynch,. A.G., Tavare, S. and Ritchie, M.E. “Statistical issues in the analysis of Illumina data” BMC Bioinformatics 9:85, 2008 ?
-
-11. Dunning, M.J. Smith, M.L., Ritchie, M.E. and Tavare, S. “beadarray: R classes and methods for Illumina bead-based data” Bioinformatics 23(16):2183-4 
+4. Cheung NK, Zhang J, Lu C, Parker M, Bahrami A, Tickoo SK, Heguy A,
+Pappo AS, Federico S, Dalton J, Cheung IY, Ding L, Fulton R, Wang J, Chen
+X, Becksfort J, Wu J, Billups CA, Ellison D, Mardis ER, Wilson RK, Downing
+JR, Dyer MA, St Jude Children&#39;s Research Hospital-Washington University
+Pediatric Cancer Genome P: Association of age at diagnosis and genetic
+mutations in patients with neuroblastoma. JAMA 2012, 307(10):1062-
+1071.
