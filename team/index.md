@@ -10,7 +10,7 @@ A key philosphy of working with the Sheffield Bioinformatics Core is that you ar
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html) - Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
-- Matthew Parker - Clinical Bioinformatics Core Scientist
+- [Matthew Parker](http://sbc.shef.ac.uk/team/matt) - Clinical Bioinformatics Core Scientist
 
 ## Scientific Directors
 
