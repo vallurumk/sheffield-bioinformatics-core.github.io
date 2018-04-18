@@ -17,7 +17,9 @@ To be the first to hear about our training course program and for other core new
 - Introduction to Unix for Bioinformatics, May 21st,
   + For more information [click here](http://sbc.shef.ac.uk/training/command-line-2018-05-21/)
   + **Booking now**; [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-unix-for-bioinformatics)
-- Introduction to identifying and characterising variants from NGS data, 4th/5th June, **Booking soon**
+- Introduction to identifying and characterising variants from NGS data, 4th/5th June,
+  + For more information [click here](http://sbc.shef.ac.uk/training/variants-introduction-2018-06-04/)
+  + **Booking now**; [click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
 - Introduction to Statistical Analysis, 18th June, **Booking soon**
 - Analysis of RNA-seq Data in R, 9th/10th July, **Booking soon**
 
