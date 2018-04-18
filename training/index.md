@@ -11,7 +11,7 @@ To be the first to hear about our training course program and for other core new
 ## 2018
 
 
-- Best practices in Research Data Management for Biological Sciences, 30th April, **Booking soon**
+- Best practices in Research Data Management for Biological Sciences, 30th April, 
   + For more information [click here](http://sbc.shef.ac.uk/training/data-management-2018-04-30/)
   + **Booking now**; [click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/best-practices-in-research-data-management-for-biological-science)
 - Introduction to Unix for Bioinformatics, May 21st,
