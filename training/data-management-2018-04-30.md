@@ -49,17 +49,19 @@ Researchers wanting to know how they can organise their data more effectively an
 
 ## Instructors
 
-- Mark Dunning, Bioinformatics Core Director
-- Jez Cope, University of Sheffield Library Services
+- [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
+- [Jez Cope](http://jcope.shef.ac.uk/), University of Sheffield Library Services
 
 ## Course Data
 
+- [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.txt) - Right-click on link and select Save Link As…
 
 ## Timetable (provisional)
 
-
-
-## Instructor Files
+- 13:00 - 13:15 Course Overview 
+- 13:15 - 13:45 [Data Formatting](https://datachampcam.github.io/data-formatting/#/)
+- 13:45 - 14:45 [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
+- 15:00 - 16:30 File Management and Data Sharing at The University of Sheffield
 
 
 ## Registration 
@@ -68,4 +70,10 @@ Registration is open. Please [click here](https://onlineshop.shef.ac.uk/conferen
 
 ## References
 
-- [Data Carpentry Spreadsheet Formatting Lessions](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
+- [Data Carpentry Open Refine for Ecology](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
+- [The Data Organisation Tutorial by Karl Broman](http://kbroman.org/dataorg/)
+- [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide/blob/master/README.md)
+- [Three common bad practices in sharing tables and spreadsheets and how to avoid them](http://luisdva.github.io/pls-don't-do-this/)
+- [Five Selfish Reasons to work reproducibly - Florian Markowetz](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
+- [Keith Baggerly lecture on Duke reproducibility scandal](https://youtu.be/7gYIs7uYbMo)
+- [Biologists: this is why bioinformaticians hate you…](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
