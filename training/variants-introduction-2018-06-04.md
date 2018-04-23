@@ -59,21 +59,21 @@ Healthcare providers and researchers who want to get an appreciation for how var
 
 Monday 4th June
 
-09:30 - 12:30 Overview of sequencing reads and alignment
-12:30 - 13:30 LUNCH (not provided)
-13:30 - 15:00 Overview of tools for variant calling
-15:00 - 17:00 Variant Annotation
+- 09:30 - 12:30 Overview of sequencing reads and alignment
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 15:00 Overview of tools for variant calling
+- 15:00 - 17:00 Variant Annotation
 
 Tuesday 5th June
 
-09:30 - 10:30 Best practices for variant interpretation
-10:30 - 12:30 Filtering and Prioritisation of variants
-12:30 - 13:30 LUNCH (not provided)
-13:30 - 15:30 Clinical Interpretation
-15:30 - 17:00 Case studies
+- 09:30 - 10:30 Best practices for variant interpretation
+- 10:30 - 12:30 Filtering and Prioritisation of variants
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 15:30 Clinical Interpretation
+- 15:30 - 17:00 Case studies
 
 
 ## Registration 
 
-Registration is opening soon ...
-
+Registration is [**open now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-
+health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
