@@ -2,12 +2,18 @@
 layout: page
 title: Introduction to R 
 excerpt: "Intro to R.."
-date: 2018-03-26
+startDate: 2018-03-26
+endDate: 2018-03-26
 startTime: 9.30
 endTime: 17.00
-city: sheffield
+city: Sheffield
+postcode: S1 3JD
 country: United Kingdom
 venue: Pam Liversidge Design Studio 1 - D06
+description: "R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research. In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and analyse tabular data.  After the course you should feel confident to start exploring your own dataset using the materials and references provided."
+keywords: R, R-programming,bioinformatics, data analysis, data science
+difficulty: beginner
+contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 26th March 2018

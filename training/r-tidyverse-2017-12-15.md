@@ -2,6 +2,18 @@
 layout: page
 title: Data Manipulation and Visualisation using R
 excerpt: "A course on dplyr and ggplot2"
+startDate: 2017-12-15
+endDate: 2017-12-15
+startTime: 9.30
+endTime: 17.00
+city: Sheffield
+postcode: S1 3JD
+country: United Kingdom
+venue: Pam Liversidge Design Studio 2 - E06
+description: "It has been said that 80% of data analysis is spent on the process of cleaning and preparing the data. In this course we introduce some relatively-new additions to the R programming language; dplyr and ggplot2. In combination these provide a powerful toolkit to make the process of manipulating and visualising data easy and intuitive. "
+keywords: R, R-programming,bioinformatics, data analysis, data science, ggplot2, dplyr, tidyverse
+difficulty: intermediate
+contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 15th December 2017

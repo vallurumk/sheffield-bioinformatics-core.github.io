@@ -2,13 +2,18 @@
 layout: page
 title: Introduction to Unix for Bioinformatics
 excerpt: "Introduction to Unix"
-date: 2018-05-21
+startDate: 2018-05-21
+endDate: 2018-05-21
 startTime: 09.30
 endTime: 17.00
 city: sheffield
+postcode: S1 3JD
 country: United Kingdom
-venue: Pam Liversidge Design Studio 2 - e06
-
+venue: Pam Liversidge Design Studio 2 - E06
+description: "This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We will take a problem-solving approach, drawing on types of tasks commonly encountered by Linux users when processing text files"
+keywords: bioinformatics, bash, unix
+difficulty: beginner
+contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 21st May 2018

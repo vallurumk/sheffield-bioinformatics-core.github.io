@@ -2,12 +2,18 @@
 layout: page
 title: Introduction to RNA-seq
 excerpt: "Intro to RNA-seq"
-date: 2018-03-27
+startDate: 2018-03-27
+endDate: 2018-03-27
 startTime: 9.30
 endTime: 17.00
 city: sheffield
+postcode: S1 3JD
 country: United Kingdom
 venue: Pam Liversidge Design Studio 1 - D06
+description: "High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing, and what data you should expect to receive from the Bioinformatics Core. We will describe the steps involved to go from sequencing library to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Galaxy interface (https://usegalaxy.org/) to demonstrate tasks such as alignment, quality control and assessing differential expression. We will also showcase some web sites you can use for enrichment and pathways analysis."
+keywords: bioinformatics, NGS, RNA-seq, galaxy
+difficulty: beginner
+contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 27th March 2017

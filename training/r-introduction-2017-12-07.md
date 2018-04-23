@@ -2,6 +2,18 @@
 layout: page
 title: Introduction to R and Bioconductor
 excerpt: "Intro to R and Bioconductor"
+startDate: 2017-12-07
+endDate: 2017-12-07
+startTime: 09.30
+endTime. 17.00
+city: Sheffield
+postcode: S1 3JD
+country: United Kingdom
+venue: Pam Liversidge Design Studio 1 - D06
+description: "R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research. In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and analyse tabular data. We will also introduce the Bioconductor project, and how it can enable the analysis of complex biological datasets. After the course you should feel confident to start exploring your own dataset using the materials and references provided."
+keywords: R, R-programming,bioinformatics, data analysis, data science
+difficulty: beginner
+contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 7th December 2017

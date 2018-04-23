@@ -3,13 +3,17 @@ layout: page
 title: Best practices in Research Data Management for Biological Sciences
 excerpt: "Avoiding Data Disasters"
 startDate: 2018-04-30
-endDate: 20180-04-30
+endDate: 2018-04-30
 startTime: 13.00
 endTime: 16.30
 city: sheffield
+postcode: S1 3JD
 country: United Kingdom
 venue: Pam Liversidge Design Studio 1 - D06
-
+description: "As a researcher, you will encounter research data in many forms, ranging from measurements, numbers and images to documents and publications. Whether you create, receive or collect data, you will certainly need to organise it at some stage of your project. This workshop will provide an overview of some basic principles on how we can work with data more effectively. We will discuss the best practices for research data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future."
+keywords: data management, excel, open refine, RDM
+difficulty: beginner
+contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 
