@@ -2,7 +2,8 @@
 layout: page
 title: Best practices in Research Data Management for Biological Sciences
 excerpt: "Avoiding Data Disasters"
-date: 2018-04-30
+startDate: 2018-04-30
+endDate: 20180-04-30
 startTime: 13.00
 endTime: 16.30
 city: sheffield
