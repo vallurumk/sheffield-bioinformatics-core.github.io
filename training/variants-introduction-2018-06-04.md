@@ -1,5 +1,6 @@
 ---
 layout: page
+organizer: Sheffield Bioinformatics Core
 title: Introduction to identifying and characterising variants from NGS data
 excerpt: "Intro to Variants"
 startDate: 2018-06-04

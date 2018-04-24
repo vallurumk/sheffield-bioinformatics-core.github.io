@@ -1,5 +1,6 @@
 ---
 layout: page
+organizer: Sheffield Bioinformatics Core
 title: Best practices in Research Data Management for Biological Sciences
 excerpt: "Avoiding Data Disasters"
 startDate: 2018-04-30

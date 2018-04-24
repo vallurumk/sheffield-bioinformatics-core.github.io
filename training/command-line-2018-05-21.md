@@ -1,5 +1,6 @@
 ---
 layout: page
+organizer: Sheffield Bioinformatics Core
 title: Introduction to Unix for Bioinformatics
 excerpt: "Introduction to Unix"
 startDate: 2018-05-21

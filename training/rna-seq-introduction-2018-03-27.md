@@ -1,5 +1,6 @@
 ---
 layout: page
+organizer: Sheffield Bioinformatics Core
 title: Introduction to RNA-seq
 excerpt: "Intro to RNA-seq"
 startDate: 2018-03-27

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction to R and Bioconductor
+organizer: Sheffield Bioinformatics Core
 excerpt: "Intro to R and Bioconductor"
 startDate: 2017-12-07
 endDate: 2017-12-07

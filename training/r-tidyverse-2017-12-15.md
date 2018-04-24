@@ -1,5 +1,6 @@
 ---
 layout: page
+organizer: Sheffield Bioinformatics Core
 title: Data Manipulation and Visualisation using R
 excerpt: "A course on dplyr and ggplot2"
 startDate: 2017-12-15

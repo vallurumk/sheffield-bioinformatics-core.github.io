@@ -1,5 +1,6 @@
 ---
 layout: page
+organizer: Sheffield Bioinformatics Core
 title: Introduction to Statistical Analysis
 excerpt: "Stats Intro"
 startDate: 2018-06-18

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction to R 
+organizer: Sheffield Bioinformatics Core
 excerpt: "Intro to R.."
 startDate: 2018-03-26
 endDate: 2018-03-26
