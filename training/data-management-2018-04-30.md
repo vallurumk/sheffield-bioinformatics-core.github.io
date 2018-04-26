@@ -58,6 +58,15 @@ Researchers wanting to know how they can organise their data more effectively an
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Jez Cope](http://jcope.shef.ac.uk/), University of Sheffield Library Services
 
+## Software
+
+You will need to install the [OpenRefine](http://openrefine.org/index.html) software. This is free and available for Windows and Mac OSX.
+
+- [Windows Download](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-win-2.8.zip)
+- [Mac Download](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-mac-2.8.dmg)
+
+
+
 ## Course Data
 
 - [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.txt) - Right-click on link and select Save Link As…
@@ -65,7 +74,7 @@ Researchers wanting to know how they can organise their data more effectively an
 ## Timetable (provisional)
 
 - 13:00 - 13:15 Course Overview 
-- 13:15 - 13:45 [Data Formatting](https://datachampcam.github.io/data-formatting/#/)
+- 13:15 - 13:45 [Data Formatting](https://sheffield-bioinformatics-core.github.io/data-formatting/#/)
 - 13:45 - 14:45 [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
 - 15:00 - 16:30 File Management and Data Sharing at The University of Sheffield
 
