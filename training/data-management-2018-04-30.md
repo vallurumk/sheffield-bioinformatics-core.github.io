@@ -60,7 +60,7 @@ Researchers wanting to know how they can organise their data more effectively an
 
 ## Software
 
-You will need to install the [OpenRefine](http://openrefine.org/index.html) software. This is free and available for Windows and Mac OSX.
+You will need to install the [OpenRefine](http://openrefine.org/index.html) software. This is free and available for Windows and Mac OSX. Download links are provided below:-
 
 - [Windows Download](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-win-2.8.zip)
 - [Mac Download](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-mac-2.8.dmg)
