@@ -69,7 +69,7 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Course Data
 
-- [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.txt) - Right-click on link and select Save Link As…
+- [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.csv) - Right-click on link and select Save Link As…
 
 ## Timetable (provisional)
 
