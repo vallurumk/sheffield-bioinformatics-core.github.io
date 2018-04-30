@@ -73,10 +73,10 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Timetable and Links to Materials
 
-- 13:00 - 13:15 Course Overview 
+- 13:00 - 13:15 [Course Overview](http://jcope.shef.ac.uk/talks/intro-to-rdm.html)
 - 13:15 - 13:45 [Data Formatting](https://sheffield-bioinformatics-core.github.io/data-formatting/#/)
 - 13:45 - 14:45 [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
-- 15:00 - 16:30 File Management and Data Sharing at The University of Sheffield
+- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield](https://drive.google.com/open?id=13SaWkb1AcfYs1T2JAYDcW3aLsDz1zwVs)
 
 ## Feedback
 
