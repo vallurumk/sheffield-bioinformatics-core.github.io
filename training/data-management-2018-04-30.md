@@ -71,7 +71,7 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 - [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.csv) - Right-click on link and select Save Link As…
 
-## Timetable (provisional)
+## Timetable and Links to Materials
 
 - 13:00 - 13:15 Course Overview 
 - 13:15 - 13:45 [Data Formatting](https://sheffield-bioinformatics-core.github.io/data-formatting/#/)
@@ -81,7 +81,7 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Registration 
 
-Registration is open. Please [click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/best-practices-in-research-data-management-for-biological-science) to register for the course
+Registration is now **closed**. If you wish to be kept informed of future dates for this, and other courses, you can sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join).
 
 ## References
 
