@@ -3,8 +3,8 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Introduction to Unix for Bioinformatics
 excerpt: "Introduction to Unix"
-startDate: 2018-05-21
-endDate: 2018-05-21
+startDate: 
+endDate: 
 startTime: 09.30
 endTime: 17.00
 city: sheffield
@@ -17,7 +17,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 21st May 2018
+- Sheffield - Date to be confirmed...
 - 09:30am - 5pm
 - Pam Liversidge Design Studio 1 - E06
 
@@ -63,4 +63,4 @@ This course offers an introduction to working with Linux. We will describe the L
 
 ## Registration 
 
-Registration is open. [Click here](https://onlineshop.shef.ac.uk/conferences-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-unix-for-bioinformatics) to sign-up
+A link to register for the course will appear here...
