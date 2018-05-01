@@ -13,7 +13,7 @@ The Sheffield Bioinformatics Core Facility aims to develop and advance the train
 
 We offer the following services:
 - Experimental Design
-- High-Throuput Next Generation Sequecning (NGS) Analysis
+- High-Throuput Next Generation Sequencing (NGS) Analysis
 - Clinical Bioinformatics Services
 - Clinical Bioinformatics Consulting
 - Microarray Analysis
