@@ -28,6 +28,7 @@ Other researchers / Core facilities that we collaborate with and share resources
 - [Cancer Research Uk Cambridge Institute Bioinformatics Core](http://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core)
 - [Bioinformatics Training Program of the University of Cambridge](https://bioinfotraining.bio.cam.ac.uk/)
 - [Harvard Chan Bioinformatics Core](http://bioinformatics.sph.harvard.edu/)
+- [Rockefeller University Bioinformatics](http://rockefelleruniversity.github.io/)
 
 ## Software
 
