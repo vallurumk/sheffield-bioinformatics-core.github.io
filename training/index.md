@@ -11,10 +11,11 @@ To be the first to hear about our training course program and for other core new
 ## 2018
 
 - Introduction to Unix for Bioinformatics, **Postponed**
+- Introduction to Statistical Analysis, 18th June, **Postponed**
 - Introduction to identifying and characterising variants from NGS data, 4th/5th June,
   + For more information [click here](http://sbc.shef.ac.uk/training/variants-introduction-2018-06-04/)
   + **Booking now**; [click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
-- Introduction to Statistical Analysis, 18th June, **Booking soon**
+
 - Analysis of RNA-seq Data in R, 9th/10th July, **Booking soon**
 
 ## Past Courses
