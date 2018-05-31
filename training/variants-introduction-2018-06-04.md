@@ -60,6 +60,7 @@ Healthcare providers and researchers who want to get an appreciation for how var
 - Dr Mark Dunning, Bioinformatics Core Director
 - Dr Matthew Parker, Clinical Bioinformatics Core Scientist
 - Dr Dennis Wang, Lecturer in Genomic Medicine
+- Christine Hicks, Sheffield Children's Hospital
 
 ## Timetable (provisional)
 
