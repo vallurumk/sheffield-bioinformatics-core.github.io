@@ -65,17 +65,22 @@ Healthcare providers and researchers who want to get an appreciation for how var
 
 Monday 4th June
 
-- 09:30 - 12:30 Overview of sequencing reads and alignment
-- 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 15:00 Overview of tools for variant calling
-- 15:00 - 17:00 Variant Annotation
+- 09:30 - 09:40 Introduction to course and Learning Objectives
+- 09:40 - 10:15 Overview of NGS
+- 10:15 - 10:45 Introduction to Galaxy
+- 11:00 - 12:45 [Fastq files and alignment Practical](http://sbc.shef.ac.uk/ngs-in-galaxy/)
+- 12:45 - 13:45 LUNCH (not provided)
+- 13:45 - 14:30 Viewing Alignments in IGV
+- 14:30 - 15:30 Variant Calling and VCF files
+- 15:30 - 17:00 Variant Calling in Galaxy
 
 Tuesday 5th June
 
-- 09:30 - 10:30 Best practices for variant interpretation
-- 10:30 - 12:30 Filtering and Prioritisation of variants
+- 09:30 - 09:40 Overview of Day 1
+- 09:40 - 10:45 Variant Interpretation
+- 11:00 - 12:30 Variant Annotation
 - 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 15:30 Clinical Interpretation
+- 13:30 - 15:30 Variant Interpretation in a Clinical labroratory
 - 15:30 - 17:00 Case studies
 
 
