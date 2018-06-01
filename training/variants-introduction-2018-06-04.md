@@ -57,8 +57,8 @@ Healthcare providers and researchers who want to get an appreciation for how var
 
 ## Instructors
 
-- Dr Mark Dunning, Bioinformatics Core Director
 - Dr Matthew Parker, Clinical Bioinformatics Core Scientist
+- Dr Mark Dunning, Bioinformatics Core Director
 - Dr Dennis Wang, Lecturer in Genomic Medicine
 - Christine Hicks, Sheffield Children's Hospital
 
@@ -66,23 +66,25 @@ Healthcare providers and researchers who want to get an appreciation for how var
 
 Monday 4th June
 
-- 09:30 - 09:40 Introduction to course and Learning Objectives
+- 09:30 - 09:40 [Introduction to course and Learning Objectives](https://drive.google.com/file/d/1hCeSIh0jJMffohJMLXrEG2DFBtfa7YcQ/view?usp=sharing)
 - 09:40 - 10:15 Overview of NGS
-- 10:15 - 10:45 Introduction to Galaxy
+- 10:15 - 10:45 [Introduction to Galaxy](https://drive.google.com/file/d/1zkCDMZ7XV_XC2OAgIK1KwKc7zJ-Y3KN2/view?usp=sharing)
 - 11:00 - 12:45 [Fastq files and alignment Practical](http://sbc.shef.ac.uk/ngs-in-galaxy/)
 - 12:45 - 13:45 LUNCH (not provided)
 - 13:45 - 14:30 Viewing Alignments in IGV
 - 14:30 - 15:30 Variant Calling and VCF files
 - 15:30 - 17:00 Variant Calling in Galaxy
+- 17:00 [Day 1 Wrap-up](https://drive.google.com/file/d/1B41hBSSUmyGZG7USucjrMhzC35pRw8Ol/view?usp=sharing)
 
 Tuesday 5th June
 
-- 09:30 - 09:40 Overview of Day 1
+- 09:30 - 09:40 [Overview of Day 1](https://drive.google.com/file/d/1zKooBCXXou-TNR2m7J83fNCR6MBd2tj7/view?usp=sharing)
 - 09:40 - 10:45 Variant Interpretation
-- 11:00 - 12:30 Variant Annotation
+- 11:00 - 12:30 [Variant Annotation](https://drive.google.com/file/d/16OflFWGSYehbCeWXfK0a-R97qDXWnO45/view?usp=sharing)
 - 12:30 - 13:30 LUNCH (not provided)
 - 13:30 - 15:30 Variant Interpretation in a Clinical labroratory
-- 15:30 - 17:00 Case studies
+- 15:30 - 17:00 [Case studies](https://drive.google.com/file/d/1TEp5Cy1KHhYUgA-ViaMoI07ho5AS3cCw/view?usp=sharing)
+- 17:00 [Day 2 and Course Wrap-up](https://drive.google.com/file/d/1XDTRNCJE1knNaMQ3R291a_Q20ycRRIue/view?usp=sharing)
 
 
 ## Registration 
