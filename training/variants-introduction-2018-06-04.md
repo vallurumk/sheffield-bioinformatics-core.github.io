@@ -67,7 +67,7 @@ Healthcare providers and researchers who want to get an appreciation for how var
 Monday 4th June
 
 - 09:30 - 09:40 [Introduction to course and Learning Objectives](https://drive.google.com/file/d/1hCeSIh0jJMffohJMLXrEG2DFBtfa7YcQ/view?usp=sharing)
-- 09:40 - 10:15 Overview of NGS
+- 09:40 - 10:15 [Overview of NGS](https://drive.google.com/file/d/1pRM__4fZNRCorSNgJtAL-5Ga1cRLG3k2/view?usp=sharing)
 - 10:15 - 10:45 [Introduction to Galaxy](https://drive.google.com/file/d/1zkCDMZ7XV_XC2OAgIK1KwKc7zJ-Y3KN2/view?usp=sharing)
 - 11:00 - 12:45 [Fastq files and alignment Practical](http://sbc.shef.ac.uk/ngs-in-galaxy/)
 - 12:45 - 13:45 LUNCH (not provided)
