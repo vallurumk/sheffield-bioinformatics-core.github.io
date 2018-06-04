@@ -72,14 +72,14 @@ Monday 4th June
 - 11:00 - 12:45 [Fastq files and alignment Practical](http://sbc.shef.ac.uk/ngs-in-galaxy/)
 - 12:45 - 13:45 LUNCH (not provided)
 - 13:45 - 14:30 Viewing Alignments in IGV
-- 14:30 - 15:30 Variant Calling and VCF files
-- 15:30 - 17:00 Variant Calling in Galaxy
+- 14:30 - 15:30 [Variant Calling and VCF files](https://drive.google.com/drive/folders/17OnA8fhvq8JXHVFZZ0T2jFJSGeW3t3TT)
+- 15:30 - 17:00 [Variant Calling in Galaxy](https://drive.google.com/drive/folders/17OnA8fhvq8JXHVFZZ0T2jFJSGeW3t3TT)
 - 17:00 [Day 1 Wrap-up](https://drive.google.com/file/d/1B41hBSSUmyGZG7USucjrMhzC35pRw8Ol/view?usp=sharing)
 
 Tuesday 5th June
 
 - 09:30 - 09:40 [Overview of Day 1](https://drive.google.com/file/d/1zKooBCXXou-TNR2m7J83fNCR6MBd2tj7/view?usp=sharing)
-- 09:40 - 10:45 Variant Interpretation
+- 09:40 - 10:45 [Variant Interpretation](https://drive.google.com/drive/folders/1CLAe7o1Lgj4h1YUJM7bwpGE0qKpf7NJg)
 - 11:00 - 12:30 [Variant Annotation](https://drive.google.com/file/d/16OflFWGSYehbCeWXfK0a-R97qDXWnO45/view?usp=sharing)
 - 12:30 - 13:30 LUNCH (not provided)
 - 13:30 - 15:30 Variant Interpretation in a Clinical labroratory
