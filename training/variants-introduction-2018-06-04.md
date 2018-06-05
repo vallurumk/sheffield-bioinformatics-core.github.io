@@ -82,7 +82,7 @@ Tuesday 5th June
 - 09:40 - 10:45 [Variant Interpretation](https://drive.google.com/drive/folders/1CLAe7o1Lgj4h1YUJM7bwpGE0qKpf7NJg)
 - 11:00 - 12:30 [Variant Annotation](https://drive.google.com/file/d/16OflFWGSYehbCeWXfK0a-R97qDXWnO45/view?usp=sharing)
 - 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 15:30 Variant Interpretation in a Clinical labroratory
+- 13:30 - 15:30 [Variant Interpretation in a Clinical labroratory](https://drive.google.com/file/d/1pqS-Wu6YNpqGzckk-Fmgikh5zktxOslA/view?usp=sharing)
 - 15:30 - 17:00 [Case studies](https://drive.google.com/file/d/1TEp5Cy1KHhYUgA-ViaMoI07ho5AS3cCw/view?usp=sharing)
 - 17:00 [Day 2 and Course Wrap-up](https://drive.google.com/file/d/1XDTRNCJE1knNaMQ3R291a_Q20ycRRIue/view?usp=sharing)
 
