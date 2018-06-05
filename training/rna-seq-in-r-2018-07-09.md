@@ -71,21 +71,11 @@ Day 1
 
 Day 2
 
-- 12:30 - 13:30 LUNCH
-
-
 - 09:30 - 11:00 Counting and quality assessment
 - 11:00 - 12:30 Quality assessment and pre-processing for RNA-seq
-LUNCH
+- 12:30 - 13:30 LUNCH
 - 13:30 - 15:30 Differential Expression
 - 15:30 - 17:00 Gene set testing
-
-
-- Counting
-- Quality asessement and normalisation
-- Differential Expression
-- Gene set testing
-
 
 
 ## Registration 
