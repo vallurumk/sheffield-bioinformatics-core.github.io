@@ -63,12 +63,29 @@ Researchers in life sciences who want to get an appreciation for the computation
 ## Timetable (provisional)
 
 Day 1
-
+- 09:30 - 12:30 Introduction to R
 - 12:30 - 13:30 LUNCH
+- 13:30 - 14:30 Introduction to R (continued)
+- 14:30 - 15:30 Introduction to RNA-seq and experimental design
+- 15:30 - 17:00 Introduction to the command line
 
 Day 2
 
 - 12:30 - 13:30 LUNCH
+
+
+- 09:30 - 11:00 Counting and quality assessment
+- 11:00 - 12:30 Quality assessment and pre-processing for RNA-seq
+LUNCH
+- 13:30 - 15:30 Differential Expression
+- 15:30 - 17:00 Gene set testing
+
+
+- Counting
+- Quality asessement and normalisation
+- Differential Expression
+- Gene set testing
+
 
 
 ## Registration 
