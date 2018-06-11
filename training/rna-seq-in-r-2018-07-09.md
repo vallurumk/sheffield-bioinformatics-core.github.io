@@ -11,7 +11,7 @@ city: sheffield
 postcode: S1 3JD
 country: United Kingdom
 venue: Pam Liversidge Design Studio 1 - D06
-description: "In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESeq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.."
+description: "In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the edgeR analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.."
 keywords: bioinformatics, NGS, RNA-seq, R
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
@@ -44,7 +44,7 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 - RNA sequencing technology and considerations on experiment design
 - Sources of variation in RNA-seq data
-- Differential expression analysis using edgeR and DEseq
+- Differential expression analysis using edgeR and DEseq2
 - Annotation resources in Bioconductor
 - Identifying over-represented gene sets among a list of differentially expressed genes 
     
