@@ -12,7 +12,9 @@ To be the first to hear about our training course program and for other core new
 
 - Introduction to Unix for Bioinformatics, **Postponed**
 - Introduction to Statistical Analysis, 18th June, **Postponed**
-- Analysis of RNA-seq Data in R, 9th/10th July, **Booking soon**
+- Analysis of RNA-seq Data in R, 9th/10th July
+  + [Click here](http://sbc.shef.ac.uk/training/rna-seq-in-r-2018-07-09/) for more information
+  + [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-analysing-rnaseq-data-in-r) to book
 
 ## Past Courses
 
