@@ -67,18 +67,18 @@ Day 1
 - 12:30 - 13:30 LUNCH
 - 13:30 - 14:30 Introduction to R (continued)
 - 14:30 - 15:30 Introduction to RNA-seq and experimental design
-- 15:30 - 17:00 Introduction to the command line
+- 15:30 - 17:00 Alignment and counting
 
 Day 2
 
-- 09:30 - 11:00 Counting and quality assessment
-- 11:00 - 12:30 Quality assessment and pre-processing for RNA-seq
+- 09:30 - 11:00 Quality assessment and pre-processing for RNA-seq
+- 11:00 - 12:30 Differential Expression
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 Differential Expression
+- 13:30 - 15:30 Annotation and Visualisation of RNA-seq results
 - 15:30 - 17:00 Gene set testing
 
 
 ## Registration 
 
-Registration is opening soon
+[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-analysing-rnaseq-data-in-r) to book a place on the course
 
