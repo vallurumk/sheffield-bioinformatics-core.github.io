@@ -31,7 +31,7 @@ The first day of the workshop will include an introduction to the R language.
 
 ## Who should attend this course?
 
-Researchers in life sciences who want to get an appreciation for the computational steps involved in RNA-seq analysis, but not neccesarily wishing to execute the pipeline for themselves. 
+Researchers in life sciences who want to get an appreciation for the computational steps involved in RNA-seq analysis, and how to execute best-practice RNA-seq workflows in R.
 
 ## Objectives:- After this course you should be able to:
 
