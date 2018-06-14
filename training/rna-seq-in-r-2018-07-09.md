@@ -55,8 +55,9 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 ## Instructors
 
-- Mark Dunning, Bioinformatics Core Director
-- To be confirmed
+- Dr. Mark Dunning, Bioinformatics Core Director
+- Dr. Matthew Parker, Clinical Bioinformatics Core Scientist
+- Katjuša Koler, PhD Student, Hide Lab, (SITraN)
 
 ## Course Data
 
