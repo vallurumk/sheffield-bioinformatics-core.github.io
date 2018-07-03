@@ -48,10 +48,20 @@ Researchers in life sciences who want to get an appreciation for the computation
 - Annotation resources in Bioconductor
 - Identifying over-represented gene sets among a list of differentially expressed genes 
     
-
-
 ## Software installation
+You will need to bring an internet-enabled laptop to the course and install the latest versions of both R ***and*** RStudio before coming to the course
 
+### Windows
+
+Install R by downloading and running [this .exe](http://cran.r-project.org/bin/windows/base/release.htm) file from CRAN. Also, please download and run the [RStudio installer for Windows](https://www.rstudio.com/products/rstudio/download/#download). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select “Run as administrator” instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
+
+### Mac
+
+Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/macosx/R-latest.pkg) file from CRAN. Also, please download and run [the RStudio installer for Mac](https://www.rstudio.com/products/rstudio/download/#download) - choosing the 
+
+### Linux
+
+You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please download and run the [RStudio installer](https://www.rstudio.com/products/rstudio/download/#download).
 
 ## Instructors
 
