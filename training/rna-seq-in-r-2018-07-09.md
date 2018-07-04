@@ -57,7 +57,7 @@ Install R by downloading and running [this .exe](http://cran.r-project.org/bin/w
 
 ### Mac
 
-Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/macosx/R-latest.pkg) file from CRAN. Also, please download and run [the RStudio installer for Mac](https://www.rstudio.com/products/rstudio/download/#download) - choosing the 
+Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/macosx/R-latest.pkg) file from CRAN. Also, please download and run [the RStudio installer for Mac](https://www.rstudio.com/products/rstudio/download/#download)
 
 ### Linux
 
