@@ -83,6 +83,8 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Course Data
 
+The data and markdown files for this course can be downloaded from google drive using [this link](https://drive.google.com/file/d/1TWuyCc10biSkvN2x_ONemzuO_ENkWHof/view?usp=sharing)
+
 ## Timetable (provisional)
 
 Day 1
