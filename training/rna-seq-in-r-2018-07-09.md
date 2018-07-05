@@ -29,6 +29,14 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 The first day of the workshop will include an introduction to the R language.
 
+## Acknowledgements
+
+This course is based on the course [RNAseq analysis in R](http://combine-australia.github.io/2016-05-11-RNAseq/) originally prepared by [Combine Australia](https://combine.org.au/) and delivered on May 11/12th 2016 in Carlton. The course was then modified by Cancer Research Uk Cambridge Institute and delivered as part of the [CRUK Functional Genomics Autumn School](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
+
+![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/combine_banner.png)
+
+![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/CRUK_Cambridge_Major%20Centre%20logo.jpg)
+
 ## Who should attend this course?
 
 Researchers in life sciences who want to get an appreciation for the computational steps involved in RNA-seq analysis, and how to execute best-practice RNA-seq workflows in R.
@@ -63,6 +71,10 @@ Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/m
 
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please download and run the [RStudio installer](https://www.rstudio.com/products/rstudio/download/#download).
 
+### Docker
+
+
+
 ## Instructors
 
 - Dr. Mark Dunning, Bioinformatics Core Director
@@ -74,19 +86,19 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Timetable (provisional)
 
 Day 1
-- 09:30 - 12:30 Introduction to R
+- 09:30 - 12:30 [Introduction to R](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 14:30 Introduction to R (continued)
-- 14:30 - 15:30 Introduction to RNA-seq and experimental design
-- 15:30 - 17:00 Alignment and counting
+- 14:30 - 15:30 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/1tJIlz6z4KJ-y-WomOt7va9045BT-ZNNTXo0_wY8TeZE/edit?usp=sharing)
+- 15:30 - 17:00 [Alignment and counting](http://sbc.shef.ac.uk/RNAseq-R/align-and-count.nb.html)
 
 Day 2
 
-- 09:30 - 11:00 Quality assessment and pre-processing for RNA-seq
-- 11:00 - 12:30 Differential Expression
+- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
+- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 Annotation and Visualisation of RNA-seq results
-- 15:30 - 17:00 Gene set testing
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
 
 
 ## Registration 
