@@ -78,8 +78,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Dr. Mark Dunning, Bioinformatics Core Director
-- Dr. Matthew Parker, Clinical Bioinformatics Core Scientist
 - Katjuša Koler, PhD Student, Hide Lab, (SITraN)
+- Vladimir Uzun, PhD Student, Sudbery Lab (MBB)
+- Magdalena B Dabrowska, PhD Student, Sudvery Lab (MBB)
 
 ## Course Data
 
