@@ -80,11 +80,12 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Dr. Mark Dunning, Bioinformatics Core Director
 - Katjuša Koler, PhD Student, Hide Lab, (SITraN)
 - Vladimir Uzun, PhD Student, Sudbery Lab (MBB)
-- Magdalena B Dabrowska, PhD Student, Sudvery Lab (MBB)
+- Magdalena B Dabrowska, PhD Student, Sudbery Lab (MBB)
 
 ## Course Data
 
-The data and markdown files for this course can be downloaded from google drive using [this link](https://drive.google.com/file/d/1TWuyCc10biSkvN2x_ONemzuO_ENkWHof/view?usp=sharing)
+- The R introduction materials can be downloaded [here](r-introduction-2018-07-09.zip)
+- The RNA-seq data and markdown files for this course can be downloaded from google drive using [this link](https://drive.google.com/file/d/1TWuyCc10biSkvN2x_ONemzuO_ENkWHof/view?usp=sharing)
 
 ## Timetable (provisional)
 
