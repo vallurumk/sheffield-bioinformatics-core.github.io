@@ -94,11 +94,11 @@ Day 1
 - 12:30 - 13:30 LUNCH
 - 13:30 - 14:30 Introduction to R (continued)
 - 14:30 - 15:30 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/1tJIlz6z4KJ-y-WomOt7va9045BT-ZNNTXo0_wY8TeZE/edit?usp=sharing)
-- 15:30 - 17:00 [Alignment and counting](http://sbc.shef.ac.uk/RNAseq-R/align-and-count.nb.html)
+- 15:30 - 17:00 [Quality assessment and pre-processing for RNA-seq](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
 
 Day 2
 
-- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
+- 09:30 - 11:00 Quality assessment and pre-processing for RNA-seq - continued
 - 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
