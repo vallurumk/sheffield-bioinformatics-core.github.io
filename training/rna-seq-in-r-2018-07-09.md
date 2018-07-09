@@ -90,10 +90,11 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Timetable (provisional)
 
 Day 1
+- [Preamble](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
 - 09:30 - 12:30 [Introduction to R](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 14:30 Introduction to R (continued)
-- 14:30 - 15:30 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/1tJIlz6z4KJ-y-WomOt7va9045BT-ZNNTXo0_wY8TeZE/edit?usp=sharing)
+- 14:30 - 15:30 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
 - 15:30 - 17:00 [Quality assessment and pre-processing for RNA-seq](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
 
 Day 2
