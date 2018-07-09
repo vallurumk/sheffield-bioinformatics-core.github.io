@@ -96,6 +96,7 @@ Day 1
 - 13:30 - 14:30 Introduction to R (continued)
 - 14:30 - 15:30 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
 - 15:30 - 17:00 [Quality assessment and pre-processing for RNA-seq](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
+(Optional - [Alignment and Counting](http://sbc.shef.ac.uk/RNAseq-R/align-and-count.nb.html); **Won't work on Windows**)
 
 Day 2
 
