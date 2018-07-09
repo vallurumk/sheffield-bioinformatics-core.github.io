@@ -106,6 +106,12 @@ Day 2
 - 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
 - 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
 
+## Instructor files
+
+Markdown files created by instructor during the class
+
+- [Introduction](2018-07-09-introduction.Rmd)
+- [gapminder analysis](2018-07-09-gapminder-analysis.Rmd)
 
 ## Registration 
 
