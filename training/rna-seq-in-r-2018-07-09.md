@@ -71,9 +71,6 @@ Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/m
 
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please download and run the [RStudio installer](https://www.rstudio.com/products/rstudio/download/#download).
 
-### Docker
-
-
 
 ## Instructors
 
@@ -110,8 +107,8 @@ Day 2
 
 Markdown files created by instructor during the class
 
-- [Introduction](2018-07-09-introduction.Rmd)
-- [gapminder analysis](2018-07-09-gapminder-analysis.Rmd)
+- [Introduction](http://sbc.shef.ac.uk/training/2018-07-09-introduction.Rmd)
+- [gapminder analysis](http://sbc.shef.ac.uk/training/2018-07-09-gapminder-analysis.Rmd)
 
 ## Registration 
 
