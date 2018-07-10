@@ -119,6 +119,11 @@ Markdown files created by instructor during the class
 - [Introduction](http://sbc.shef.ac.uk/training/2018-07-09-introduction.Rmd)
 - [gapminder analysis](http://sbc.shef.ac.uk/training/2018-07-09-gapminder-analysis.Rmd)
 
+## Feedback
+
+Please use [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeUFmJItMTRZJicq8jwiiqbDwLm4QpP4Cj7tgvLwqYtqE30nw/viewform) to give us feedback on the course and help us improve it for the future.
+
+
 ## Registration 
 
 Registration is now closed. Sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join)to get updates on when the course is running again
