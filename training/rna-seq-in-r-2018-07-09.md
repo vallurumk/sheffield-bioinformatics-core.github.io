@@ -84,6 +84,15 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - The R introduction materials can be downloaded [here](r-introduction-2018-07-09.zip)
 - The RNA-seq data and markdown files for this course can be downloaded from google drive using [this link](https://drive.google.com/file/d/1TWuyCc10biSkvN2x_ONemzuO_ENkWHof/view?usp=sharing)
 
+## Docker
+
+We also have a *docker* container that has all the software packages and data pre-installed. First [install docker](https://www.docker.com/community-edition#/download) and then launch the container with:-
+
+```
+docker run -p 8787:8787 markdunning/rna-seq-r
+```
+In your web browser ```http://localhost:8787``` should show an RStudio session. The username and password are both ```rstduio```.
+
 ## Timetable (provisional)
 
 Day 1
