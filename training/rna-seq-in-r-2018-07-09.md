@@ -118,7 +118,7 @@ Markdown files created by instructor during the class
 
 - [Introduction](http://sbc.shef.ac.uk/training/2018-07-09-introduction.Rmd)
 - [gapminder analysis](http://sbc.shef.ac.uk/training/2018-07-09-gapminder-analysis.Rmd)
-- [RNA-seq analysis](http://sbc.shef.ac.uk/training/2018-07-09/2018-07-10-rna-seq-analysis.Rmd)
+- [RNA-seq analysis](http://sbc.shef.ac.uk/training/2018-07-10-rna-seq-analysis.Rmd)
 
 ## Feedback
 
