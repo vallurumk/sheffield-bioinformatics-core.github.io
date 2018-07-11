@@ -8,17 +8,17 @@ excerpt: "Details of upcoming and past training courses.."
 
 To be the first to hear about our training course program and for other core news and annoucements please join our mailing list [here](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join). 
 
+You can also tell us about what courses you would like to attend in the future by [filling in this form](http://goo.gl/97fZGt)
+
 ## 2018
 
-- Introduction to Unix for Bioinformatics, **Postponed**
-- Introduction to Statistical Analysis, 18th June, **Postponed**
-- Analysis of RNA-seq Data in R, 9th/10th July **In Progress**
-  + [Click here](http://sbc.shef.ac.uk/training/rna-seq-in-r-2018-07-09/) for more information
+- Timetable under construction. Join our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join) for updates
  
 ## Past Courses
 
 ## 2018
 
+- [Analysi of RNA-seq data in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2018-07-09/), July 9th/10th
 - [Introduction to identifying and characterising variants from NGS data](http://sbc.shef.ac.uk/training/variants-introduction-2018-06-04/), June 4th/5th
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-03-26/), March 26th
 - [Introduction to RNA-seq](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-03-27/), March 27th
