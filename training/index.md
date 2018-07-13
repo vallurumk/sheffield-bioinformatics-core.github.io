@@ -18,7 +18,7 @@ You can also tell us about what courses you would like to attend in the future b
 
 ## 2018
 
-- [Analysi of RNA-seq data in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2018-07-09/), July 9th/10th
+- [Analysis of RNA-seq data in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2018-07-09/), July 9th/10th
 - [Introduction to identifying and characterising variants from NGS data](http://sbc.shef.ac.uk/training/variants-introduction-2018-06-04/), June 4th/5th
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-03-26/), March 26th
 - [Introduction to RNA-seq](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-03-27/), March 27th
