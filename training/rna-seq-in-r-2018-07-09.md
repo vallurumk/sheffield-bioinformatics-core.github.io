@@ -97,28 +97,28 @@ In your web browser ```http://localhost:8787``` should show an RStudio session. 
 
 Day 1
 - [Preamble](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
-- 09:30 - 12:30 [Introduction to R](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html)
+- 09:30 - 12:30 [Introduction to R](http://sbc.shef.ac.uk/workshops/2018-07-09-r/crash-course.nb.html)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 14:30 Introduction to R (continued)
 - 14:30 - 15:30 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
 - 15:30 - 17:00 [Quality assessment and pre-processing for RNA-seq](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
-- (Optional - [Alignment and Counting](http://sbc.shef.ac.uk/RNAseq-R/align-and-count.nb.html); **Won't work on Windows**)
+- (Optional - [Alignment and Counting](http://sbc.shef.ac.uk/workshops/2018-07-10-rna-seq/align-and-count.nb.html); **Won't work on Windows**)
 
 Day 2
 
 - 09:30 - 11:00 Quality assessment and pre-processing for RNA-seq - continued
-- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
+- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/workshops/2018-07-10-rna-seq/rna-seq-de.nb.html)
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
-- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/workshops/2018-07-10-rna-seq/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/workshops/2018-07-10-rna-seq/rna-seq-gene-set-testing.nb.html)
 
 ## Instructor files
 
 Markdown files created by instructor during the class
 
-- [Introduction](http://sbc.shef.ac.uk/training/2018-07-09-introduction.Rmd)
-- [gapminder analysis](http://sbc.shef.ac.uk/training/2018-07-09-gapminder-analysis.Rmd)
-- [RNA-seq analysis](http://sbc.shef.ac.uk/training/2018-07-10-rna-seq-analysis.Rmd)
+- [Introduction](http://sbc.shef.ac.uk/workshops/2018-07-09-r/2018-07-09-introduction.Rmd)
+- [gapminder analysis](http://sbc.shef.ac.uk/workshops/2018-07-09-r/2018-07-09-gapminder-analysis.Rmd)
+- [RNA-seq analysis](http://sbc.shef.ac.uk/workshops/2018-07-10-rna-seq/2018-07-10-rna-seq-analysis.Rmd)
 
 ## Feedback
 
