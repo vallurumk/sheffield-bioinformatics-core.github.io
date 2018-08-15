@@ -17,7 +17,7 @@ You can also tell us about what courses you would like to attend in the future b
 - [Software Carpentry (in association with RSE Sheffield)](), November 26th/27th, Booking soon
 - [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-17-12), [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
  
- ## 2019
+## 2019
  
 - [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-01-14), Booking soon
 
