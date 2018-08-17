@@ -83,11 +83,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- to be confirmed..
+- Anna Krystalli, [Research Software Engineer](http://rse.shef.ac.uk/team)
 
 ## Course Data
-
-- Please download and extract (un-zip) [this zip file](r-introduction-2018-03-26.zip) into the directory on your computer that you wish to work in
 
 ## Timetable (provisional)
 
