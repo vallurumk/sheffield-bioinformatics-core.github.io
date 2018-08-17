@@ -15,7 +15,7 @@ You can also tell us about what courses you would like to attend in the future b
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-09-20), September 20th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r)
 - [Introduction to identifying and characterising variants from NGS data](http://sbc.shef.ac.uk/training/variants-introduction-2018-11-06), November 6th/7th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
 - [Software Carpentry (in association with RSE Sheffield)](), November 26th/27th, Booking soon
-- [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-17-12), [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
+- [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-17-12), December 17th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
  
 ## 2019
  
