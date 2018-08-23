@@ -40,7 +40,6 @@ Researchers in life sciences who want to get started using R for their data anal
 - Import data and plot graphs
 - Create a documented and reproducible piece of R code
 - Know how to develop your skills in R after the course
-- Interrogate and visualise data with Bioconductor packages
 
 ## Aims:- During this course you will learn about:
 
@@ -48,9 +47,9 @@ Researchers in life sciences who want to get started using R for their data anal
 - The many ways to access help about R
 - Basic object types in R
 - Importing tabular data into R
-- Manipulating data in R
+- Manipulating data in R with dplyr
 - Using in-built functions
-- Basic Plotting
+- Basic Plotting in ggplot2
 - Customizing plots
 - Creating reproducible reports in R
 
@@ -58,7 +57,7 @@ Researchers in life sciences who want to get started using R for their data anal
 ## Prerequisites
 
 - No prior programming experience is required, but those attending should be able to use a plain text editor.
-- A very basic knowledge of UNIX would be an advantage, but nothing will be assumed and extremely little will be required.
+
 
 ## Software installation
 
