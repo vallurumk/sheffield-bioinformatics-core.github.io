@@ -96,7 +96,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Registration 
 
-Registration is opening soon..
+Registration is now open. [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r)
 
 ## References
 
