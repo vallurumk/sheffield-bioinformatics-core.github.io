@@ -2,7 +2,7 @@
 layout: post
 title:
 categories: blog
-excerpt: 2018/2019 training programme?
+excerpt: 2018/2019 training programme
 tags: []
 image:
   feature:
