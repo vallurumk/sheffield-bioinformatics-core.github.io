@@ -17,7 +17,7 @@ author: mark_dunning
 
 Our programme of training course for 2018/19 has been announced.
 
-![](images/18_19_training_twitter-01.png)
+![](https://github.com/sheffield-bioinformatics-core/sheffield-bioinformatics-core.github.io/blob/master/images/18_19_training_twitter-01.png)
 
 Some of these courses are already available for booking at the [University of Sheffield online store](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience). You can also check-out our [training page](http://sbc.shef.ac.uk//training/) for more detailed descriptions of the courses.
 
