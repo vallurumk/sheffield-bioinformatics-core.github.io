@@ -86,7 +86,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Course Data
 
-- Please download and extract (un-zip) [this zip file](https://bioinformatics-core-shared-training.github.io/r-crash-course/Course_Data.zip) into the directory on your computer that you wish to work in
+- Please download and extract (un-zip) [this zip file](https://sheffield-bioinformatics-core.github.io/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
 
 ## Timetable (provisional)
 
