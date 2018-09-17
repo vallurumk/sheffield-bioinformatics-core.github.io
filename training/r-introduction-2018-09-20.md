@@ -88,13 +88,18 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Please download and extract (un-zip) [this zip file](https://sheffield-bioinformatics-core.github.io/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
 
+## Materials
+
+- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+
 ## Timetable (provisional)
 
-- 09:30 - 12:30 [Introduction to R](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
-- 12:30 - 13:30 LUNCH
-- 13:30 - 14:30 Introduction to R continued
-- 14:30 - 16:00 [Working reproducibly in R](http://annakrystalli.me/literate-programming/)
-- 16:00 - 17:00 Open discussion and working on your own data
+- 09:30 - 11:00 R basics
+- 11:00 - 12:30 Dealing with Data
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 14:30 Dealing with Data (continued)
+- 14:30 - 16:00 Plotting
+- 16:00 - 17:00 Summarising and joining
 
 ## Registration 
 
