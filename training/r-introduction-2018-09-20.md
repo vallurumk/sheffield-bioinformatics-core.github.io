@@ -90,6 +90,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Materials
 
+- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro-slides.html)
 - [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
 
 ## Timetable (provisional)
