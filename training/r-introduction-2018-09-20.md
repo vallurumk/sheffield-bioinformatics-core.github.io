@@ -108,6 +108,10 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 Registration is now open. [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r)
 
+## Feedback
+
+- Please give us feedback on todays' course using [this form](https://tinyurl.com/sbc-feedback-2018-09-20)
+
 ## References
 
 - [Data Carpentry Spreadsheet Formatting Lessions](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
