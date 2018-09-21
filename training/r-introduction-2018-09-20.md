@@ -106,7 +106,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Registration 
 
-Registration is now open. [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r)
+Registration is now closed. Sign-up to our [maling list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join) to find out when we will run he course again.
 
 ## Feedback
 
