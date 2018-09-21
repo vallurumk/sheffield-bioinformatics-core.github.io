@@ -21,7 +21,34 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Pam Liversidge Design Studio 1 - D06
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+## Course Data
+
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2018-09-20-r/CourseData.zip) into the directory on your computer that you wish to work in
+
+## Materials
+
+- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-09-20-r/intro_slides.html)
+- [Course notes](http://sbc.shef.ac.uk/workshops/2018-09-20-r/crash-course.nb.html)
+
+## Software installation
+
+You will need to bring an internet-enabled laptop to the course and install the latest versions of *both* R ***and*** RStudio before coming to the course
+
+- [R](https://cran.r-project.org/)
+- [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+
+### Windows
+
+Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
+
+### Mac
+
+Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
+
+### Linux
+
+You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please install free [the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download). 
+
 
 ## Overview
 
@@ -59,24 +86,6 @@ Researchers in life sciences who want to get started using R for their data anal
 - No prior programming experience is required, but those attending should be able to use a plain text editor.
 
 
-## Software installation
-
-You will need to bring an internet-enabled laptop to the course and install the latest versions of *both* R ***and*** RStudio before coming to the course
-
-- [R](https://cran.r-project.org/)
-- [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-
-### Windows
-
-Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
-
-### Mac
-
-Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
-
-### Linux
-
-You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please install free [the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download). 
 
 
 ## Instructors
@@ -86,14 +95,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Wenbin Wei, SITraN
 - Manoela Mollinari, Animal and Plant Sciences
 
-## Course Data
-
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2018-09-20-r/CourseData.zip) into the directory on your computer that you wish to work in
-
-## Materials
-
-- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-09-20-r/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/workshops/2018-09-20-r/crash-course.nb.html)
 
 ## Timetable (provisional)
 
@@ -116,5 +117,9 @@ Registration is now closed. Sign-up to our [maling list](https://groups.google.c
 
 - [Data Carpentry Spreadsheet Formatting Lessions](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
 - [Master List of datasets to practice with](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
-- [dplyr cheatsheet]()
-- [ggplot2 cheatsheet]()
+- [Tidyverse website](https://www.tidyverse.org/)
+- [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+- [R graph gallery](https://www.r-graph-gallery.com/0)
+- [Sheffield R meetup](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
+- [R bloggers](https://www.r-bloggers.com/)
