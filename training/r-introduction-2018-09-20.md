@@ -84,16 +84,16 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Mark Dunning, Bioinformatics Core Director
 - Anna Krystalli, [Research Software Engineer](http://rse.shef.ac.uk/contact/team)
 - Wenbin Wei, SITraN
-
+- Manoela Mollinari, Animal and Plant Sciences
 
 ## Course Data
 
-- Please download and extract (un-zip) [this zip file](https://sheffield-bioinformatics-core.github.io/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2018-09-20-r/CourseData.zip) into the directory on your computer that you wish to work in
 
 ## Materials
 
-- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-09-20-r/intro_slides.html)
+- [Course notes](http://sbc.shef.ac.uk/workshops/2018-09-20-r/crash-course.nb.html)
 
 ## Timetable (provisional)
 
@@ -116,3 +116,5 @@ Registration is now closed. Sign-up to our [maling list](https://groups.google.c
 
 - [Data Carpentry Spreadsheet Formatting Lessions](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
 - [Master List of datasets to practice with](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [dplyr cheatsheet]()
+- [ggplot2 cheatsheet]()
