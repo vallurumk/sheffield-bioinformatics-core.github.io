@@ -3,8 +3,8 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Introduction to Statistical Analysis
 excerpt: "Stats Intro"
-startDate: 2018-10-10
-endDate: 2018-10-10
+startDate: 2018-10-24
+endDate: 2018-10-24
 startTime: 11.00
 endTime: 17.00
 city: sheffield
@@ -17,7 +17,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 10th October 2018
+- Sheffield - 24th October 2018
 - 11:00am - 5pm
 - Pam Liversidge Design Studio 2 - E06
 
