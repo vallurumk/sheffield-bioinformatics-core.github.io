@@ -24,9 +24,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Overview
-This course provides a refresher on the foundations of statistical analysis. Practicals are conducted using the ‘Shiny’ package; which provides an accessible interface to the R statistical language.
+This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose an appropriate test for your data and how to interpret the result.
 
-**Note that this is not a course for learning about the R statistical language itself. If you wish to learn more about R, please see other courses at the Sheffield Bioinformatics Core.**
+**Note that this is not a course for learning the R statistical language itself. If you wish to learn more about R, please see other courses at the Sheffield Bioinformatics Core.**
 
 ## Who should attend this course?
 
