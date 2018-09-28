@@ -60,13 +60,13 @@ The course is aimed primarily at scientists at all levels – especially those w
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- [Alison Parton](https://sites.google.com/sheffield.ac.uk/alison-parton/home), Animal and Plant Sciencs
 
 ## Course Materials
 
-- [Lecture Slides](http://sbc.shef.ac.uk/IntroductionToStats/lecture.html)
-- [Online quiz](https://docs.google.com/forms/d/e/1FAIpQLScblQ_-ISfSCGp_EIVPPI_mnrJHttaKxln8vVoyjJFvS8BL1w/viewform)
-- [Practical Session](http://sbc.shef.ac.uk/IntroductionToStats/practical.html)
+- [Lecture Slides]()
+- [Online quiz]()
+- [Practical Session]()
 
 ## Software Requirements
 
