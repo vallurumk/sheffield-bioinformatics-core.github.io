@@ -82,5 +82,5 @@ You will need an internet connection in order to run the practicals and examples
 
 ## Registration 
 
-Registration is opening soon...
+Book your place using [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-statistical-analysis)
 
