@@ -88,4 +88,4 @@ Wednesday 7th November
 
 ## Registration 
 
-Registration is open soon. You can sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join) to get updates on upcoming courses.
+Registration is open. [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data) to book your place.
