@@ -62,6 +62,10 @@ The course is aimed primarily at scientists at all levels – especially those w
 - Mark Dunning, Bioinformatics Core Director
 - [Alison Parton](https://sites.google.com/sheffield.ac.uk/alison-parton/home), Animal and Plant Sciences
 
+## Course Data
+
+Please download and **unzip** this zip file that contains all the data files required for the course [CourseData.zip](https://rawgit.com/sheffield-bioinformatics-core/IntroductionToStats/master/CourseData.zip)
+
 ## Software Requirements
 
 You will need an internet connection in order to run the practicals and examples
