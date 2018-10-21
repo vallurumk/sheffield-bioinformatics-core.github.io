@@ -66,9 +66,16 @@ The course is aimed primarily at scientists at all levels – especially those w
 
 You will need an internet connection in order to run the practicals and examples
 
-- [One sample test app](http://bioinformatics.cruk.cam.ac.uk/apps/stats/OneSampleTest)
-- [Two sample test app](http://bioinformatics.cruk.cam.ac.uk/apps/stats/TwoSampleTest)
-- [Contingency table app](http://bioinformatics.cruk.cam.ac.uk/apps/stats/contingency-table)
+- [One sample test app](https://markdunning.shinyapps.io/OneSampleTest)
+- [Two sample test app](https://markdunning.shinyapps.io/TwoSampleTest/)
+- [Contingency table app](https://markdunning.shinyapps.io/contingency-table)
+
+N.B If the above links are not working, please try the following instead
+
+- [One sample test app](https://bioinformatics.cruk.cam.ac.uk/apps/stats/OneSampleTest/)
+- [Two sample test app](https://bioinformatics.cruk.cam.ac.uk/apps/stats/TwoSampleTest/)
+- [Contingency table app](https://bioinformatics.cruk.cam.ac.uk/apps/stats/contingency-table)
+
 
 ## Timetable (provisional)
 
