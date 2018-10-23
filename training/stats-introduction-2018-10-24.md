@@ -83,17 +83,17 @@ N.B If the above links are not working, please try the following instead
 
 ## Timetable (provisional)
 
-11:00 - 11:45 [Introductory Lecture](http://sbc.shef.ac.uk/IntroductionToStats/lectures/1_intro#1)
-11:45 - 12:00 [Online quiz](https://docs.google.com/forms/d/e/1FAIpQLSdjJsxP9u5U0SGXAkTuQSsFecMrtfvf0m0GgWMKDq5bfLEYTA/viewform)
-12:00 - 12:30 [Lecture on Parametric Tests (1- and 2- sample t-tests for continuous variables)](http://sbc.shef.ac.uk/IntroductionToStats/lectures/2_t_tests#1)
-12:30 - 13:30 Lunch (not provided)
-13:30 - 14:00 [Practical Session 1](http://sbc.shef.ac.uk/IntroductionToStats/practical#parametric-tests)
-14:00 - 14:30 [Lecture on Non-Parametric tests (1- and 2-sample tests)](http://sbc.shef.ac.uk/IntroductionToStats/lectures/3_non_parametric)
-14:30 - 15:00 [Practical Session 2](http://sbc.shef.ac.uk/IntroductionToStats/practical#non-parametric-tests)
-15:00 - 15:15 [Lecture on test for categorical variables](http://sbc.shef.ac.uk/IntroductionToStats/lectures/4_categorical#1)
-15:15 - 15:30 [Practical Session 3](http://sbc.shef.ac.uk/IntroductionToStats/practical#tests-for-categorical-variables)
-15:30 - 16:15 [Group based exercise; choosing appropriate tests](http://sbc.shef.ac.uk/IntroductionToStats/practical#small-group-exercise-choosing-a-test). Please record your observations about the data on this [interactive document](https://public.etherpad-mozilla.org/p/2018-10-24-intro-to-stats)
-16:15 - [Wrap-up and summary](http://sbc.shef.ac.uk/IntroductionToStats/lectures/4_categorical#22)
+- 11:00 - 11:45 [Introductory Lecture](http://sbc.shef.ac.uk/IntroductionToStats/lectures/1_intro#1)
+- 11:45 - 12:00 [Online quiz](https://docs.google.com/forms/d/e/1FAIpQLSdjJsxP9u5U0SGXAkTuQSsFecMrtfvf0m0GgWMKDq5bfLEYTA/viewform)
+- 12:00 - 12:30 [Lecture on Parametric Tests (1- and 2- sample t-tests for continuous variables)](http://sbc.shef.ac.uk/IntroductionToStats/lectures/2_t_tests#1)
+- 12:30 - 13:30 Lunch (not provided)
+- 13:30 - 14:00 [Practical Session 1](http://sbc.shef.ac.uk/IntroductionToStats/practical#parametric-tests)
+- 14:00 - 14:30 [Lecture on Non-Parametric tests (1- and 2-sample tests)](http://sbc.shef.ac.uk/IntroductionToStats/lectures/3_non_parametric)
+- 14:30 - 15:00 [Practical Session 2](http://sbc.shef.ac.uk/IntroductionToStats/practical#non-parametric-tests)
+- 15:00 - 15:15 [Lecture on test for categorical variables](http://sbc.shef.ac.uk/IntroductionToStats/lectures/4_categorical#1)
+- 15:15 - 15:30 [Practical Session 3](http://sbc.shef.ac.uk/IntroductionToStats/practical#tests-for-categorical-variables)
+- 15:30 - 16:15 [Group based exercise; choosing appropriate tests](http://sbc.shef.ac.uk/IntroductionToStats/practical#small-group-exercise-choosing-a-test). Please record your observations about the data on this [interactive document](https://public.etherpad-mozilla.org/p/2018-10-24-intro-to-stats)
+- 16:15 - [Wrap-up and summary](http://sbc.shef.ac.uk/IntroductionToStats/lectures/4_categorical#22)
 
 
 
