@@ -8,9 +8,13 @@ To be the first to hear about our training course program and for other core new
 
 You can also tell us about what courses you would like to attend in the future by [filling in this form](http://goo.gl/97fZGt)
 
+## Bursaries Available
+
+We have a limited number of bursaries available for our upcoming courses funded by a grant from Health Education England. [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdNIWfgFD9WUiq4wDa-8kNDyhpkAh8VgtvzjlctY2dnldfo7A/viewform) to apply.
+
 ## 2018
 
-- [Introduction to identifying and characterising variants from NGS data](http://sbc.shef.ac.uk/training/variants-introduction-2018-11-06), November 6th/7th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
+- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2018-11-06), November 6th/7th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
 - [Software Carpentry (in association with RSE Sheffield / Sheffield University Library, Sheffield CiCS)](https://rse.shef.ac.uk/training/carpentry/), November 26th/27th, Booking soon
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10), December 10th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r).
 - [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-12-17), December 17th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
