@@ -1,7 +1,7 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Introduction to identifying and characterising variants from NGS data
+title: Introduction to Genomic Variant Interpretation
 excerpt: "Intro to Variants"
 startDate: 2018-11-06
 endDate: 2018-11-07
@@ -24,6 +24,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.712925739254!2d-1.4909138840310832!3d53.38418577957716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9+House%2C+Sheffield!5e0!3m2!1sen!2suk!4v1533301984260" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Overview
+
+*Please note that the title of the course has changed from previously advertised, but the contents are still the same*
 
 Healthcare systems around the globe are transforming medical practice to incorporate genetic variation as a vital information used for diagnosis and treatment planning. Genome sequencing technologies allow us to detect all variants in a patient's genome and international collaborative efforts such as The 100,000 Genomes Project, The Cancer Genome Atlas (TCGA) and International Cancer Genome Consortium (ICGC) have begun to catalogue and release data on genomic variation in a variety of disease types.
 
@@ -58,8 +60,7 @@ Healthcare providers and researchers who want to get an appreciation for how var
 ## Instructors
 
 - Dr Matthew Parker, Clinical Bioinformatics Core Scientist
-- Dr Mark Dunning, Bioinformatics Core Director
-- Dr Dennis Wang, Lecturer in Genomic Medicine
+
 
 ## Timetable (provisional)
 
