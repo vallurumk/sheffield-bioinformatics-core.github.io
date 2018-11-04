@@ -60,6 +60,7 @@ Healthcare providers and researchers who want to get an appreciation for how var
 ## Instructors
 
 - Dr Matthew Parker, Clinical Bioinformatics Core Scientist
+- Dr Dennis Wang, Bioinformatics Lecturer
 
 
 ## Timetable (provisional)
