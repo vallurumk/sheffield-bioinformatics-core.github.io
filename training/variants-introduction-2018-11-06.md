@@ -69,7 +69,7 @@ Tuesday 6th November
 - 09:30 - 09:40 [Introduction to course and Learning Objectives]()
 - 09:40 - 10:15 [Overview of NGS]()
 - 10:15 - 10:45 [Introduction to Galaxy]()
-- 11:00 - 12:45 [Fastq files and alignment Practical]()
+- 11:00 - 12:45 [Fastq files and alignment Practical](http://sbc.shef.ac.uk/ngs-in-galaxy/)
 - 12:45 - 13:45 LUNCH (not provided)
 - 13:45 - 14:30 Viewing Alignments in IGV
 - 14:30 - 15:30 [Variant Calling and VCF files]()
