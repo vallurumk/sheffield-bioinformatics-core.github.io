@@ -14,7 +14,6 @@ We have a limited number of bursaries available for our upcoming courses funded 
 
 ## 2018
 
-- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2018-11-06), November 6th/7th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-identifying-and-characterising-variants-from-ngs-data)
 - [Software Carpentry (in association with RSE Sheffield / Sheffield University Library, Sheffield CiCS)](https://rse.shef.ac.uk/training/carpentry/), November 26th/27th, Booking soon
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10), December 10th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r).
 - [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-12-17), December 17th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
@@ -26,7 +25,7 @@ We have a limited number of bursaries available for our upcoming courses funded 
 ## Past Courses
 
 ## 2018
-
+- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2018-11-06), November 6th/7th
 - [Introduction to Statistical Analysis](http://sbc.shef.ac.uk/training/stats-introduction-2018-10-24), October 24th
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-09-20), September 20th
 - [Analysis of RNA-seq data in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2018-07-09/), July 9th/10th
