@@ -14,7 +14,6 @@ We have a limited number of bursaries available for our upcoming courses funded 
 
 ## 2018
 
-- [Software Carpentry (in association with RSE Sheffield / Sheffield University Library, Sheffield CiCS)](http://sbc.shef.ac.uk/2018-11-26-sheffield/), November 26th/27th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/software-carpentry)
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10), December 10th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r).
 - [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-12-17), December 17th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
  
