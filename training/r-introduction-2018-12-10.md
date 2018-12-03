@@ -82,7 +82,8 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- Anna Krystalli, [Research Software Engineer](http://rse.shef.ac.uk/contact/team)
+- Sokratis Kariotis, PhD Student, Wang lab
+- Nimah Errington, PhD Student, Wang lab
 
 ## Timetable (provisional)
 
@@ -95,7 +96,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Registration 
 
-Registration is starting start..
+Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r).
 
 
 ## Course Data
