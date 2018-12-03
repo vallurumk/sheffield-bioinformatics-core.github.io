@@ -69,11 +69,11 @@ You will need to bring an internet-enabled laptop to the course and install the 
 
 ### Windows
 
-Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). 
+Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio Desktop IDE](https://download1.rstudio.org/RStudio-1.1.463.exe). 
 
 ### Mac
 
-Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
+Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio Desktop IDE](https://download1.rstudio.org/RStudio-1.1.463.dmg) 
 
 ### Linux
 
