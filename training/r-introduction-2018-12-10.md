@@ -85,7 +85,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Mark Dunning, Bioinformatics Core Director
 - Sokratis Kariotis, PhD Student, Wang lab
-- Nimah Errington, PhD Student, Wang lab
+- Niamh Errington, PhD Student, Wang lab
 
 ## Timetable (provisional)
 
