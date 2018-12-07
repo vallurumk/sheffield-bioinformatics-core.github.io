@@ -56,15 +56,17 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- Sokratis Kariotis, PhD Student, Wang lab
+- Niamh Errington, PhD Student, Wang lab
+
 ## Course Data
 
 ## Timetable (provisional)
 
-- 09:30 - 10:30 [Introduction to RNA-seq and experimental design]()
-- 10:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, alignment and differential expression]()
+- 09:30 - 10:00 [Introduction to RNA-seq and experimental design]()
+- 10:00 - 12:30 [Hands-on tutorial on RNA-seq data formats, QA and alignment]()
 LUNCH
-- 13:30 - 14:30 Tutorial continued
+- 13:30 - 14:30 [Tutorial continued](Differential Expression)
 - 14:30 - 17:00 [Hands-on tutorial on gene set enrichment]()
 
 
