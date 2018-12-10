@@ -33,6 +33,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 - [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
 - [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
 
+## Feedback
+
+Please give your feedback on the course using [this link](https://docs.google.com/forms/d/e/1FAIpQLScvERpPoeg96dFRz5qM7J2IZgsDCeZP8qJP12ybfePEHtAFgw/viewform).
 
 ## Overview
 
@@ -108,7 +111,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Registration 
 
-Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r).
+Registration is now closed.
 
 
 ## References
