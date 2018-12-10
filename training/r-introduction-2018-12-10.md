@@ -24,6 +24,16 @@ contact: bioinformatics-core@sheffield.ac.uk
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
+## Course Data
+
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
+
+## Materials
+
+- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
+- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+
+
 ## Overview
 
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research.
@@ -99,16 +109,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Registration 
 
 Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-r).
-
-
-## Course Data
-
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
-
-## Materials
-
-- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
 
 
 ## References
