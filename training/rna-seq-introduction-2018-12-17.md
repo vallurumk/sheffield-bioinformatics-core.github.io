@@ -31,6 +31,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 13:30 - 14:30 [Differential Expression](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
 - 14:30 - 16:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
 
+## Feedback
+
+Please leave us feedback on today's course using [this link](https://docs.google.com/forms/d/e/1FAIpQLSe68aofeP5Kso4Z3DWaUrsGHWb2KhjyL6oNlWzql0kySCFVMA/viewform)
 
 ## Overview
 
