@@ -23,6 +23,15 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.6502641679717!2d-1.4835925589425!3d53.381301664196606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797881e28b3e81%3A0x611c9522ca2169ed!2sThe+Diamond!5e0!3m2!1sen!2suk!4v1533302104527" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+## Timetable (provisional)
+
+- 09:30 - 10:00 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
+- 10:00 - 12:30 [Hands-on tutorial on RNA-seq data formats, QA and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
+- LUNCH
+- 13:30 - 14:30 [Differential Expression](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
+- 14:30 - 16:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
+
+
 ## Overview
 
 High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing, and what data you should expect to receive from the Bioinformatics Core.
@@ -60,14 +69,6 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 - Niamh Errington, PhD Student, Wang lab
 
 ## Course Data
-
-## Timetable (provisional)
-
-- 09:30 - 10:00 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
-- 10:00 - 12:30 [Hands-on tutorial on RNA-seq data formats, QA and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
-- LUNCH
-- 13:30 - 14:30 [Differential Expression](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
-- 14:30 - 16:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
 
 
 ## Registration 
