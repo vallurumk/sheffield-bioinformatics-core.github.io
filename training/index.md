@@ -12,10 +12,6 @@ You can also tell us about what courses you would like to attend in the future b
 
 We have a limited number of bursaries available for our upcoming courses funded by a grant from Health Education England. [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdNIWfgFD9WUiq4wDa-8kNDyhpkAh8VgtvzjlctY2dnldfo7A/viewform) to apply.
 
-## 2018
-
-- [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-12-17), December 17th, [**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq)
- 
 ## 2019
  
 - [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-01-14), January 14th/15th,[**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-analysing-rnaseq-data-in-r-january-2019)
@@ -23,6 +19,8 @@ We have a limited number of bursaries available for our upcoming courses funded 
 ## Past Courses
 
 ## 2018
+
+- [Introduction to RNA-seq in Galaxy](http://sbc.shef.ac.uk/training/rna-seq-introduction-2018-12-17), December 17th
 - [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10), December 10th
 - [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2018-11-06), November 6th/7th
 - [Introduction to Statistical Analysis](http://sbc.shef.ac.uk/training/stats-introduction-2018-10-24), October 24th
