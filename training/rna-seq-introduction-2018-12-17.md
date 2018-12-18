@@ -26,10 +26,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 ## Timetable (provisional)
 
 - 09:30 - 10:00 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
-- 10:00 - 12:30 [Hands-on tutorial on RNA-seq data formats, QA and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
+- 10:00 - 12:30 [Hands-on tutorial on RNA-seq data formats, QA and alignment](http://sbc.shef.ac.uk/workshops/2018-12-17-rna-seq/01-pre-processing.nb.html)
 - LUNCH
-- 13:30 - 14:30 [Differential Expression](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
-- 14:30 - 16:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
+- 13:30 - 14:30 [Differential Expression](http://sbc.shef.ac.uk/workshops/2018-12-17-rna-seq//02-differential-expression.nb.html)
+- 14:30 - 16:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/workshops/2018-12-17-rna-seq/03-enrichment.nb.html)
 
 ## Feedback
 
