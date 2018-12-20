@@ -23,7 +23,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.6502641679717!2d-1.4835925589425!3d53.381301664196606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797881e28b3e81%3A0x611c9522ca2169ed!2sThe+Diamond!5e0!3m2!1sen!2suk!4v1533302104527" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## Timetable (provisional)
+## Timetable 
 
 - 09:30 - 10:00 [Introduction to RNA-seq and experimental design](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
 - 10:00 - 12:30 [Hands-on tutorial on RNA-seq data formats, QA and alignment](http://sbc.shef.ac.uk/workshops/2018-12-17-rna-seq/01-pre-processing.nb.html)
