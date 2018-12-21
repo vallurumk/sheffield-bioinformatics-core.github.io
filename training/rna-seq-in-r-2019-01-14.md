@@ -29,7 +29,11 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 ***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reading our [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/) before attending, which should take around 1 hour***
 
+- [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
+
 ***Please also make sure you have experience of using the Unix command line. For example by following a Software Carpentry lesson on the [Unix shell](http://swcarpentry.github.io/shell-novice/), or following the online [command-line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=ghu7d9fl7cn)***
+
+- [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=ghu7d9fl7cn)
 
 ## Acknowledgements
 
