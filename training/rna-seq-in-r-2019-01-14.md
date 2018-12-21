@@ -39,10 +39,6 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 This course is based on the course [RNAseq analysis in R](http://combine-australia.github.io/2016-05-11-RNAseq/) originally prepared by [Combine Australia](https://combine.org.au/) and delivered on May 11/12th 2016 in Carlton. The course was then modified by Cancer Research Uk Cambridge Institute and delivered as part of the [CRUK Functional Genomics Autumn School](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
 
-![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/combine_banner.png)
-
-![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/CRUK_Cambridge_Major%20Centre%20logo.jpg)
-
 ## Who should attend this course?
 
 Researchers in life sciences who want to get an appreciation for the computational steps involved in RNA-seq analysis, and how to execute best-practice RNA-seq workflows in R.
@@ -51,6 +47,7 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 - Design properly your RNA-Seq experiments considering advantages and limitations of RNA-seq assays
 - Assess the quality of your datasets
+
 - Know what tools are available in Bioconductor for RNA-seq data analysis and understand the basic object-types that are utilised
 - Produce a list of differentially expressed genes from an RNA-seq experiment 
 
@@ -58,7 +55,8 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 - RNA sequencing technology and considerations on experiment design
 - Sources of variation in RNA-seq data
-- Differential expression analysis using edgeR and DEseq2
+- Command-line tools for processing raw sequencing files in fastq format
+- Differential expression analysis using DEseq2
 - Annotation resources in Bioconductor
 - Identifying over-represented gene sets among a list of differentially expressed genes 
     
