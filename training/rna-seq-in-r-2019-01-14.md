@@ -27,9 +27,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESEq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.
 
-***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reading our [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/) before attending, which should take around 1 hour***
+***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reading our [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/) before attending, which should take around 2 hours***
 
-- [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
+- [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html)
 
 ***Please also make sure you have experience of using the Unix command line. For example by following a Software Carpentry lesson on the [Unix shell](http://swcarpentry.github.io/shell-novice/), or following the online [command-line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=ghu7d9fl7cn)***
 
