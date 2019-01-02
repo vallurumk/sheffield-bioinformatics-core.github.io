@@ -94,15 +94,14 @@ In your web browser ```http://localhost:8787``` should show an RStudio session. 
 
 Day 1
 - [Preamble](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
-- 09:30 - 10:30 [Introduction to RNA-seq data]()
-- 10:30 - 12:30 [Dealing with raw RNA-seq reads]()
+- 09:30 - 10:00 [Introduction to RNA-seq data]()
+- 10:00 - 12:30 [Introduction to the command line]()
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:00 [Quantifying transcripts with salmon]()
-- 15:00 - 17:00 [Quality assessment and pre-processing]()
-
+- 13:30 - 15:00 [Assessing Read Quality]()
+- 15:00 - 17:00 [Quantifying transcripts with salmon]()
 Day 2
 
-- 09:30 - 11:00 Quality assessment and pre-processing for RNA-seq - continued
+- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq]()
 - 11:00 - 12:30 [Differential Expression]()
 - 12:30 - 13:30 LUNCH
 - 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results]()
