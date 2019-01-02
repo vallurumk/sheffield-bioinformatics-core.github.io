@@ -93,12 +93,15 @@ In your web browser ```http://localhost:8787``` should show an RStudio session. 
 ## Timetable (provisional)
 
 Day 1
-- [Preamble](https://docs.google.com/presentation/d/15OLjTTRniIYADnSU6KS1vfmIa6gVFNWGWory8FUR_8k/edit?usp=sharing)
+
+
 - 09:30 - 10:00 [Introduction to RNA-seq data]()
-- 10:00 - 12:30 [Introduction to the command line]()
+- 10:00 - 10:30 [Practical Setup]()
+- 10:30 - 12:30 [Introduction to the command line]()
 - 12:30 - 13:30 LUNCH
 - 13:30 - 15:00 [Assessing Read Quality]()
 - 15:00 - 17:00 [Quantifying transcripts with salmon]()
+
 Day 2
 
 - 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq]()
