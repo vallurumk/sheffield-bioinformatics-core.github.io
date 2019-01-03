@@ -81,15 +81,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Dr. Mark Dunning, Bioinformatics Core Director
 - to be confirmed
 
-## Docker
-
-We also have a *docker* container that has all the software packages and data pre-installed. First [install docker](https://www.docker.com/community-edition#/download) and then launch the container with:-
-
-```
-docker run -p 8787:8787 markdunning/rna-seq-r
-```
-In your web browser ```http://localhost:8787``` should show an RStudio session. The username and password are both ```rstduio```.
-
 ## Timetable (provisional)
 
 Day 1
@@ -104,7 +95,7 @@ Day 1
 
 Day 2
 
-- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq]()
+- 09:30 - 11:00 [Quality assessment of count data]()
 - 11:00 - 12:30 [Differential Expression]()
 - 12:30 - 13:30 LUNCH
 - 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results]()
