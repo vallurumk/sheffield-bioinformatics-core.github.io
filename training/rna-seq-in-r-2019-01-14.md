@@ -79,7 +79,8 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Dr. Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- Magdalena Dabrowska, PhD Student, MBB
+
 
 ## Timetable (provisional)
 
@@ -90,16 +91,16 @@ Day 1
 - 10:00 - 10:30 [Practical Setup]()
 - 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/)
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:00 [Assessing Read Quality]()
-- 15:00 - 17:00 [Quantifying transcripts with salmon]()
+- 13:30 - 15:00 [Assessing Read Quality](http://sbc.shef.ac.uk/RNAseq-R/read-quality.nb.html)
+- 15:00 - 17:00 [Quantifying transcripts with salmon](http://sbc.shef.ac.uk/RNAseq-R/align-and-quantification.nb.html)
 
 Day 2
 
-- 09:30 - 11:00 [Quality assessment of count data]()
-- 11:00 - 12:30 [Differential Expression]()
+- 09:30 - 11:00 [Quality assessment of count data](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
+- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/de.nb.html)
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results]()
-- 15:30 - 17:00 [Gene set testing]()
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/rna-seq-gene-set-testing.nb.html)
 
 
 ## Feedback
