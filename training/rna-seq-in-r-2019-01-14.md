@@ -97,10 +97,10 @@ Day 1
 Day 2
 
 - 09:30 - 11:00 [Quality assessment of count data](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
-- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/de.nb.html)
+- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/rna-seq-annotation-visualisation.nb.html)
-- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/rna-seq-gene-set-testing.nb.html)
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
 
 
 ## Feedback
