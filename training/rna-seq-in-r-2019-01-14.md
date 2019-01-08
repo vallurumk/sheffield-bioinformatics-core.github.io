@@ -88,7 +88,7 @@ Day 1
 
 
 - 09:30 - 10:00 [Introduction to RNA-seq data]()
-- 10:00 - 10:30 [Practical Setup]()
+- 10:00 - 10:30 [Practical Setup](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
 - 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 15:00 [Assessing Read Quality](http://sbc.shef.ac.uk/RNAseq-R/read-quality.nb.html)
