@@ -28,7 +28,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 ## Materials
 
 - [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-21-10-r/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/workshops/2018-21-10-r//crash-course.nb.html)
+- [Course notes](http://sbc.shef.ac.uk/workshops/2018-12-10-r/crash-course.nb.html)
 
 ## Feedback
 
