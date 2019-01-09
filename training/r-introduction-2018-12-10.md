@@ -23,11 +23,11 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Course Data
 
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2018-21-10-r/CourseData.zip) into the directory on your computer that you wish to work in
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2018-12-10-r/CourseData.zip) into the directory on your computer that you wish to work in
 
 ## Materials
 
-- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-21-10-r/intro_slides.html)
+- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-12-10-r/intro_slides.html)
 - [Course notes](http://sbc.shef.ac.uk/workshops/2018-12-10-r/crash-course.nb.html)
 
 ## Feedback
