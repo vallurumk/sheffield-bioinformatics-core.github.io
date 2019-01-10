@@ -61,7 +61,10 @@ Researchers in life sciences who want to get an appreciation for the computation
 - Identifying over-represented gene sets among a list of differentially expressed genes 
     
 ## Software installation
+
 You will need to bring an internet-enabled laptop to the course and install the latest versions of both R ***and*** RStudio before coming to the course
+
+On the first day of the course, we will provide you with a link to access cloud-based computing resources for the command-line sessions. [See here](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html) for more details.
 
 ### Windows
 
@@ -75,12 +78,16 @@ Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/m
 
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please download and run the [RStudio installer](https://www.rstudio.com/products/rstudio/download/#download).
 
+## Course Data
+
+The data for the second day of the course can be found in [this zip file](http://sbc.shef.ac.uk/RNAseq-R/CourseData.zip). Please download to your laptop and extract to a location that you would like to store your results from the course.
 
 ## Instructors
 
 - Dr. Mark Dunning, Bioinformatics Core Director
 - Magdalena Dabrowska, PhD Student, MBB
-
+- Sokratis Kariotis, PhD Student, Wang lab
+- Niamh Errington, PhD Student, Wang lab
 
 ## Timetable (provisional)
 
