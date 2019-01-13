@@ -94,7 +94,7 @@ The data for the second day of the course can be found in [this zip file](http:/
 Day 1
 
 
-- 09:30 - 10:00 [Introduction to RNA-seq data]()
+- 09:30 - 10:00 [Introduction to RNA-seq data](https://docs.google.com/presentation/d/1Q9FkPORoxkS67051ygIGnIe5tT641ssA40t3j8fdics/edit?usp=sharing)
 - 10:00 - 10:30 [Practical Setup](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
 - 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/#navigating-your-file-system)
 - 12:30 - 13:30 LUNCH
