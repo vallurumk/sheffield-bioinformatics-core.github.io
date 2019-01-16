@@ -33,7 +33,7 @@ Day 1
 
 - 09:30 - 10:00 [Introduction to RNA-seq data](https://docs.google.com/presentation/d/1Q9FkPORoxkS67051ygIGnIe5tT641ssA40t3j8fdics/edit?usp=sharing)
 - 10:00 - 10:30 [Practical Setup](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
-- 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
+- 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/) (Sections Introducing the Shell to Redirection)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 15:00 [Assessing Read Quality](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/read-quality.nb.html)
 - 15:00 - 17:00 [Quantifying transcripts with salmon](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r//align-and-quantification.nb.html)
