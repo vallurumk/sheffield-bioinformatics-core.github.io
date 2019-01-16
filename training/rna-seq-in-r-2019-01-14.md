@@ -21,7 +21,31 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - The Diamond, Workroom 1
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.6502641679717!2d-1.4835925589425!3d53.381301664196606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797881e28b3e81%3A0x611c9522ca2169ed!2sThe+Diamond!5e0!3m2!1sen!2suk!4v1533302104527" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+## Course Data
+
+
+The data for the second day of the course can be found in [this zip file](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/CourseData.zip). Please download to your laptop and extract to a location that you would like to store your results from the course.
+
+## Timetable and Materials
+
+Day 1
+
+
+- 09:30 - 10:00 [Introduction to RNA-seq data](https://docs.google.com/presentation/d/1Q9FkPORoxkS67051ygIGnIe5tT641ssA40t3j8fdics/edit?usp=sharing)
+- 10:00 - 10:30 [Practical Setup](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
+- 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
+- 12:30 - 13:30 LUNCH
+- 13:30 - 15:00 [Assessing Read Quality](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/read-quality.nb.html)
+- 15:00 - 17:00 [Quantifying transcripts with salmon](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r//align-and-quantification.nb.html)
+
+Day 2
+
+- 09:30 - 11:00 [Quality assessment of count data](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-preprocessing.nb.html)
+- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-de.nb.html)
+- 12:30 - 13:30 LUNCH
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-gene-set-testing.nb.html)
+
 
 ## Overview
 
@@ -64,7 +88,7 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 You will need to bring an internet-enabled laptop to the course and install the latest versions of both R ***and*** RStudio before coming to the course
 
-On the first day of the course, we will provide you with a link to access cloud-based computing resources for the command-line sessions. [See here](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html) for more details.
+On the first day of the course, we will provide you with a link to access cloud-based computing resources for the command-line sessions. [See here](http://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/setup.nb.html) for more details.
 
 ### Windows
 
@@ -78,9 +102,7 @@ Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/m
 
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please download and run the [RStudio installer](https://www.rstudio.com/products/rstudio/download/#download).
 
-## Course Data
 
-The data for the second day of the course can be found in [this zip file](http://sbc.shef.ac.uk/RNAseq-R/CourseData.zip). Please download to your laptop and extract to a location that you would like to store your results from the course.
 
 ## Instructors
 
@@ -88,30 +110,6 @@ The data for the second day of the course can be found in [this zip file](http:/
 - Magdalena Dabrowska, PhD Student, MBB
 - Sokratis Kariotis, PhD Student, Wang lab
 - Niamh Errington, PhD Student, Wang lab
-
-## Timetable (provisional)
-
-Day 1
-
-
-- 09:30 - 10:00 [Introduction to RNA-seq data](https://docs.google.com/presentation/d/1Q9FkPORoxkS67051ygIGnIe5tT641ssA40t3j8fdics/edit?usp=sharing)
-- 10:00 - 10:30 [Practical Setup](http://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
-- 10:30 - 12:30 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
-- 12:30 - 13:30 LUNCH
-- 13:30 - 15:00 [Assessing Read Quality](http://sbc.shef.ac.uk/RNAseq-R/read-quality.nb.html)
-- 15:00 - 17:00 [Quantifying transcripts with salmon](http://sbc.shef.ac.uk/RNAseq-R/align-and-quantification.nb.html)
-
-Day 2
-
-- 09:30 - 11:00 [Quality assessment of count data](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
-- 11:00 - 12:30 [Differential Expression](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
-- 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
-- 15:30 - 17:00 [Gene set testing](http://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
-
-
-## Feedback
-
 
 
 ## Registration 
