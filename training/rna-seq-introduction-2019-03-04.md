@@ -25,7 +25,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Overview
 
-**Please note that we will provide some pre-recording lecture material (around 2 hours) for you to watch before the workshop**. The workshop itself will be *hands-on*; working through exercises and watching demonstrations from the lecturers.
+**Please note that we will provide some pre-recording lecture material (around 1.5 hours) for you to watch before the workshop**. The workshop itself will be *hands-on*; working through exercises and watching demonstrations from the lecturers.
 
 High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing, and what data you should expect to receive from the Bioinformatics Core.
 
