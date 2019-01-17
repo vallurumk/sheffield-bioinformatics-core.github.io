@@ -65,7 +65,8 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 
 ## Timetable (provisional)
 
-** Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
+**Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
+Course materials will be linked from here on the day of the course
 
 - 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, alignment and differential expression]()
 LUNCH
@@ -75,5 +76,5 @@ LUNCH
 
 ## Registration 
 
-Registration is opening soon. 
+Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq-march-2019). 
 
