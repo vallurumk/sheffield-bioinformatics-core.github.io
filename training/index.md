@@ -13,10 +13,17 @@ You can also tell us about what courses you would like to attend in the future b
 We have a limited number of bursaries available for our upcoming courses funded by a grant from Health Education England. [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdNIWfgFD9WUiq4wDa-8kNDyhpkAh8VgtvzjlctY2dnldfo7A/viewform) to apply.
 
 ## 2019
- 
-- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-01-14), January 14th/15th,[**Booking now**](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-analysing-rnaseq-data-in-r-january-2019)
+
+- [Introduction to RNA-seq](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-03-04/), March 4th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq-march-2019)
+- Introduction to Cancer Somatic Analysis, May 10th, *Booking soon..*
+- Introduction to Genomic Variant Interpretation, May 30th/31st, *Booking soon..*
+- Introduction to RNA-seq in R, June 24th/25th, *Booking soon..*
 
 ## Past Courses
+
+## 2019
+
+- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-01-14), January 14th/15th
 
 ## 2018
 
