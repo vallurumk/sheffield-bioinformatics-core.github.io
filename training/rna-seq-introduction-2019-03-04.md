@@ -3,8 +3,8 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Introduction to RNA-seq
 excerpt: "Intro to RNA-seq"
-startDate: 2019-04-11
-endDate: 2019-04-11
+startDate: 2019-03-04
+endDate: 2019-03-04
 startTime: 9.30
 endTime: 17.00
 city: sheffield
@@ -17,19 +17,21 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 11th April 2019
+- Sheffield - 4th March 2019
 - 09:30am - 5pm
-- The Diamond, Workroom 1
+- Pam Liversidge Building, Design Studio 1, D06
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.6502641679717!2d-1.4835925589425!3d53.381301664196606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797881e28b3e81%3A0x611c9522ca2169ed!2sThe+Diamond!5e0!3m2!1sen!2suk!4v1533302104527" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Overview
+
+**Please note that we will provide some pre-recording lecture material (around 2 hours) for you to watch before the workshop**. The workshop itself will be *hands-on*; working through exercises and watching demonstrations from the lecturers.
 
 High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing, and what data you should expect to receive from the Bioinformatics Core.
 
 We will describe the steps involved to go from sequencing library to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Galaxy interface (https://usegalaxy.org/) to demonstrate tasks such as *alignment*, *quality control* and *assessing differential expression*. We will also showcase some web sites you can use for enrichment and pathways analysis.
 
-Please note that the course will not cover the analysis of RNA-seq data in R
+*Please note that the course will not cover the analysis of RNA-seq data using the  R programming langugage*
 
 ## Who should attend this course?
 
@@ -55,17 +57,20 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 
 ## Instructors
 
-- Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
+- [Dennis Wang](https://www.trans-bioinformatics.com/), Lecturer and Group Leader in Genomic Medicine and Bioinformatics
+- [Johnathan Cooper-Knock](http://sitran.org/people/cooper-knock/), NIHR Clinical Lecturer
+
 ## Course Data
 
 ## Timetable (provisional)
 
-- 09:30 - 10:30 [Introduction to RNA-seq and experimental design]()
-- 10:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, alignment and differential expression]()
+** Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
+
+- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, alignment and differential expression]()
 LUNCH
-- 13:30 - 14:30 Tutorial continued
-- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment]()
+- 13:30 - 15:00 [Hands-on tutorial on gene set enrichment]()
+- 15:00 - 17:00 [Constructing gene networks]()
 
 
 ## Registration 
