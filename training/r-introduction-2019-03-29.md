@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to R 
+title: Data Manipulation and Visualisation 
 organizer: Sheffield Bioinformatics Core
 excerpt: "Intro to R.."
 startDate: 2019-02-07
@@ -8,9 +8,9 @@ endDate: 2019-02-07
 startTime: 9.30
 endTime: 17.00
 city: Sheffield
-postcode: S1 3JD
+postcode: S3 7ND
 country: United Kingdom
-venue: The Diamond - Workroom 2
+venue: Bartolome House, Computer Room ALG04 
 description: "R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research. In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and analyse tabular data.  After the course you should feel confident to start exploring your own dataset using the materials and references provided."
 keywords: R, R-programming,bioinformatics, data analysis, data science
 difficulty: beginner
@@ -19,14 +19,15 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 - Sheffield - 7th February 2019
 - 09:30am - 5pm
-- The Diamond - Workroom 2
+- Bartolome House, Computer Room ALG04 
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.712925739254!2d-1.4909138840310832!3d53.38418577957716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9+House%2C+Sheffield!5e0!3m2!1sen!2suk!4v1533301984260" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Overview
 
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research.
 
-In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and analyse tabular data. 
+In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and visualise tabular data. 
 
 After the course you should feel confident to start exploring your own dataset using the materials and references provided. 
 
@@ -82,7 +83,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- Anna Krystalli, [Research Software Engineer](http://rse.shef.ac.uk/contact/team)
+- to be confirmed
 
 ## Timetable (provisional)
 
@@ -104,8 +105,8 @@ Registration is starting start..
 
 ## Materials
 
-- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2018-09-20-r/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/workshops/2018-09-20-r/crash-course.nb.html)
+- [Introductory Slides]()
+- [Course notes]()
 
 
 ## References
