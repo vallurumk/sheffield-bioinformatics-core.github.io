@@ -3,8 +3,8 @@ layout: page
 title: Data Manipulation and Visualisation 
 organizer: Sheffield Bioinformatics Core
 excerpt: "Intro to R.."
-startDate: 2019-02-07
-endDate: 2019-02-07
+startDate: 2019-03-29
+endDate: 2019-03-29
 startTime: 9.30
 endTime: 17.00
 city: Sheffield
@@ -17,7 +17,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 7th February 2019
+- Sheffield - 29th March 2019
 - 09:30am - 5pm
 - Bartolome House, Computer Room ALG04 
 
@@ -96,7 +96,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Registration 
 
-Registration is starting start..
+Registration is [now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation)
 
 
 ## Course Data
