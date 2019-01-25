@@ -17,7 +17,7 @@ We have a limited number of bursaries available for our upcoming courses funded 
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-03-04/), March 4th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq-march-2019)
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-03-29/), March 29th, *Booking soon...*
 - Introduction to Cancer Somatic Analysis, May 10th, *Booking soon..*
-- Introduction to Genomic Variant Interpretation, May 30th/31st, *Booking soon..*
+- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2019-05-30), May 30th/31st, *Booking soon..*
 - Best Practices for Data Management, June 24th, *Booking soon...*
 
 ## Past Courses
