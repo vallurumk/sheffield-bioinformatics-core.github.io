@@ -89,4 +89,4 @@ Wednesday 7th November
 
 ## Registration 
 
-Registration is open soon. You can sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join) to get updates on upcoming courses.
+Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation)
