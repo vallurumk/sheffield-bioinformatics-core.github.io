@@ -25,6 +25,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Overview
 
+As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
+
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research.
 
 In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and visualise tabular data. 
@@ -33,11 +35,11 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Who should attend this course?
 
-Researchers in life sciences who want to get started using R for their data analysis
+Researchers in life sciences who want to get manipulate and visualise their data more efficiently
 
 ## Objectives:- After this course you should be able to:
 
-- Import data and plot graphs
+- Import data and plot graphs in R
 - Create a documented and reproducible piece of R code
 - Know how to develop your skills in R after the course
 
@@ -56,7 +58,7 @@ Researchers in life sciences who want to get started using R for their data anal
 
 ## Prerequisites
 
-- No prior programming experience is required, but those attending should be able to use a plain text editor.
+- No prior programming experience is required
 
 
 ## Software installation
