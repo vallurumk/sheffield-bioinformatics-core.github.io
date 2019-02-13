@@ -63,14 +63,14 @@ Healthcare providers and researchers who want to get an appreciation for how som
 
 ## Timetable (provisional)
 
-09:30 - 10:00 - Intro & Somatic Variants Quick Recap of pre-material
-10:00 - 11:30 - FastQ Files and Alignemnt (coffee during)
-11:30 - 12:30 - Variant Calling & Annotation Introduction
-12:30 - 13:30 - **Lunch** (not provided)
-13:30 - 15:00 - Variant Calling Practical (Including Annotation)
-15:00 - 16:15 - Manual Review of Variant Calls
-16:15 - 17:00 - Filtering & Prioritisation
+- 09:30 - 10:00 - Intro & Somatic Variants Quick Recap of pre-material
+- 10:00 - 11:30 - FastQ Files and Alignemnt (coffee during)
+- 11:30 - 12:30 - Variant Calling & Annotation Introduction
+- 12:30 - 13:30 - **Lunch** (not provided)
+- 13:30 - 15:00 - Variant Calling Practical (Including Annotation)
+- 15:00 - 16:15 - Manual Review of Variant Calls
+- 16:15 - 17:00 - Filtering & Prioritisation
 
 ## Registration 
 
-Registration is opening soon. You can sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join) to get updates on upcoming courses.
+Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-cancer-somatic-analysis)
