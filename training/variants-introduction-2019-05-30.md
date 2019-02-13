@@ -1,7 +1,7 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Introduction to identifying and characterising variants from NGS data
+title: Introduction to Genomic Variant Interpretation
 excerpt: "Intro to Variants"
 startDate: 2019-05-30
 endDate: 2019-05-31
