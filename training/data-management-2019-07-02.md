@@ -85,7 +85,7 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Registration 
 
-Registration is opening soon
+Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/best-practices-for-data-management)
 
 ## References
 
