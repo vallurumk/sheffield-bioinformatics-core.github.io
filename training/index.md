@@ -24,6 +24,7 @@ We have a limited number of bursaries available for our upcoming courses funded 
 
 ## 2019
 
+- [MSC in Genomic Approaches to Drug Discovery- Introduction to R](http://sbc.shef.ac.uk/gadd-bioinformatics), February 18th/20th/22nd
 - [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-01-14), January 14th/15th
 
 ## 2018
