@@ -68,10 +68,11 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 **Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
 Course materials will be linked from here on the day of the course
 
-- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, alignment and differential expression](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
+- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
 LUNCH
-- 13:30 - 15:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
-- 15:00 - 17:00 [Constructing gene networks]()
+- 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
+- 14:30 - 15:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
+- 15:30 - 17:00 [Constructing gene networks]()
 
 
 ## Registration 
