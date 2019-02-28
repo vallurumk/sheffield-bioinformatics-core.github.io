@@ -60,6 +60,8 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Dennis Wang](https://www.trans-bioinformatics.com/), Lecturer and Group Leader in Genomic Medicine and Bioinformatics
 - [Johnathan Cooper-Knock](http://sitran.org/people/cooper-knock/), NIHR Clinical Lecturer
+- Emily Chambers, Bioinformatics Core Analyst
+- Sokratis Kariotis
 
 ## Course Data
 
