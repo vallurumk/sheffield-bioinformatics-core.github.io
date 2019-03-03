@@ -10,7 +10,7 @@ endTime: 17.00
 city: sheffield
 postcode: S3 7RD
 country: United Kingdom
-venue: The Diamond, Workroom 1
+venue: Pam Liversidge Building, Design Studio 1, D06
 description: "High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing, and what data you should expect to receive from the Bioinformatics Core. We will describe the steps involved to go from sequencing library to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Galaxy interface (https://usegalaxy.org/) to demonstrate tasks such as alignment, quality control and assessing differential expression. We will also showcase some web sites you can use for enrichment and pathways analysis."
 keywords: bioinformatics, NGS, RNA-seq, galaxy
 difficulty: beginner
@@ -59,9 +59,9 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Dennis Wang](https://www.trans-bioinformatics.com/), Lecturer and Group Leader in Genomic Medicine and Bioinformatics
-- [Johnathan Cooper-Knock](http://sitran.org/people/cooper-knock/), NIHR Clinical Lecturer
+- [Johnathan Cooper-Knock](http://sitran.org/people/cooper-knock/), NIHR Clinical Lecturer (*pre-recorded material only*)
 - Emily Chambers, Bioinformatics Core Analyst
-- Sokratis Kariotis
+- Sokratis Kariotis, PhD Student, Wang lab
 
 ## Course Data
 
@@ -74,10 +74,9 @@ Course materials will be linked from here on the day of the course
 - LUNCH (not provided)
 - 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
 - 14:30 - 15:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
-- 15:30 - 17:00 [Constructing gene networks]()
+- 15:30 - 17:00 [Constructing gene networks](http://sbc.shef.ac.uk/rna-seq-in-galaxy/04_wgcna_tutorial.nb.html)
 
 
 ## Registration 
 
-Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq-march-2019). 
-
+Registration is now closed.
