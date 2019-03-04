@@ -80,3 +80,8 @@ Course materials will be linked from here on the day of the course
 ## Registration 
 
 Registration is now closed.
+
+## Feedback
+
+Please leave us feedback on this course using this short form 
+https://docs.google.com/forms/d/e/1FAIpQLSe5d640UIJHzZaMl-wF6Mv3wE_VGPEsuXOQt6Aib0oDMuMJHQ/viewform
