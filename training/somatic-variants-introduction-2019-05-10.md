@@ -64,7 +64,7 @@ Healthcare providers and researchers who want to get an appreciation for how som
 ## Timetable (provisional)
 
 - 09:30 - 10:00 - Intro & Somatic Variants Quick Recap of pre-material
-- 10:00 - 11:30 - FastQ Files and Alignemnt (coffee during)
+- 10:00 - 11:30 - FastQ Files and Alignment (coffee during)
 - 11:30 - 12:30 - Variant Calling & Annotation Introduction
 - 12:30 - 13:30 - **Lunch** (not provided)
 - 13:30 - 15:00 - Variant Calling Practical (Including Annotation)
