@@ -17,11 +17,16 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 4th March 2019
-- 09:30am - 5pm
-- Pam Liversidge Building, Design Studio 1, D06
+## Course Materials (final)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+**Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
+
+
+- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/workshops/2019-03-04-rna-seq/01-pre-processing.nb.html)
+- LUNCH (not provided)
+- 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/workshops/2019-03-04-rna-seq/02-differential-expression.nb.html)
+- 14:30 - 15:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/workshops/2019-03-04-rna-seq/03-enrichment.nb.html)
+- 15:30 - 17:00 [Constructing gene networks](http://sbc.shef.ac.uk/workshops/2019-03-04-rna-seq/04_wgcna_tutorial.nb.html)
 
 ## Overview
 
@@ -65,16 +70,6 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 
 ## Course Data
 
-## Timetable (provisional)
-
-**Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
-Course materials will be linked from here on the day of the course
-
-- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
-- LUNCH (not provided)
-- 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
-- 14:30 - 15:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
-- 15:30 - 17:00 [Constructing gene networks](http://sbc.shef.ac.uk/rna-seq-in-galaxy/04_wgcna_tutorial.nb.html)
 
 
 ## Registration 
