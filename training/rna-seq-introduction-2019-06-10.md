@@ -58,6 +58,7 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 ## Instructors
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
+- [Emily Chambers](http://sbc.shef.ac.uk/team/emily/index.html), Bioinformatics Core Analyst
 
 
 ## Timetable (provisional)
@@ -68,11 +69,11 @@ Course materials will be linked from here on the day of the course
 - 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment]()
 - LUNCH (not provided)
 - 13:30 - 14:30 [Differential Expression tutorial]()
-- 14:30 - 15:30 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
-- 15:30 - 17:00 [Constructing gene networks]()
+- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
+
 
 
 ## Registration 
 
-Registration is opening soon...
+Registration is open [now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners).
 
