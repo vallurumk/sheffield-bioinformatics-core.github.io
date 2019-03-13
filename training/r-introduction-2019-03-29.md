@@ -25,6 +25,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Overview
 
+**Please not that this course will cover the same materials as our previous [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10) courses. If you have attended those courses, you don't need to register for this course**
+
 As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
 
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research.
