@@ -97,7 +97,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- Manoela Mollinari, PhD Student
+- Jacob Parker, PhD Student
+- Tim Freeman, PhD Student
 
 ## Timetable (provisional)
 
