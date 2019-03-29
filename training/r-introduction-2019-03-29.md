@@ -45,7 +45,7 @@ After the course you should feel confident to start exploring your own dataset u
 - [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
 - [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
 
-## Feeback
+## Feedback
 
 Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSel6bq7pfCo0bbXK6VgUUk0CVyRvW5cGHyPB1qoTLK2NkKKKA/viewform). This will help us improve the course for the future.
 
