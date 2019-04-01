@@ -21,8 +21,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Bartolome House, Computer Room ALG04 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.712925739254!2d-1.4909138840310832!3d53.38418577957716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9+House%2C+Sheffield!5e0!3m2!1sen!2suk!4v1533301984260" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 ## Overview
 
 **Please not that this course will cover the same materials as our previous [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10) courses. If you have attended those courses, you don't need to register for this course**
@@ -38,12 +36,12 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Course Data
 
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2019-03-29-r/CourseData.zip) into the directory on your computer that you wish to work in
 
 ## Materials
 
-- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2019-03-29-r/intro_slides.html)
+- [Course notes](http://sbc.shef.ac.uk/workshops/2019-03-29-r/crash-course.nb.html)
 
 ## Feedback
 
@@ -113,12 +111,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - 13:30 - 14:30 Dealing with Data (continued)
 - 14:30 - 16:00 Plotting
 - 16:00 - 17:00 Summarising and joining
-
-## Registration 
-
-Registration is [now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation)
-
-
 
 
 ## References
