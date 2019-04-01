@@ -25,6 +25,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Overview
 
+**Please not that this course will cover the same materials as our previous [Introduction to R](http://sbc.shef.ac.uk/training/r-introduction-2018-12-10) courses. If you have attended those courses, you don't need to register for this course**
+
 As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
 
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research.
@@ -32,6 +34,20 @@ R is a highly-regarded, free, software environment for statistical analysis, wit
 In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and visualise tabular data. 
 
 After the course you should feel confident to start exploring your own dataset using the materials and references provided. 
+
+
+## Course Data
+
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
+
+## Materials
+
+- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
+- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+
+## Feedback
+
+Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSel6bq7pfCo0bbXK6VgUUk0CVyRvW5cGHyPB1qoTLK2NkKKKA/viewform). This will help us improve the course for the future.
 
 ## Who should attend this course?
 
@@ -85,7 +101,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- Manoela Mollinari, PhD Student
+- Jacob Parker, PhD Student
+- Tim Freeman, PhD Student
 
 ## Timetable (provisional)
 
@@ -101,14 +119,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 Registration is [now open](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation)
 
 
-## Course Data
-
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2018-09-20-r/CourseData.zip) into the directory on your computer that you wish to work in
-
-## Materials
-
-- [Introductory Slides]()
-- [Course notes]()
 
 
 ## References
