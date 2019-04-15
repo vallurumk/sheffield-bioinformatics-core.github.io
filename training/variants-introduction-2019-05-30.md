@@ -60,11 +60,12 @@ Healthcare providers and researchers who want to get an appreciation for how var
 
 - Dr Matthew Parker, Clinical Bioinformatics Core Scientist
 - Dr Mark Dunning, Bioinformatics Core Director
-- Dr Dennis Wang, Lecturer in Genomic Medicine
+- Dr Emily Chambers, Bioinformatics Core Scientist
+- Michael Spiller, Sheffield Childrens Hospital
 
 ## Timetable (provisional)
 
-Tuesday 6th November
+Day 1
 
 - 09:30 - 09:40 [Introduction to course and Learning Objectives]()
 - 09:40 - 10:15 [Overview of NGS]()
@@ -76,7 +77,7 @@ Tuesday 6th November
 - 15:30 - 17:00 [Variant Calling in Galaxy]()
 - 17:00 [Day 1 Wrap-up]()
 
-Wednesday 7th November
+Day 2
 
 - 09:30 - 09:40 [Overview of Day 1]()
 - 09:40 - 10:45 [Variant Interpretation]()
