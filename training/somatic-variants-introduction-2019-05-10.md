@@ -71,6 +71,9 @@ Healthcare providers and researchers who want to get an appreciation for how som
 - 16:15 - 17:00  Manual Review of Variant Calls
 
 
+## Material
+
+[Click Here for Material](2019-05-10-somatic-variants)
 
 ## Registration 
 
