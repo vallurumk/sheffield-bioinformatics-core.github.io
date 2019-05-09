@@ -73,7 +73,7 @@ Healthcare providers and researchers who want to get an appreciation for how som
 
 ## Materials
 
-- [Click Here for Lecture Material](http://sbc.shef.ac.uk/training/2019-05-10-somatic-variants)
+- [Click Here for Lecture Material](https://drive.google.com/drive/folders/1-S8d92NmcQ7RfVjtP-FEtCizZnj_GTvX)
 - [Click Here for the Practical](http://sbc.shef.ac.uk/somatic-variants/index.nb.html)
 
 ## Registration 
