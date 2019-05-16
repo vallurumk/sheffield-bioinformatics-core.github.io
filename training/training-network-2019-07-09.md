@@ -25,7 +25,9 @@ High-throughput genomic data analysis is now a defining skill in the life scienc
 
 The aims of this workshop are to understand similarities in current bioinformatics education across the region, standardise learning outcomes, and to share teaching load
 
-Attendance of the workshop is **free**, and we can offer 1 nights accomodation for a small number of people. Please indicate if you would to be considered for free accomodation. Preference will be given to those currently engaged in Bioinformatics training, and to ensure equal representation of Institutes in the North of England.
+Attendance of the workshop is **free**, and we can offer 1 nights accomodation for a small number of people. Please indicate if you would to be considered for free accomodation. ***Preference will be given to those currently engaged in Bioinformatics training, and to ensure equal representation of Institutes in the North of England.***
+
+Please apply to attend the workshop using [this link](https://docs.google.com/forms/d/e/1FAIpQLScVybb_XJf3-g5CtLU9VHmfRp0hWrQrTwZgdQbqwlah5YEzQA/viewform)
 
 ## Prerequisites
 
@@ -40,4 +42,4 @@ Attendance of the workshop is **free**, and we can offer 1 nights accomodation f
 
 ## Registration 
 
-Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation)
+Registration is [open now](https://docs.google.com/forms/d/e/1FAIpQLScVybb_XJf3-g5CtLU9VHmfRp0hWrQrTwZgdQbqwlah5YEzQA/viewform)
