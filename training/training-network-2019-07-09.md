@@ -8,11 +8,8 @@ endDate: 2019-07-10
 startTime: 10.30
 endTime: 15.30
 city: Sheffield
-postcode: S3 7RD
 country: United Kingdom
 description: "High-throughput genomic data analysis is now a defining skill in the life sciences. There is already a shortage of researchers who can bridge the gap between computational approaches to data and biological insights, and this demand is only getting stronger. Bioinformatics training is under-provisioning in the North of England, with many small Bioinformatics teams at different institutes lacking the resources to deliver a full Bioinformatics training programme."
-keywords: bioinformatics, NGS, DNA-seq, variant-calling
-difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
