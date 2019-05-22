@@ -59,8 +59,9 @@ Healthcare providers and researchers who want to get an appreciation for how var
 ## Instructors
 
 - Dr Matthew Parker, Clinical Bioinformatics Core Scientist
-- Dr Mark Dunning, Bioinformatics Core Director
 - Dr Emily Chambers, Bioinformatics Core Scientist
+- Dr Mark Dunning, Bioinformatics Core Director
+- Dr Dennis Wang, Bioinformatics Lecturer
 - Michael Spiller, Sheffield Childrens Hospital
 
 ## Timetable (provisional)
