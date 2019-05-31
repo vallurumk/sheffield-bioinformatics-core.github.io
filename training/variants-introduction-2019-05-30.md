@@ -91,4 +91,4 @@ Day 2
 
 ## Registration 
 
-Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation)
+Registration is now closed
