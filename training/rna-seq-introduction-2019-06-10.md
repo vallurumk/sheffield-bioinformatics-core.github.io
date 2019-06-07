@@ -53,12 +53,16 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 ## Software installation
 
-Please download the Integrative Genomics Viewer (IGV) for your operating system using [this link](https://software.broadinstitute.org/software/igv/download)
+Please download the Integrative Genomics Viewer (IGV) for your operating system using [this link](https://software.broadinstitute.org/software/igv/download) and also download the javaGSEA file from 
+http://software.broadinstitute.org/gsea/downloads.jsp (gsea3.0-jar)
+
 
 ## Instructors
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/index.html), Bioinformatics Core Analyst
+- Jacob Parker, PhD Student
+- Niamh Errington, PhD Student
 
 
 ## Timetable (provisional)
