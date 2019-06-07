@@ -54,7 +54,7 @@ Researchers in life sciences who want to get an appreciation for the computation
 ## Software installation
 
 Please download the Integrative Genomics Viewer (IGV) for your operating system using [this link](https://software.broadinstitute.org/software/igv/download) and also download the javaGSEA file from 
-http://software.broadinstitute.org/gsea/downloads.jsp (gsea3.0-jar)
+[http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) (gsea3.0-jar)
 
 
 ## Instructors
