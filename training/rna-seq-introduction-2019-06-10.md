@@ -23,6 +23,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.6502641679717!2d-1.4835925589425!3d53.381301664196606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797881e28b3e81%3A0x611c9522ca2169ed!2sThe+Diamond!5e0!3m2!1sen!2suk!4v1533302104527" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+## Feedback
+
+We would be extremely grateful if you could leave feedback for the course using [this link](https://docs.google.com/forms/d/e/1FAIpQLScOJcufwU5moo8X6W_FEgrPbmFMlOEwf_Q8S-d7S1gz-8NXOA/viewform)
+
 ## Overview
 
 **Please note that we will provide some pre-recording lecture material (around 1.5 hours) for you to watch before the workshop**. The workshop itself will be *hands-on*; working through exercises and watching demonstrations from the lecturers.
