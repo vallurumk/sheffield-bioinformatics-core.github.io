@@ -99,7 +99,8 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-
+- Diarmuid Verrier
+- Jose Javier Aguado Orea
 
 ## Timetable (provisional)
 
