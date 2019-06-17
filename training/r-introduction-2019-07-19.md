@@ -20,6 +20,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - The Diamond, Workroom 1, University of Sheffield
 
+## Booking
+
+Click [here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-19072019) to book a place
+
 ## Overview
 
 
