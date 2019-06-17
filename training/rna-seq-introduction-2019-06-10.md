@@ -17,21 +17,14 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-## Timetable (provisional)
+## Course Materials
 
-**Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
-Course materials will be linked from here on the day of the course
 
 - 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/workshops/2019-06-10-rna-seq/01-pre-processing.nb.html)
 - LUNCH (not provided)
 - 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/workshops/2019-06-10-rna-seq/02-differential-expression.nb.html)
 - 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/workshops/2019-06-10-rna-seq//03-enrichment.nb.html)
 
-
-
-## Feedback
-
-We would be extremely grateful if you could leave feedback for the course using [this link](https://docs.google.com/forms/d/e/1FAIpQLScOJcufwU5moo8X6W_FEgrPbmFMlOEwf_Q8S-d7S1gz-8NXOA/viewform)
 
 ## Overview
 
