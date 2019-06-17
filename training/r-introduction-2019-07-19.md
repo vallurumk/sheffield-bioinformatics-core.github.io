@@ -36,18 +36,16 @@ In this course, we give an introduction to the R environment and explain how it 
 
 After the course you should feel confident to start exploring your own dataset using the materials and references provided. 
 
-
+<!--
 ## Course Data
-
 - Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2019-03-29-r/CourseData.zip) into the directory on your computer that you wish to work in
-
+-->
 <!--## Materials
 - [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
 - [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
--->
 ## Feedback
-
 Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSel6bq7pfCo0bbXK6VgUUk0CVyRvW5cGHyPB1qoTLK2NkKKKA/viewform). This will help us improve the course for the future.
+-->
 
 ## Who should attend this course?
 
