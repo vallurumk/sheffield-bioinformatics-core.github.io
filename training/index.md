@@ -16,6 +16,7 @@ We have a limited number of bursaries available for our upcoming courses funded 
 
 
 - [Best Practices for Data Management](http://sbc.shef.ac.uk/training/data-management-2019-07-02/), July 2nd, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/best-practices-for-data-management)
+- [Northern BUG Bioinformatics trainers workshop](http://sbc.shef.ac.uk/training/training-network-2019-07-09), July 9th/10th, Registration closed
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-07-19/), July 19th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-19072019)
 
 
