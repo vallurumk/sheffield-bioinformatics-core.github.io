@@ -14,10 +14,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 9th/10th July 2019
-- 10:00am - 15:30pm
-- Venue to be confirmed
+- Barber House, Boardroom
+- https://www.sheffield.ac.uk/ssid/maps/barber
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2380.0866555463476!2d-1.4934083482640954!3d53.37749897988746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48798277170a3ffd%3A0xb4863b6adc5c8268!2sBarber+House%2C+Sheffield+S10+2HQ!5e0!3m2!1sen!2suk!4v1560941193344!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Overview
 
@@ -26,8 +26,6 @@ High-throughput genomic data analysis is now a defining skill in the life scienc
 The aims of this workshop are to understand similarities in current bioinformatics education across the region, standardise learning outcomes, and to share teaching load
 
 Attendance of the workshop is **free**, and we can offer 1 nights accomodation for a small number of people. Please indicate if you would to be considered for free accomodation. ***Preference will be given to those currently engaged in Bioinformatics training, and to ensure equal representation of Institutes in the North of England.***
-
-Please apply to attend the workshop using [this link](https://docs.google.com/forms/d/e/1FAIpQLScVybb_XJf3-g5CtLU9VHmfRp0hWrQrTwZgdQbqwlah5YEzQA/viewform)
 
 ## Prerequisites
 
@@ -42,4 +40,4 @@ Please apply to attend the workshop using [this link](https://docs.google.com/fo
 
 ## Registration 
 
-Registration is [open now](https://docs.google.com/forms/d/e/1FAIpQLScVybb_XJf3-g5CtLU9VHmfRp0hWrQrTwZgdQbqwlah5YEzQA/viewform)
+Registration is closed. Please email Sheffield Bioinformatics Core for availability (bioinformatics-core@sheffield.ac.uk)
