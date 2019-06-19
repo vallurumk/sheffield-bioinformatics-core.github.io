@@ -56,6 +56,15 @@ Attendance of the workshop is **free**, and we can offer 1 nights accomodation f
 
 ### Wednesday 10th July
 
+- 09:30 - 10:00, Intro to day 2, reflections on Day 1
+- 10:00 - 11:00, Practical
+- 11:00 - 11:30, Coffee break
+- 11:30 - 12:30 - Practical continued
+- 12:30 - 13:15 LUNCH (provided)
+- 13:15 - 15:00 Breakout into groups
+- 15:00 - 15:30 Feedback on groups
+- 15:30 - 16:30 Final actions and wrap-up
+
 
 
 ## Registration 
