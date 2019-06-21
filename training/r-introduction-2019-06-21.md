@@ -17,7 +17,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 29th March 2019
+- Sheffield - 21st June 2019
 - 09:30am - 5pm
 - Heart of the Campus, Sheffield Hallam University
 
