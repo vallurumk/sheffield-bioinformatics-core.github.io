@@ -69,13 +69,13 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Course Data
 
-- [Example patient data for Open Refine Practical](http://sbc.shef.ac.uk/ferraiuolo-tutorial/patient-data.csv) - Right-click on link and select Save Link As…
+- [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.csv) - Right-click on link and select Save Link As…
 
 ## Timetable and Links to Materials
 
 - 13:00 - 13:15 [Course Overview]()
-- 13:15 - 13:45 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides)
-- 13:45 - 14:45 [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
+- 13:15 - 13:45 [Data Formatting]()
+- 13:45 - 14:45 [Open Refine Demo]()
 - 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield]()
 
 ## Feedback
