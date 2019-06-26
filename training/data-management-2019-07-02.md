@@ -80,7 +80,7 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Feedback
 
-- Please use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe8f-Yzvg4ZoU41sjH7qu8vBtDrirLqZ1fedZNrbOnTkG3z8g/viewform) to give us feedback after the course and help us improve it for future sessions.
+- Please use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdFQexsCwcEUW7VKirPsJMpED9yV6XGqEXLQZ4zBt3zqJbglg/viewform) to give us feedback after the course and help us improve it for future sessions.
 
 
 ## Registration 
