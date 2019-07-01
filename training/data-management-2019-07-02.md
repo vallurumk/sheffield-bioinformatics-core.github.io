@@ -5,7 +5,7 @@ title: Best practices in Research Data Management for Biological Sciences
 excerpt: "Avoiding Data Disasters"
 startDate: 2019-07-02
 endDate: 2018-07-02
-startTime: 13.00
+startTime: 12.30
 endTime: 16.30
 city: sheffield
 postcode: S3 7ND
@@ -73,8 +73,8 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Timetable and Links to Materials
 
-- 13:00 - 13:15 [Course Overview](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
-- 13:15 - 13:45 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides.html#1)
+- 12:30 - 13:00 [Course Overview](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
+- 13:00 - 13:30 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides.html#1)
 - 13:45 - 14:45 [Open Refine Demo](http://sbc.shef.ac.uk/refine-demo/demo)
 - 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
 
