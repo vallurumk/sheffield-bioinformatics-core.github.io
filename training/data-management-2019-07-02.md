@@ -73,10 +73,10 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Timetable and Links to Materials
 
-- 13:00 - 13:15 [Course Overview]()
-- 13:15 - 13:45 [Data Formatting]()
-- 13:45 - 14:45 [Open Refine Demo]()
-- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield]()
+- 13:00 - 13:15 [Course Overview](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
+- 13:15 - 13:45 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides.html#1)
+- 13:45 - 14:45 [Open Refine Demo](http://sbc.shef.ac.uk/refine-demo/)
+- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
 
 ## Feedback
 
