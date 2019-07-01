@@ -19,7 +19,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 
 - Sheffield - 2nd July 2019
-- 13:00pm - 16:30pm
+- 12:30pm - 16:30pm
 - Bartolome House,  Seminar Room EG03
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.712925739254!2d-1.4909138840310832!3d53.38418577957716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9+House%2C+Sheffield!5e0!3m2!1sen!2suk!4v1533301984260" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
