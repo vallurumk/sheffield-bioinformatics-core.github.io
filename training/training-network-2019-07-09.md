@@ -44,11 +44,12 @@ Attendance of the workshop is **free**, and we can offer 1 nights accomodation f
 ### Tuesday 9th July
 
 - 10:00 - 10:30, Registration
-- 10:30 - 11:30, Introductions and workshop plan *Group Discussion*
-- 11:30 - 12:30, Who is our audience; motivations and challenges
+- 10:30 - 11:30, Introductions and workshop plan *Dennis and Sarah*
+- 11:30 - 12:30, Who is our audience; motivations and challenges (e.g. teaching load)
 - 12:30 - 13:30 LUNCH (provided)
 - 13:30 - 14:30 What does good training look like?
-- 14:30 - 15:30 TEA (provided)
+- 14:30 - 15:30 Creating coherent curricula; writing learning outcomes, learning methods
+- 15:30 - 16:00 TEA (provided)
 - 16:00 - 17:00 Logistic and technical challenges; what do we need (and what do we have), how can we spread the teaching load, alternate modes of teaching *Group Discussion*
 - 17:00 Intro to day 2
 - 17:30 Wrap-up of day 1
