@@ -33,32 +33,18 @@ You will need an internet connection in order to run the practicals and examples
 - [Two sample test app](https://markdunning.shinyapps.io/TwoSampleTest/)
 - [Contingency table app](https://markdunning.shinyapps.io/contingency-table)
 
-N.B If the above links are not working, please try the following instead
-
-- [One sample test app](https://bioinformatics.cruk.cam.ac.uk/apps/stats/OneSampleTest/)
-- [Two sample test app](https://bioinformatics.cruk.cam.ac.uk/apps/stats/TwoSampleTest/)
-- [Contingency table app](https://bioinformatics.cruk.cam.ac.uk/apps/stats/contingency-table)
 
 
 ## Timetable and Materials
-
-- 11:00 - 11:45 [Introductory Lecture]()
-- 11:45 - 12:00 [Online quiz]()
-- 12:00 - 12:30 [Lecture on Parametric Tests (1- and 2- sample t-tests for continuous variables)]()
-- 12:30 - 13:30 Lunch (not provided)
-- 13:30 - 14:00 [Practical Session 1]()
-- 14:00 - 14:30 [Lecture on Non-Parametric tests (1- and 2-sample tests)]()
-- 14:30 - 15:00 [Practical Session 2]()
-- 15:00 - 15:15 [Lecture on test for categorical variables]()
-- 15:15 - 15:30 [Practical Session 3]()
-- 15:30 - 16:15 [Group based exercise; choosing appropriate tests](). Please record your observations about the data on this [interactive document]()
-- 16:15 - [Wrap-up and summary]()
 
 
 ## Overview
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose an appropriate test for your data and how to interpret the result.
 
-**Note that this is not a course for learning the R statistical language itself. If you wish to learn more about R, please see other courses at the Sheffield Bioinformatics Core.**
+**Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
+
+http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/
+**
 
 ## Who should attend this course?
 
@@ -92,5 +78,6 @@ The course is aimed primarily at scientists at all levels – especially those w
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-
+- Niamh Errington, PhD Student
+- Aya Elwazir, PhD Student
 
