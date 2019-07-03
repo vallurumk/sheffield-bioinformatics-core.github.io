@@ -1,25 +1,24 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Introduction to Statistical Analysis
+title: Introduction to Statistical Analysis in R
 excerpt: "Stats Intro"
-startDate: 2019-07-19
-endDate: 2019-07-19
-startTime: 10.00
+startDate: 2019-09-18
+endDate: 2019-09-18
+startTime: 09.30
 endTime: 17.00
 postcode: S3 7RD
 country: United Kingdom
-venue: The Diamond, Workroom 1
-venue: Pam Liversidge Design Studio 2 - E06
+venue: Sheffield Institute for Translational Neuroscience
 description: "This course provides a refresher on the foundations of statistical analysis. Practicals are conducted using the ‘Shiny’ package; which provides an accessible interface to the R statistical language. Note that this is not a course for learning about the R statistical language itself. If you wish to learn more about R, please see other courses at the Sheffield Bioinformatics Core."
 keywords: statistics
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 19th July 2019
+- Sheffield - 18th September 2019
 - 09:30am - 5pm
-- The Diamond, Workroom 2, University of Sheffield
+- Sheffield Institute for Translational Neuroscience, University of Sheffield
 
 
 ## Course Data
