@@ -7,7 +7,7 @@ startDate: 2019-09-18
 endDate: 2019-09-18
 startTime: 09.30
 endTime: 17.00
-postcode: S3 7RD
+postcode: S10 2HQ
 country: United Kingdom
 venue: Sheffield Institute for Translational Neuroscience
 description: "This course provides a refresher on the foundations of statistical analysis. Practicals are conducted using the ‘Shiny’ package; which provides an accessible interface to the R statistical language. Note that this is not a course for learning about the R statistical language itself. If you wish to learn more about R, please see other courses at the Sheffield Bioinformatics Core."
@@ -29,8 +29,7 @@ Please download and **unzip** this zip file that contains all the data files req
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose an appropriate test for your data and how to interpret the result.
 
 **Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
-http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/
-**
+http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/**
 
 ## Who should attend this course?
 
@@ -58,9 +57,14 @@ The course is aimed primarily at scientists at all levels – especially those w
 ## Software Requirements
 
 
-## Timetable and Materials
+## Provisional Timetable and Materials
 
-
+- 09:30 - 10:00 - Introduction to Statistical Analysis
+- 10:30 - 12:00 - Normality, outliers and descriptive statistics
+- 12:00 - 12:30 - Contingency tables, and testing for categorical variables
+- 12:30 - 13:30 - LUNCH
+- 13:30 - 14:30 - Contingency tables, and testing for categorical variables (continued)
+- 14:30 - 16:00 - Significance tests for continuous variables
 
 ## Prerequisites
 
