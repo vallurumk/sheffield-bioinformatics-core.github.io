@@ -21,28 +21,14 @@ contact: bioinformatics-core@sheffield.ac.uk
 - Sheffield Institute for Translational Neuroscience, University of Sheffield
 
 
-## Course Data
-
-Please download and **unzip** this zip file that contains all the data files required for the course [CourseData.zip](http://sbc.shef.ac.uk/workshops/2018-10-24-stats/CourseData.zip)
-
-## Software Requirements
-
-You will need an internet connection in order to run the practicals and examples
-
-- [One sample test app](https://markdunning.shinyapps.io/OneSampleTest)
-- [Two sample test app](https://markdunning.shinyapps.io/TwoSampleTest/)
-- [Contingency table app](https://markdunning.shinyapps.io/contingency-table)
-
-
-
-## Timetable and Materials
+<!--## Course Data
+Please download and **unzip** this zip file that contains all the data files required for the course [CourseData.zip](http://sbc.shef.ac.uk/workshops/2018-10-24-stats/CourseData.zip)-->
 
 
 ## Overview
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose an appropriate test for your data and how to interpret the result.
 
 **Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
-
 http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/
 **
 
@@ -54,7 +40,7 @@ The course is aimed primarily at scientists at all levels – especially those w
 
 - State the assumptions required for a one-sample and two-sample t-test and be able to interpret the results of such a test
 - Know when to apply a paired or independent two-sample t-test
-- To perform simple statistical calculations using the online app
+- To perform simple statistical calculations using R
 - Understand the limitations of the tests taught within the course
 - Know when more complex statistical methods are required
 
@@ -69,15 +55,19 @@ The course is aimed primarily at scientists at all levels – especially those w
 - Statistical tests of categorical variables (Chi-squared and Fisher’s exact tests)
 - Non-parametric versions of one- and two-sample tests (Wilcoxon tests)
 
+## Software Requirements
+
+
+## Timetable and Materials
+
 
 
 ## Prerequisites
 
-- None
+- Introductory-level R; for example attending our [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/) course
 
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- Niamh Errington, PhD Student
 - Aya Elwazir, PhD Student
 
