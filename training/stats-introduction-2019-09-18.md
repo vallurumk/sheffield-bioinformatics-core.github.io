@@ -1,7 +1,7 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Introduction to Statistical Analysis in R
+title: Introduction to Statistical Analysis of Biological Data
 excerpt: "Stats Intro"
 startDate: 2019-09-18
 endDate: 2019-09-18
@@ -26,7 +26,7 @@ Please download and **unzip** this zip file that contains all the data files req
 
 
 ## Overview
-This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose an appropriate test for your data and how to interpret the result.
+This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
 
 **Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
 http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/**
