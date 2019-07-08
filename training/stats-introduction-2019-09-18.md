@@ -1,7 +1,7 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Introduction to Statistical Analysis of Biological Data
+title: Statistical Analysis of Biological Data in R
 excerpt: "Stats Intro"
 startDate: 2019-09-18
 endDate: 2019-09-18
