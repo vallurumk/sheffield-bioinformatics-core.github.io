@@ -24,6 +24,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 <!--## Course Data
 Please download and **unzip** this zip file that contains all the data files required for the course [CourseData.zip](http://sbc.shef.ac.uk/workshops/2018-10-24-stats/CourseData.zip)-->
 
+## Booking
+
+[Click here] to book your place on the course
 
 ## Overview
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
