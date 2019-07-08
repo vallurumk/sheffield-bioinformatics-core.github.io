@@ -22,6 +22,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Booking
 
+[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019) to book your place on the course
 
 ## Overview
 
