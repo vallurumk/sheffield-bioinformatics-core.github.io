@@ -15,7 +15,7 @@ We have a limited number of bursaries available for our upcoming courses funded 
 ## 2019
 
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-07-19/), July 19th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-19072019)
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-07-19/), September 17th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019)
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019)
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-18092019) **Please make sure you have attended one of our Data Manipulation and Visualisation courses before attending**
 
 
