@@ -94,9 +94,9 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 
 ## Timetable (provisional)
 
-- 09:00 - 09:30 Health & Safety Introducton and Risk Assessment
-- 09:30 - 10:00 Introduction
-- 10:00 - 11:00 Preparation of PCR Reaction
+- 09:00 - 09:15 Health & Safety Introducton and Risk Assessment
+- 09:15 - 9:45 Introduction
+- 09:45 - 11:00 Preparation of PCR Reaction
 - 11:00 - 11:15 Coffee
 - 11:15 - 12:00 Nanopore Basics (& Data)
 - 12:00 - 13:00 Lunch
