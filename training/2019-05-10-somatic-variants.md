@@ -191,8 +191,8 @@ parts off of the ends of reads and/or discarding reads of poor quality
 altogether. The resulting set of polished reads then needs to be mapped to the
 human reference genome because knowing the genomic positions that the bases of
 a read provide evidence for is, of course, a prerequisite for variant calling.
-
 > ### {% icon comment %} More on quality control and mapping
+
 > If you would like to explore the topics of quality control and read mapping
 > in detail, you should take a look at the separate
 > [Quality Control]({{ site.baseurl }}{% link topics/sequence-analysis/tutorials/quality-control/tutorial.md %})
