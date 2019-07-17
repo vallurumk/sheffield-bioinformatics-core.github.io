@@ -20,7 +20,14 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - E13 Dainton Building, University of Sheffield
 
+# N.B. This is a "Hands-On" course where you will perform the sequencing!!
+
 ## Booking
+
+This is a hands-on course with Oxford Nanopore technology, therefore the fee for this course reflects reagent costs.
+
+- £400 for Students and Internal Attendees
+- £600 for External Attendees
 
 [Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019) to book your place on the course
 
