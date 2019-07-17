@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Data Manipulation and Visualisation 
+title: Nanopore Sequencing and Data Analysis
 organizer: Sheffield Bioinformatics Core
-excerpt: "Intro to R.."
-startDate: 2019-09-17
-endDate: 2019-09-17
-startTime: 9.30
-endTime: 17.00
+excerpt: "Nanopore Sequecning.."
+startDate: 2019-09-19
+endDate: 2019-09-19
+startTime: 9.00
+endTime: 17.30
 postcode: S10 2HQ
 country: United Kingdom
 venue: Sheffield Institute for Translational Neuroscience
-description: "R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research. In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and analyse tabular data.  After the course you should feel confident to start exploring your own dataset using the materials and references provided."
-keywords: R, R-programming,bioinformatics, data analysis, data science
+description: "Oxford Nanopore's third generation long read sequecning technology promises to disrupt the field of sequencing. Capital costs are less than £1000, meaning any lab can get started sequencing their DNA or RNA of interest. This course will get you started in the world of Nanopore and equip you with basic data analysis skills."
+keywords: galaxy, nanopore, genomics, sequencing ,bioinformatics, data analysis, data science
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 17th September 2019
+- Sheffield - 19th September 2019
 - 09:30am - 5pm
-- Sheffield Institute for Translational Neuroscience, University of Sheffield
+- E13 Dainton Building, University of Sheffield
 
 ## Booking
 
@@ -26,15 +26,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Overview
 
-
-
-As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
-
-R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research.
-
-In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and visualise tabular data. 
-
-After the course you should feel confident to start exploring your own dataset using the materials and references provided. 
 
 <!--
 ## Course Data
@@ -49,22 +40,34 @@ Please give us feedback for the course using [this form](https://docs.google.com
 
 ## Who should attend this course?
 
-Researchers in life sciences who want to get manipulate and visualise their data more efficiently
+Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopore sequencing technology and the subsequent analysis of the data. 
 
 ## Objectives:- After this course you should be able to:
 
-- Import data and plot graphs in R
-- Create a documented and reproducible piece of R code
-- Know how to develop your skills in R after the course
+- Sequence a library on a Oxford Nanopore MinION sequencing device 
+- Understand Nanopore Sequecning and the data it generates
+- Analsyse sequecning data in galaxy
+
+## Provided Materials:- These materials are provided in the course cost
+
+- One MinION sequencer to use for the duration of the course between 3 attendees
+- One laptop to run the sequecning to use for the duration of the course between 3 attendees
+- One MinION flow cell (between 3)
+- 16S Sequencing Reagents
+- Microbial Community DNA Standard
+
+## Trainee Supplied:- These materials are not provided in the course cost
+
+- Personal laptop to be used for data analysis
 
 ## Aims:- During this course you will learn about:
 
-- The RStudio interface to R
-- The many ways to access help about R
-- Basic object types in R
-- Importing tabular data into R
-- Manipulating data in R with dplyr
-- Using in-built functions
+- The science behing nanopore sequencing
+- How to prepare a 16S amplicon library for sequencing
+- Loading a library onto a MinION flow cell
+- Sequencing on the MinION platform
+- Basics of nanopore data
+- Analysis of our 16S data using galaxy
 - Basic Plotting in ggplot2
 - Customizing plots
 - Creating reproducible reports in R
@@ -73,51 +76,30 @@ Researchers in life sciences who want to get manipulate and visualise their data
 ## Prerequisites
 
 - No prior programming experience is required
-
-
-## Software installation
-
-You will need to bring an internet-enabled laptop to the course and install the latest versions of *both* R ***and*** RStudio before coming to the course
-
-- [R](https://cran.r-project.org/)
-- [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-
-### Windows
-
-Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
-
-### Mac
-
-Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
-
-### Linux
-
-You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please install free [the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download). 
-
-
+- No prior laboratory experience is required
+- Please view this video before the course - (Introduction to Galaxy)
 
 ## Instructors
 
-- Mark Dunning, Bioinformatics Core Director
+- Matthew Parker, Clinical Bioinformatics Core Scientist
+- Matthew Wyles, Sequencing Specialist
 
 
 ## Timetable (provisional)
 
-- 09:30 - 11:00 R basics
-- 11:00 - 12:30 Dealing with Data
-- 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 14:30 Dealing with Data (continued)
-- 14:30 - 16:00 Plotting
-- 16:00 - 17:00 Summarising and joining
-
+- 09:00 - 09:30 Health & Safety Introducton and Risk Assessment
+- 09:30 - 10:00 Introduction
+- 10:00 - 11:00 Preparation of PCR Reaction
+- 11:00 - 11:15 Coffee
+- 11:15 - 12:00 Nanopore Basics (& Data)
+- 12:00 - 13:00 Lunch
+- 13:00 - 14:00 Clean-Up & Loading of Flow Cell
+- 14:00 - 15:00 Intro to Galaxy and Processing of Data
+- 15:00 - 15:15 Coffee
+- 15:15 - 17:00 Data Analysis Practical (analysing data you are generating on the MinION)
+- 17:00 - 17:30 Course Wrap-Up
 
 ## References
 
 - [Data Carpentry Spreadsheet Formatting Lessions](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
-- [Master List of datasets to practice with](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
-- [Tidyverse website](https://www.tidyverse.org/)
-- [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-- [R graph gallery](https://www.r-graph-gallery.com/0)
-- [Sheffield R meetup](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
-- [R bloggers](https://www.r-bloggers.com/)
+
