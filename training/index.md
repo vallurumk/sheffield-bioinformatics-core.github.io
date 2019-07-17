@@ -14,15 +14,21 @@ We have a limited number of bursaries available for our upcoming courses funded 
 
 ## 2019
 
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-07-19/), July 19th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-19072019)
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019)
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-18092019) **Please make sure you have attended one of our Data Manipulation and Visualisation courses before attending**
 
-- [Introduction to Cancer Somatic Analysis](http://sbc.shef.ac.uk/training/somatic-variants-introduction-2019-05-10), May 10th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-cancer-somatic-analysis)
-- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2019-05-30), May 30th/31st, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation)
-- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-06-10/), June 10th, [Booking now..](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners)
-- [Best Practices for Data Management](http://sbc.shef.ac.uk/training/data-management-2019-07-02/), July 2nd, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/best-practices-for-data-management)
+
+- **More courses to be announced soon**
 
 ## Past Courses
 
 ## 2019
+- [Northern BUG Bioinformatics trainers workshop](http://sbc.shef.ac.uk/training/training-network-2019-07-09), July 9th/10th
+- [Best Practices for Data Management](http://sbc.shef.ac.uk/training/data-management-2019-07-02/), July 2nd
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-06-10/), June 10th
+- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2019-05-30), May 30th/31st
+- [Introduction to Cancer Somatic Analysis](http://sbc.shef.ac.uk/training/somatic-variants-introduction-2019-05-10), May 10th
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-03-29/), March 29th
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-03-04/), March 4th
 - [MSC in Genomic Approaches to Drug Discovery- Introduction to R](http://sbc.shef.ac.uk/gadd-bioinformatics), February 18th/20th/22nd

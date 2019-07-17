@@ -58,36 +58,37 @@ Healthcare providers and researchers who want to get an appreciation for how var
 
 ## Instructors
 
-- Dr Matthew Parker, Clinical Bioinformatics Core Scientist
-- Dr Mark Dunning, Bioinformatics Core Director
+- Dr Matthew Parker, Clinical Bioinformatics Core Scientist, Course Leader
 - Dr Emily Chambers, Bioinformatics Core Scientist
+- Dr Mark Dunning, Bioinformatics Core Director
+- Dr Dennis Wang, Bioinformatics Lecturer
 - Michael Spiller, Sheffield Childrens Hospital
 
 ## Timetable (provisional)
 
 Day 1
 
-- 09:30 - 09:40 [Introduction to course and Learning Objectives]()
-- 09:40 - 10:15 [Overview of NGS]()
-- 10:15 - 10:45 [Introduction to Galaxy]()
-- 11:00 - 12:45 [Fastq files and alignment Practical]()
+- 09:30 - 09:40 [Introduction to course and Learning Objectives](https://drive.google.com/file/d/1hCeSIh0jJMffohJMLXrEG2DFBtfa7YcQ/view?usp=sharing)
+- 09:40 - 10:15 [Overview of NGS](https://drive.google.com/file/d/1pRM__4fZNRCorSNgJtAL-5Ga1cRLG3k2/view?usp=sharing)
+- 10:15 - 10:45 [Introduction to Galaxy](https://drive.google.com/file/d/1zkCDMZ7XV_XC2OAgIK1KwKc7zJ-Y3KN2/view?usp=sharing)
+- 11:00 - 12:45 [Fastq files and alignment Practical](http://sbc.shef.ac.uk/ngs-in-galaxy/)
 - 12:45 - 13:45 LUNCH (not provided)
 - 13:45 - 14:30 Viewing Alignments in IGV
-- 14:30 - 15:30 [Variant Calling and VCF files]()
-- 15:30 - 17:00 [Variant Calling in Galaxy]()
-- 17:00 [Day 1 Wrap-up]()
+- 14:30 - 15:30 [Variant Calling and VCF files](https://drive.google.com/file/d/1gqEkoV9y_PdOQX4dcefCcH4RvylaCdih/view?usp=sharing)
+- 15:30 - 17:00 [Variant Calling in Galaxy](https://drive.google.com/file/d/1Diox1GN7EI35nY2vw1rEXUcnBIyFk3zO/view?usp=sharing)
+- 17:00 [Day 1 Wrap-up](https://drive.google.com/file/d/1B41hBSSUmyGZG7USucjrMhzC35pRw8Ol/view)
 
 Day 2
 
-- 09:30 - 09:40 [Overview of Day 1]()
-- 09:40 - 10:45 [Variant Interpretation]()
-- 11:00 - 12:30 [Variant Annotation]()
+- 09:30 - 09:40 [Overview of Day 1](https://drive.google.com/file/d/1zKooBCXXou-TNR2m7J83fNCR6MBd2tj7/view?usp=sharing)
+- 09:40 - 10:45 [Variant Interpretation](https://drive.google.com/file/d/1idcThI_HefNlJHzPDuH3F-uTSp2MbZAP/view?usp=sharing)
+- 11:00 - 12:30 [Variant Annotation](https://drive.google.com/file/d/16OflFWGSYehbCeWXfK0a-R97qDXWnO45/view?usp=sharing)
 - 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 15:30 [Variant Interpretation in a Clinical labroratory]()
-- 15:30 - 17:00 [Case studies]()
-- 17:00 [Day 2 and Course Wrap-up]()
+- 13:30 - 15:30 [Variant Interpretation in a Clinical labroratory](https://drive.google.com/file/d/1_hX0YmtzaLHjAbq6DhEfGtEqomG3r-5k/view?usp=sharing)
+- 15:30 - 17:00 [Case studies](https://drive.google.com/file/d/1TEp5Cy1KHhYUgA-ViaMoI07ho5AS3cCw/view?usp=sharing)
+- 17:00 [Day 2 and Course Wrap-up](https://drive.google.com/file/d/1XDTRNCJE1knNaMQ3R291a_Q20ycRRIue/view?usp=sharing)
 
 
 ## Registration 
 
-Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation)
+Registration is now closed

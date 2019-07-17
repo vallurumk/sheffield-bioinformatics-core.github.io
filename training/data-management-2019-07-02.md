@@ -5,7 +5,7 @@ title: Best practices in Research Data Management for Biological Sciences
 excerpt: "Avoiding Data Disasters"
 startDate: 2019-07-02
 endDate: 2018-07-02
-startTime: 13.00
+startTime: 12.30
 endTime: 16.30
 city: sheffield
 postcode: S3 7ND
@@ -19,7 +19,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 
 - Sheffield - 2nd July 2019
-- 13:00pm - 16:30pm
+- 12:30pm - 16:30pm
 - Bartolome House,  Seminar Room EG03
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.712925739254!2d-1.4909138840310832!3d53.38418577957716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9+House%2C+Sheffield!5e0!3m2!1sen!2suk!4v1533301984260" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -56,7 +56,7 @@ Researchers wanting to know how they can organise their data more effectively an
 ## Instructors
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
-- Jen Smith, University of Sheffield Library Services
+- Beverley Jones, University of Sheffield Library Services
 
 ## Software
 
@@ -69,18 +69,18 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 ## Course Data
 
-- [Example patient data for Open Refine Practical](https://raw.githubusercontent.com/datachampcam/refine-demo/master/patient-data.csv) - Right-click on link and select Save Link As…
+- [Example patient data for Open Refine Practical](https://github.com/sheffield-bioinformatics-core/data-formatting/raw/master/patient-data.xlsx) - Right-click on link and select Save Link As…
 
 ## Timetable and Links to Materials
 
-- 13:00 - 13:15 [Course Overview]()
-- 13:15 - 13:45 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides)
-- 13:45 - 14:45 [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
-- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield]()
+- 12:30 - 13:00 [Course Overview](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
+- 13:00 - 13:30 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides.html#1)
+- 13:45 - 14:45 [Open Refine Demo](http://sbc.shef.ac.uk/refine-demo/demo)
+- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
 
 ## Feedback
 
-- Please use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe8f-Yzvg4ZoU41sjH7qu8vBtDrirLqZ1fedZNrbOnTkG3z8g/viewform) to give us feedback after the course and help us improve it for future sessions.
+- Please use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdFQexsCwcEUW7VKirPsJMpED9yV6XGqEXLQZ4zBt3zqJbglg/viewform) to give us feedback after the course and help us improve it for future sessions.
 
 
 ## Registration 

@@ -63,17 +63,17 @@ Healthcare providers and researchers who want to get an appreciation for how som
 
 ## Timetable (provisional)
 
-- 09:30 - 10:00 - Intro & Somatic Variants Quick Recap of pre-material
-- 10:00 - 12:30 - FastQ Files, Alignment and QC (coffee during)
-- 12:30 - 13:30 - **Lunch** (not provided)
-- 13:30 - 15:00  Variant Calling & Annotation 
-- 15:00 - 16:15  Filtering & Prioritisation
-- 16:15 - 17:00  Manual Review of Variant Calls
+- 09:30 - 10:30 - Intro & Somatic Variants Quick Recap of pre-material
+- 10:30 - 13:00 - FastQ Files, QC and Alignment (coffee during)
+- 13:00 - 14:00 - **Lunch** (not provided)
+- 14:00 - 15:00  Variant Calling & Annotation 
+- 15:00 - 16:30  Filtering & Manual Review of Variant Calls
 
 
-## Material
+## Materials
 
-[Click Here for Material](http://sbc.shef.ac.uk/training/2019-05-10-somatic-variants)
+- [Click Here for Lecture Material](https://drive.google.com/drive/folders/1-S8d92NmcQ7RfVjtP-FEtCizZnj_GTvX)
+- [Click Here for the Practical](http://sbc.shef.ac.uk/somatic-variants/index.nb.html)
 
 ## Registration 
 

@@ -17,11 +17,14 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 10th June 2019
-- 09:30am - 5pm
-- The Diamond, Workroom 1
+## Course Materials
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.6502641679717!2d-1.4835925589425!3d53.381301664196606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48797881e28b3e81%3A0x611c9522ca2169ed!2sThe+Diamond!5e0!3m2!1sen!2suk!4v1533302104527" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/workshops/2019-06-10-rna-seq/01-pre-processing.nb.html)
+- LUNCH (not provided)
+- 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/workshops/2019-06-10-rna-seq/02-differential-expression.nb.html)
+- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/workshops/2019-06-10-rna-seq//03-enrichment.nb.html)
+
 
 ## Overview
 
@@ -53,27 +56,17 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 ## Software installation
 
-Please download the Integrative Genomics Viewer (IGV) for your operating system using [this link](https://software.broadinstitute.org/software/igv/download)
+Please download the Integrative Genomics Viewer (IGV) for your operating system using [this link](https://software.broadinstitute.org/software/igv/download) and also download the javaGSEA file from 
+[http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) (gsea3.0-jar)
+
 
 ## Instructors
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/index.html), Bioinformatics Core Analyst
-
-
-## Timetable (provisional)
-
-**Around 1.5 hours of pre-recorded lectures will be made available the week before the course**
-Course materials will be linked from here on the day of the course
-
-- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment]()
-- LUNCH (not provided)
-- 13:30 - 14:30 [Differential Expression tutorial]()
-- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
+- Jacob Parker, PhD Student
+- Niamh Errington, PhD Student
 
 
 
-## Registration 
-
-Registration is open [now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners).
 
