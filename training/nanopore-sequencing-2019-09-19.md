@@ -17,7 +17,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 19th September 2019
-- 09:30am - 5pm
+- 09:00am - 5pm
 - E13 Dainton Building, University of Sheffield
 
 # N.B. This is a "Hands-On" course where you will perform the sequencing!!
@@ -54,8 +54,8 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 ## Objectives:- After this course you should be able to:
 
 - Sequence a library on a Oxford Nanopore MinION sequencing device 
-- Understand Nanopore Sequecning and the data it generates
-- Analyse sequecning data in galaxy
+- Understand Nanopore Sequencing and the data it generates
+- Analyse sequencing data in [Galaxy](https://usegalaxy.eu/)
 
 ## Provided Materials:- These materials are provided in the course cost
 
@@ -63,7 +63,7 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 - One laptop to run the sequecning to use for the duration of the course between 3 attendees
 - One MinION flow cell (between 3)
 - 16S Sequencing Reagents
-- Microbial Community DNA Standard
+- Microbial Community DNA Standard (or bring your own DNA sample!)
 
 ## Trainee Supplied:- These materials are not provided in the course cost
 
@@ -76,10 +76,8 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 - Loading a library onto a MinION flow cell
 - Sequencing on the MinION platform
 - Basics of nanopore data
-- Analysis of our 16S data using galaxy
-- Basic Plotting in ggplot2
-- Customizing plots
-- Creating reproducible reports in R
+- Analysis of our 16S data using Galaxy
+
 
 
 ## Prerequisites
@@ -99,16 +97,14 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 - 09:00 - 09:15 Health & Safety Introducton and Risk Assessment
 - 09:15 - 9:45 Introduction
 - 09:45 - 11:00 Preparation of PCR Reaction
-- 11:00 - 11:15 Coffee
+- 11:00 - 11:15 Coffee (Provided)
 - 11:15 - 12:00 Nanopore Basics (& Data)
-- 12:00 - 13:00 Lunch
+- 12:00 - 13:00 Lunch (Provided)
 - 13:00 - 14:00 Clean-Up & Loading of Flow Cell
 - 14:00 - 15:00 Intro to Galaxy and Processing of Data
-- 15:00 - 15:15 Coffee
+- 15:00 - 15:15 Coffee (Provided)
 - 15:15 - 17:00 Data Analysis Practical (analysing data you are generating on the MinION)
 - 17:00 - 17:30 Course Wrap-Up
 
-## References
 
-- [Data Carpentry Spreadsheet Formatting Lessions](http://www.datacarpentry.org/spreadsheet-ecology-lesson/)
 
