@@ -64,6 +64,7 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 - One MinION flow cell (between 3)
 - 16S Sequencing Reagents
 - Microbial Community DNA Standard (or bring your own DNA sample!)
+- Printed booklet with step-by-step wet-lab and Bioinformatics protocols
 
 ## Trainee Supplied:- These materials are not provided in the course cost
 
