@@ -26,6 +26,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Booking
 
+*Booking link available soon*
+
 This is a hands-on course with Oxford Nanopore technology, therefore the fee for this course reflects reagent costs.
 
 - £400 for Academic participants
