@@ -22,6 +22,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 # N.B. This is a "Hands-On" course where you will perform the sequencing!!
 
+# N.B. Contact us if you would like to bring your own microbiome DNA sample to sequence!
+
 ## Booking
 
 This is a hands-on course with Oxford Nanopore technology, therefore the fee for this course reflects reagent costs.
@@ -53,7 +55,7 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 
 - Sequence a library on a Oxford Nanopore MinION sequencing device 
 - Understand Nanopore Sequecning and the data it generates
-- Analsyse sequecning data in galaxy
+- Analyse sequecning data in galaxy
 
 ## Provided Materials:- These materials are provided in the course cost
 
@@ -69,7 +71,7 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 
 ## Aims:- During this course you will learn about:
 
-- The science behing nanopore sequencing
+- The science behind nanopore sequencing
 - How to prepare a 16S amplicon library for sequencing
 - Loading a library onto a MinION flow cell
 - Sequencing on the MinION platform
