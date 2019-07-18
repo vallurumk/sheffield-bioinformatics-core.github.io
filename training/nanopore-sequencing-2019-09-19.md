@@ -28,8 +28,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 This is a hands-on course with Oxford Nanopore technology, therefore the fee for this course reflects reagent costs.
 
-- £400 for Students and Internal Attendees
-- £600 for External Attendees
+- £400 for Academic participants
+- £550 for Industry and commercial participants
 
 <!--[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019) to book your place on the course
 -->
