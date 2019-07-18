@@ -31,7 +31,8 @@ This is a hands-on course with Oxford Nanopore technology, therefore the fee for
 - £400 for Students and Internal Attendees
 - £600 for External Attendees
 
-[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019) to book your place on the course
+<!--[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019) to book your place on the course
+-->
 
 ## Overview
 
