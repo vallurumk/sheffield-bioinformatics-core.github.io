@@ -40,7 +40,7 @@ After the course you should feel confident to start exploring your own dataset u
 
 
 ## Feedback
-Please give us feedback for the course using [this form](hhttps://docs.google.com/forms/d/e/1FAIpQLSfQWFzK-jdRf7FnFod74awYPbpxPaFnuvlJTz3qVMu2fqx-nw/viewform). 
+Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfQWFzK-jdRf7FnFod74awYPbpxPaFnuvlJTz3qVMu2fqx-nw/viewform). 
 
 ## Who should attend this course?
 
