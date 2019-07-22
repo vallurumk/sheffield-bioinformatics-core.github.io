@@ -67,7 +67,7 @@ The course is aimed primarily at scientists at all levels – especially those w
 - 12:00 - 12:30 - Contingency tables, and testing for categorical variables
 - 12:30 - 13:30 - LUNCH
 - 13:30 - 14:30 - Contingency tables, and testing for categorical variables (continued)
-- 14:30 - 16:00 - Significance tests for continuous variables
+- 14:30 - 17:00 - Significance tests for continuous variables
 
 ## Prerequisites
 
