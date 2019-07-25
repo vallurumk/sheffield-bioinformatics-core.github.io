@@ -15,7 +15,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019)
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-18092019) **Please make sure you have attended one of our Data Manipulation and Visualisation courses before attending**
-- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th (provisional), Booking Soon...
+- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/nanopore-sequencing-and-analysis-19092019)
 
 - **More courses to be announced soon**
 
