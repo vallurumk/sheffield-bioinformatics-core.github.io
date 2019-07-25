@@ -8,7 +8,7 @@ To be the first to hear about our training course program and for other core new
 
 You can also tell us about what courses you would like to attend in the future by [filling in this form](http://goo.gl/97fZGt)
 
-Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please contact us [mailto:bioinformatics-core@sheffield.ac.uk]
+Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please [contact us](mailto:bioinformatics-core@sheffield.ac.uk)
 
 
 ## 2019
