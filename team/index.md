@@ -12,10 +12,6 @@ A key philosphy of working with the Sheffield Bioinformatics Core is that you ar
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
 - [Matthew Parker](http://sbc.shef.ac.uk/team/matt) - Clinical Bioinformatics Core Scientist
 
-## Core Associates
-
-- [Wenbin Wei]() - Senior Bioinformatics Officer
-
 ## Scientific Director
 
 - [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director)
