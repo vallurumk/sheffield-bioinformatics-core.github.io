@@ -4,6 +4,8 @@ title: Training Courses
 excerpt: "Details of upcoming and past training courses.."
 ---
 
+![training](../images/RNA-seq-course.jpg)
+
 To be the first to hear about our training course program and for other core news and annoucements please join our mailing list [here](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join). 
 
 You can also tell us about what courses you would like to attend in the future by [filling in this form](http://goo.gl/97fZGt)
