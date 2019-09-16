@@ -82,10 +82,11 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Provisional Timetable and Materials
 
 - 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture]()
-- 10:30 - 12:00 - Normality, outliers and descriptive statistics, [Lecture](), [Practical]()
-- 12:00 - 12:30 - Contingency tables, and testing for categorical variables, [Lecture]()
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]()
+- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical]()
+- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]()
 - 12:30 - 13:30 - LUNCH
-- 13:30 - 14:30 - Contingency tables, and testing for categorical variables, [Practical]()
+- 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical]()
 - 14:30 - 17:00 - Significance tests for continuous variables, [Lecture], [Practical]()
 
 ## Prerequisites
