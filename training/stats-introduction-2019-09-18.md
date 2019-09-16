@@ -89,6 +89,10 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical]()
 - 14:30 - 17:00 - Significance tests for continuous variables, [Lecture], [Practical]()
 
+## Course Data
+
+- Please download and unzip [this file](sbc.shef.ac.uk/stats-in-r/stats_course.zip)
+
 ## Prerequisites
 
 - Introductory-level R; for example attending our [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/) course
