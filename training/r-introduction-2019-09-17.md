@@ -20,13 +20,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Sheffield Institute for Translational Neuroscience, University of Sheffield
 
-## Booking
-
-[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019) to book your place on the course
-
 ## Overview
-
-
 
 As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
 
@@ -36,15 +30,19 @@ In this course, we give an introduction to the R environment and explain how it 
 
 After the course you should feel confident to start exploring your own dataset using the materials and references provided. 
 
-<!--
+
 ## Course Data
+
 - Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2019-03-29-r/CourseData.zip) into the directory on your computer that you wish to work in
--->
-<!--## Materials
+
+## Materials
+
 - [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
 - [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+
+
 ## Feedback
-Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSel6bq7pfCo0bbXK6VgUUk0CVyRvW5cGHyPB1qoTLK2NkKKKA/viewform). This will help us improve the course for the future.
+Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6_I3HuXCq0Sgqi8U44YU2QI6Szzp6HkUSMwPw5kGa0L0eGQ/viewform). This will help us improve the course for the future.
 -->
 
 ## Who should attend this course?
