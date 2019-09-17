@@ -21,8 +21,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 - Sheffield Institute for Translational Neuroscience, University of Sheffield
 
 
-<!--## Course Data
-Please download and **unzip** this zip file that contains all the data files required for the course [CourseData.zip](http://sbc.shef.ac.uk/workshops/2018-10-24-stats/CourseData.zip)-->
 
 ## Booking
 
@@ -91,7 +89,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Course Data
 
-- Please download and unzip [this file](sbc.shef.ac.uk/stats-in-r/stats_course.zip)
+- Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
 
 ## Prerequisites
 
