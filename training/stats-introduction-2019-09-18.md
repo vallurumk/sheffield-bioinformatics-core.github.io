@@ -20,17 +20,26 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Sheffield Institute for Translational Neuroscience, University of Sheffield
 
-
-
-## Booking
-
-[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-18092019) to book your place on the course
-
 ## Overview
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
 
 **Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
 [http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/)**
+
+## Provisional Timetable and Materials
+
+- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture]()
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]()
+- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_i_-_contingency_tables)
+- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]()
+- 12:30 - 13:30 - LUNCH
+- 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_ii_-_how_to_assess_normality)
+- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture], [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables)
+
+## Course Data
+
+- Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
+
 
 ## Who should attend this course?
 
@@ -77,19 +86,6 @@ Install R by downloading and running [this .pkg file](http://cran.r-project.org/
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please install free [the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download). 
 
 
-## Provisional Timetable and Materials
-
-- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture]()
-- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]()
-- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical]()
-- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]()
-- 12:30 - 13:30 - LUNCH
-- 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical]()
-- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture], [Practical]()
-
-## Course Data
-
-- Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
 
 ## Prerequisites
 
