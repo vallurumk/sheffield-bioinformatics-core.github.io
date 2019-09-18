@@ -29,7 +29,7 @@ This course provides a refresher on the foundations of statistical analysis. The
 ## Provisional Timetable and Materials
 
 - 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Introduction.pptx)
-- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part1Contingency.pptx)
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture](https://github.com/sheffield-bioinformatics-core/stats-in-r/raw/master/Part1Contingency.pptx)
 - 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_i_-_contingency_tables)
 - 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part2Normality.pptx)
 - 12:30 - 13:30 - LUNCH
