@@ -28,13 +28,13 @@ This course provides a refresher on the foundations of statistical analysis. The
 
 ## Provisional Timetable and Materials
 
-- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture]()
-- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]()
+- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Introduction.pptx)
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]("http://sbc.shef.ac.uk/stats-in-r/Part 1 Contingency and tests for categorical variables.pptx")
 - 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_i_-_contingency_tables)
-- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]()
+- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]("http://sbc.shef.ac.uk/stats-in-r/Part 2  Normality & descriptives.pptx")
 - 12:30 - 13:30 - LUNCH
 - 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_ii_-_how_to_assess_normality)
-- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture], [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables)
+- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture]("http://sbc.shef.ac.uk/stats-in-r/Part 3 Significance tests for continuous variables.pptx"), [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables)
 
 ## Course Data
 
