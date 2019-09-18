@@ -29,12 +29,12 @@ This course provides a refresher on the foundations of statistical analysis. The
 ## Provisional Timetable and Materials
 
 - 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Introduction.pptx)
-- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]("https://github.com/sheffield-bioinformatics-core/stats-in-r/raw/master/Part%201%20Contingency%20and%20tests%20for%20categorical%20variables.pptx")
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part1Contingency.pptx)
 - 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_i_-_contingency_tables)
-- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]("https://github.com/sheffield-bioinformatics-core/stats-in-r/raw/master/Part%202%20%20Normality%20%26%20descriptives.pptx")
+- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part2Normality.pptx)
 - 12:30 - 13:30 - LUNCH
 - 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_ii_-_how_to_assess_normality)
-- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture]("https://github.com/sheffield-bioinformatics-core/stats-in-r/blob/master/Part%203%20Significance%20tests%20for%20continuous%20variables.pptx"), [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables)
+- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part3SignificanceTests.pptx), [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables)
 
 ## Course Data
 
