@@ -40,6 +40,9 @@ This course provides a refresher on the foundations of statistical analysis. The
 
 - Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
 
+## Feedback
+
+- We would be grateful if you could fill in [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdNb-MMvSDWs2ep5Av1Si31bcojsU3A1I7XgC96tXjxayMK5g/viewform) which will help us improve the course for the future.
 
 ## Who should attend this course?
 
