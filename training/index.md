@@ -33,11 +33,6 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 
 
-## 2020
-
-
-- **More courses to be announced soon**
-
 ## Past Courses
 
 ## 2019
