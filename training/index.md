@@ -13,18 +13,16 @@ You can also tell us about what courses you would like to attend in the future b
 Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please [contact us](mailto:bioinformatics-core@sheffield.ac.uk)
 
 
-## 2019
 
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019)
-- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-18092019) **Please make sure you have attended one of our Data Manipulation and Visualisation courses before attending**
-- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/nanopore-sequencing-and-analysis-19092019)
 
 - **More courses to be announced soon**
 
 ## Past Courses
 
 ## 2019
-
+- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-07-19/), July 19th
 - [Northern BUG Bioinformatics trainers workshop](http://sbc.shef.ac.uk/training/training-network-2019-07-09), July 9th/10th
 - [Best Practices for Data Management](http://sbc.shef.ac.uk/training/data-management-2019-07-02/), July 2nd
