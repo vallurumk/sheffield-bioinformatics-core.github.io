@@ -13,6 +13,27 @@ You can also tell us about what courses you would like to attend in the future b
 Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please [contact us](mailto:bioinformatics-core@sheffield.ac.uk)
 
 
+## 2019
+- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-11-13), November 13/14th, **Booking soon**
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/), December 9th, **Booking soon**
+
+## 2020
+
+- [Data Carpentry], January 20th/21st, **Booking soon**
+- [Introduction to the command line for Bioinformatics], February 12/13th, **Booking soon**
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd, **Booking soon**
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-03-05/), March 5th, **Booking soon**
+- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2020-04-06), April 6/7th
+- [Introduction to Cancer Somatic Analysis](http://sbc.shef.ac.uk/training/somatic-variants-introduction-2020-04-21), April 21st
+- [Principles of Machine Learning in R], May 13th, **Booking soon**
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-07-03/), July 3rd, **Booking soon**
+- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-07-13), July 13th, **Booking soon**
+
+
+
+## 2020
 
 
 - **More courses to be announced soon**
