@@ -16,7 +16,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 3rd March September 2020
+- Sheffield - 3rd March 2020
 - 09:30am - 5pm
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

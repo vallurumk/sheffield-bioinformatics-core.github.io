@@ -28,7 +28,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 - Principles of Machine Learning in R, May 13th, **Booking soon**
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
-- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-07-03/), July 3rd, **Booking soon**
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2020-07-03/), July 3rd, **Booking soon**
 - [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-07-13), July 13th, **Booking soon**
 
 
