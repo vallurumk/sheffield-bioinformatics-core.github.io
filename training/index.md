@@ -24,7 +24,6 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-03-05/), March 5th, **Booking soon**
 - [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2020-04-06), April 6/7th
-- [Introduction to Cancer Somatic Analysis](http://sbc.shef.ac.uk/training/somatic-variants-introduction-2020-04-21), April 21st
 - Principles of Machine Learning in R, May 13th, **Booking soon**
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
