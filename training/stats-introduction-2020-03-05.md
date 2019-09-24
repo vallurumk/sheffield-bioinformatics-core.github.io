@@ -16,7 +16,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 18th September 2019
+- Sheffield - 5th March 2020
 - 09:30am - 5pm
 - Pam Liversidge Building, Design Studio 1, D06
 
