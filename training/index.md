@@ -20,7 +20,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 ## 2020
 
 - Data Carpentry, January 20th/21st, **Booking soon**
-- Introduction to the command line for Bioinformatics, February 12/13th, **Booking soon**
+- Introduction to the command line for Bioinformatics, February 12th, **Booking soon**
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-03-05/), March 5th, **Booking soon**
 - [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2020-04-06), April 6/7th
