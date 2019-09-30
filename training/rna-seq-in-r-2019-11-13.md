@@ -113,5 +113,5 @@ Day 2
 
 ## Registration 
 
-Registration is opening soon. Sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join)to get updates.
+Registration is open now. Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq-analysis-in-r-2019) to register.
 
