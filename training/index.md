@@ -14,7 +14,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 
 ## 2019
-- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-11-13), November 13/14th, **Booking soon**
+- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-11-13), November 13/14th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-rnaseq-analysis-in-r-2019)
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/), December 9th, **Booking soon**
 
 ## 2020
