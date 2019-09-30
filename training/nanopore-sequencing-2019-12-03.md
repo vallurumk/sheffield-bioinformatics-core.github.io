@@ -4,7 +4,7 @@ title: Nanopore Sequencing and Data Analysis
 organizer: Sheffield Bioinformatics Core
 excerpt: "Nanopore Sequecning.."
 startDate: 2019-12-03
-endDate: 2019-12-03
+endDate: 2019-12-04
 startTime: 9.00
 endTime: 17.30
 postcode: S10 2HQ
@@ -16,9 +16,9 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 3rd December 2019
+- Sheffield - 3rd /4th December 2019
 - 09:00am - 5pm
-- E13 Dainton Building, University of Sheffield
+- E13 Dainton Building, University of Sheffield / SITraN
 
 # N.B. This is a "Hands-On" course where you will perform the sequencing!!
 
@@ -84,17 +84,10 @@ Wet Lab Researchers and Bioinformaticians who want to learn about Oxford Nanopor
 
 ## Timetable (provisional)
 
-- 09:00 - 09:15 Health & Safety Introducton and Risk Assessment
-- 09:15 - 9:45 Introduction
-- 09:45 - 11:00 Preparation of PCR Reaction
-- 11:00 - 11:15 Coffee (Provided)
-- 11:15 - 12:00 Nanopore Basics (& Data)
-- 12:00 - 13:00 Lunch (Provided)
-- 13:00 - 14:00 Clean-Up & Loading of Flow Cell
-- 14:00 - 15:00 Intro to Galaxy and Processing of Data
-- 15:00 - 15:15 Coffee (Provided)
-- 15:15 - 17:00 Data Analysis Practical (analysing data you are generating on the MinION)
-- 17:00 - 17:30 Course Wrap-Up
+Day 1
 
+- 09:00 - 14:00 Wet lab
 
+Day 2
 
+- 09:00 - 12:00 Bioinformatics
