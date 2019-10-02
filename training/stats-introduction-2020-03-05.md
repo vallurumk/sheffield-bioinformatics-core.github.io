@@ -26,6 +26,10 @@ This course provides a refresher on the foundations of statistical analysis. The
 **Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
 [http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/)**
 
+## Registration
+
+Please book your place on the course using [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-5th-march-2020)
+
 ## Provisional Timetable and Materials
 
 - 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/workshops/2019-09-18-stats-r/Introduction.pptx)
