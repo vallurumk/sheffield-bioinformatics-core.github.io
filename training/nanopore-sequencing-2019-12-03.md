@@ -33,7 +33,7 @@ This is a hands-on course with Oxford Nanopore technology, therefore the fee for
 - £400 for Academic participants
 - £550 for Industry and commercial participants
 
-[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/nanopore-sequencing-and-analysis-19092019) to book your place on the course
+[Click here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/nanopore-sequencing-and-analysis-december-2019) to book your place on the course
 
 
 ## Who should attend this course?
