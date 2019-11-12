@@ -20,7 +20,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 ## 2020
 
-- Data Carpentry, January 20th/21st, **Booking soon**
+- Essential Data Analysis Skills for Researchers, January 20th/21st, **Booking soon**
 - [Introduction to the command line for Bioinformatics](http://sbc.shef.ac.uk/training/command-line-2020-02-12), February 12th, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-the-command-line-for-bioinformatics-12th-feburary-2020)
 - [Bulk RNA-seq Analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-02-13), February 13th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/bulk-rnaseq-analysis-in-r-13th-feburary-2020)
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-3rd-march-2020)
