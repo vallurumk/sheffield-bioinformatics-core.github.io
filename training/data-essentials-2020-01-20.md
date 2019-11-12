@@ -25,7 +25,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Overview
 
-In many domains of research the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analysing and sharing data.
+In many domains of research the rapid generation of large amounts of data is fundamentally changing how research is done. The deluge of data presents great opportunities, but also many challenges in managing, analysing and sharing data. 
 
 This workshop is designed to teach basic concepts, skills and tools for working more effectively with data, using a combination of tools with a main focus in R. The workshop is aimed at researchers in the life sciences at all career stages and is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools
 
@@ -34,11 +34,12 @@ This workshop is designed to teach basic concepts, skills and tools for working 
 
  
 - "Clean" a spreadsheet so that it is ready for analysis in R
-- Create a reproducible piece of R code to import, visualise and perform a statistical test on biological data
+- Create a *reproducible* piece of R code to import and visualise data
 - Know how to develop your data analysis skills after the course
 
 ## Aims:- During this course you will learn about:
 
+- How to avoid common formatting mistakes
 - How to use spreadsheet programs (such as Excel) more effectively, and the limitations of such programs
 - Writing and executing basic data analysis workflows in R
 
