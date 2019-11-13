@@ -27,7 +27,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We give example of processing data arising from Next-Generation Sequencing experiments, in particular an RNA-seq experiment.
 
-**This course is highly-recommended as a pre-requisite for our course Bulk RNA-seq Analysis in R**
+**This course is highly-recommended as a pre-requisite for our course RNA-seq Analysis in R**
 
 ## Who should attend this course?
 
