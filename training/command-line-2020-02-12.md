@@ -31,6 +31,7 @@ This course offers an introduction to working with Linux. We will describe the L
 
 ## Who should attend this course?
 
+Those wanting to use the command-line to perform data analysis; particularly those with next-generation sequencing data such as RNA-Seq
 
 ## Objectives:- After this course you should be able to:
 
@@ -66,4 +67,4 @@ This course offers an introduction to working with Linux. We will describe the L
 
 ## Registration 
 
-A link to register for the course will appear here...
+Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-the-command-line-for-bioinformatics-12th-feburary-2020) to register
