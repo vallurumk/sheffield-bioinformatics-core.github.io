@@ -36,6 +36,8 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 ***Please also make sure you have experience of using the Unix command line. For example by attending our Introduction to the Command Line for Bioformatics course***
 
+https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-the-command-line-for-bioinformatics-12th-feburary-2020
+
 ## Acknowledgements
 
 This course is based on the course [RNAseq analysis in R](http://combine-australia.github.io/2016-05-11-RNAseq/) originally prepared by [Combine Australia](https://combine.org.au/) and delivered on May 11/12th 2016 in Carlton. The course was then modified by Cancer Research Uk Cambridge Institute and delivered as part of the [CRUK Functional Genomics Autumn School](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
@@ -110,5 +112,5 @@ Day 1
 
 ## Registration 
 
-Registration is opening soon. Sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join)to get updates.
+Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/bulk-rnaseq-analysis-in-r-13th-feburary-2020). Sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join)to get updates.
 
