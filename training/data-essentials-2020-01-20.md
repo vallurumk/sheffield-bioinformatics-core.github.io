@@ -50,7 +50,7 @@ This workshop is designed to teach basic concepts, skills and tools for working 
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-
+- Katjusa Koler, PhD Student
 
 ## Course Data
 
