@@ -30,10 +30,10 @@ Registration is open now. Please use [this link](https://onlineshop.shef.ac.uk/c
 ## Course Materials
 
 
-- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment]()
+- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
 - LUNCH (not provided)
-- 13:30 - 14:30 [Differential Expression tutorial]()
-- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment]()
+- 13:30 - 14:30 [Differential Expression tutorial](sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
+- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](sbc.shef.ac.uk/rna-seq-in-galaxy/03.enrichment.nb.html)
 
 
 ## Overview
@@ -74,7 +74,8 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/index.html), Bioinformatics Core Analyst
-
+- [Sokratis Kariotis], Phd Student
+- [Brenda Lourdes Aguero Burgos], Phd Student
 
 
 
