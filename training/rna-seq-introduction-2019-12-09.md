@@ -33,7 +33,7 @@ Registration is open now. Please use [this link](https://onlineshop.shef.ac.uk/c
 - 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
 - LUNCH (not provided)
 - 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
-- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03.enrichment.nb.html)
+- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
 
 
 ## Overview
