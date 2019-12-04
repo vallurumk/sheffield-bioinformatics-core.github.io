@@ -14,7 +14,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 
 ## 2019
-- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-12-03/), December 3rd / 4th, [Booking here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/nanopore-sequencing-and-analysis-december-2019)
+
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/), December 9th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-9th-december-2019)
 
 ## 2020
@@ -36,6 +36,7 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 ## Past Courses
 
 ## 2019
+- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-12-03/), December 3rd / 4th
 - [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th
