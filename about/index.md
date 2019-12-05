@@ -15,7 +15,7 @@ To quote R.A. Fisher
 
 ## What to Expect
 
-An initial meeting, which is free of charge will then be scheduled to discuss your requirements and how the SBC can assist. The meeting will involve yourself, the SBC director, one of the analysis team, and ideally a representative of the facility you intend to use to generate your data. As a result of this initial meeting, the Core will determine whether the proposed project fits within their remit, or recommend referral to other local expertise; such as the faculty members that constitute the [Bioinformatics Hub](http://bioinformatics.group.shef.ac.uk/), or the [Research Software Engineering group](http://rse.shef.ac.uk/). 
+An initial meeting, which is free of charge will then be scheduled to discuss your requirements and how the SBC can assist. The meeting will involve yourself, the SBC director, one of the analysis team, and ideally a representative of the facility you intend to use to generate your data. As a result of this initial meeting, the Core will determine whether the proposed project fits within their remit, or recommend referral to other local expertise; such as the faculty members that constitute the [Bioinformatics Network](https://bioinformatics.group.shef.ac.uk/), or the [Research Software Engineering group](https://rse.shef.ac.uk/). 
 
 
 After the initial consultation you will receive a *Memorandum of Understanding* (MOU) which will require your signature of the project P.I. before the Core’s work on the project can commence. This document clarifies your relationship with the Core for the duration of the project. The most appropriate analyst to execute the project will be selected and this analyst will be your point of contact throughout the analysis cycle. 
