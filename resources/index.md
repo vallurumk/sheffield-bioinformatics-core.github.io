@@ -34,7 +34,7 @@ Other researchers / Core facilities that we collaborate with and share resources
 
 ## Talks
 
-Talks and presentations given by members of the Core. For training materials and longer courses, see our [training](http://sbc.shef.ac.uk//training/) section.
+Talks and presentations given by members of the Core. For training materials and longer courses, see our [training](https://sbc.shef.ac.uk//training/) section.
 
 - [Data Formatting Introduction](https://sbc.shef.ac.uk/data-formatting/slides), BTEC Applied Science visit, June 14th 2019
 - [Downstream Functional Analysis](https://drive.google.com/file/d/1BnmOms_pSJe00Br6ywkzvbJfL4rQYmXA/view?usp=sharing), Delivered as part of the MSC in Molecular Medicine, University of Sheffield, 8th March 2018
