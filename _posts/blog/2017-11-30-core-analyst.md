@@ -25,6 +25,4 @@ This post is in the Sheffield Bioinformatics Core (SBC) which has University-wid
 
 This is a unique opportunity for you to participate in world-class research whilst; applying best practice and developing new analytical skills and building on your existing expertise. As a senior member of the bioinformatics core team, you will deliver within a comprehensive portfolio of infrastructure, data analysis, training and development. You should have a strong background in statistics with clear evidence of applying statistical methodology to genomics and high dimensional data. You will be working directly with biomedical researchers, primarily in the Faculty of Medicine, Dentistry and Health, on projects that have a strong translational focus; applying design and interpretation of disease transcriptomics and genome sequences in humans and model organisms. Building your career together with a cohesive, interactive team of highly experienced bioinformaticians, you will be able to leverage a great opportunity to join a newly launched organisation where you will have a key role in establishing Sheffield as an internationally-recognised centre of excellence for Bioinformatics support.
 
-Apply here
-
-[http://www.jobs.ac.uk/job/BFZ056/sheffield-bioinformatics-core-analyst/](http://www.jobs.ac.uk/job/BFZ056/sheffield-bioinformatics-core-analyst/)
+Apply here:-
