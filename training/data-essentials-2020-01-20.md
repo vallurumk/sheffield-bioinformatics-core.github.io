@@ -30,6 +30,8 @@ In many domains of research the rapid generation of large amounts of data is fun
 This workshop is designed to teach basic concepts, skills and tools for working more effectively with data, using a combination of tools with a main focus in R. The workshop is aimed at researchers in the life sciences at all career stages and is designed for learners with little to no prior knowledge of programming, shell scripting, or command line tools
 
 
+**Please note that this course is funded by the ThinkAhead scheme and only available to staff / students at The University of Sheffield**
+
 ## Objectives:- After this course you should be able to:
 
  
