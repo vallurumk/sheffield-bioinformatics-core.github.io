@@ -56,6 +56,6 @@ Matthew Parker is a registered Clinical Scientist (Bioinformatics) in the core a
 - Data Management and curation
 - Creating interactive web applications wih [shiny](https://shiny.rstudio.com/)
 
-As well as these analysis services, we also provide [training](../training) courses and bespoke 1-to-1 training for researchers
+As well as these analysis services, we also provide [training](https://sbc.shef.ac.uk/training) courses and bespoke 1-to-1 training for researchers
 
 
