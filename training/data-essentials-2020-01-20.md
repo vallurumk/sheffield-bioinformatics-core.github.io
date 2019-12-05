@@ -70,4 +70,4 @@ Day 2
 
 ## Registration 
 
-A link to register for the course will appear here...
+Please use [this link](https://onlineshop.shef.ac.uk/product-catalogue/professional-services/research-services/essential-data-analysis-skills-for-researchers-20th21st-january-2020) to register for the course.
