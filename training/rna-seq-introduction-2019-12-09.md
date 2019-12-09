@@ -78,8 +78,8 @@ Please download the Integrative Genomics Viewer (IGV) for your operating system 
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/index.html), Bioinformatics Core Analyst
-- [Sokratis Kariotis], Phd Student
-- [Brenda Lourdes Aguero Burgos], Phd Student
+- Sokratis Kariotis, Phd Student
+- Brenda Lourdes Aguero Burgos, Phd Student
 
 
 
