@@ -27,6 +27,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 Registration is open now. Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-9th-december-2019) to register.
 
+## Feedback
+
+Please leave us feedback for the course using [this link](https://docs.google.com/forms/d/e/1FAIpQLScOJcufwU5moo8X6W_FEgrPbmFMlOEwf_Q8S-d7S1gz-8NXOA/viewform)
+
 ## Course Materials
 
 
