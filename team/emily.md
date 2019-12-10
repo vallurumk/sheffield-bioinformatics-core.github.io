@@ -3,7 +3,7 @@ layout: page
 title: Emily Chambers
 excerpt: "More about Emily..."
 ---
-![emily](../images/emilychambers.jpg)
+![emily](../images/emilychambers.jpeg)
 
 
 
