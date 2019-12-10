@@ -13,10 +13,6 @@ You can also tell us about what courses you would like to attend in the future b
 Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please [contact us](mailto:bioinformatics-core@sheffield.ac.uk)
 
 
-## 2019
-
-- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/), December 9th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-9th-december-2019)
-
 ## 2020
 
 - [Essential Data Analysis Skills for Researchers](http://sbc.shef.ac.uk/training/data-essentials-2020-01-20), January 20th/21st, [Book here](https://onlineshop.shef.ac.uk/product-catalogue/professional-services/research-services/essential-data-analysis-skills-for-researchers-20th21st-january-2020), **University of Sheffield Staff and Students only**
@@ -36,6 +32,8 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 ## Past Courses
 
 ## 2019
+
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/), December 9th
 - [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-12-03/), December 3rd / 4th
 - [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th
