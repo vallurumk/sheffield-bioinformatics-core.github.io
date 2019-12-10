@@ -17,27 +17,14 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-- Sheffield - 9th December 2019
-- 09:30am - 5pm
-- Pam Liversidge Design Studio 1 - D06
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-## Registration 
-
-Registration is open now. Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-9th-december-2019) to register.
-
-## Feedback
-
-Please leave us feedback for the course using [this link](https://docs.google.com/forms/d/e/1FAIpQLScOJcufwU5moo8X6W_FEgrPbmFMlOEwf_Q8S-d7S1gz-8NXOA/viewform)
 
 ## Course Materials
 
 
-- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/01-pre-processing.nb.html)
+- 09:30 - 12:30 [Hands-on tutorial on RNA-seq data formats, QC and alignment](http://sbc.shef.ac.uk/workshops/2019-12-09-rna-seq/01-pre-processing.nb.html)
 - LUNCH (not provided)
-- 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/rna-seq-in-galaxy/02-differential-expression.nb.html)
-- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/rna-seq-in-galaxy/03-enrichment.nb.html)
+- 13:30 - 14:30 [Differential Expression tutorial](http://sbc.shef.ac.uk/workshops/2019-12-09-rna-seq/02-differential-expression.nb.html)
+- 14:30 - 17:00 [Hands-on tutorial on gene set enrichment](http://sbc.shef.ac.uk/workshops/2019-12-09-rna-seq/03-enrichment.nb.html)
 
 
 ## Overview
