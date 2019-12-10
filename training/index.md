@@ -15,16 +15,31 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 ## 2019
 
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-17092019)
-- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-18092019) **Please make sure you have attended one of our Data Manipulation and Visualisation courses before attending**
-- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/nanopore-sequencing-and-analysis-19092019)
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/), December 9th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-9th-december-2019)
 
-- **More courses to be announced soon**
+## 2020
+
+- [Essential Data Analysis Skills for Researchers](http://sbc.shef.ac.uk/training/data-essentials-2020-01-20), January 20th/21st, [Book here](https://onlineshop.shef.ac.uk/product-catalogue/professional-services/research-services/essential-data-analysis-skills-for-researchers-20th21st-january-2020), **University of Sheffield Staff and Students only**
+- [Introduction to the command line for Bioinformatics](http://sbc.shef.ac.uk/training/command-line-2020-02-12), February 12th, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-the-command-line-for-bioinformatics-12th-feburary-2020), **Highly recommended if attending RNA-seq Analysis in R on February 13th**
+- [RNA-seq Analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-02-13), February 13th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/bulk-rnaseq-analysis-in-r-13th-feburary-2020)
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-3rd-march-2020)
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-03-05/), March 5th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-5th-march-2020)
+- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2020-04-06), April 6/7th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation-april-2020)
+- Principles of Machine Learning in R, May 13th, **Booking soon**
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
+- [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2020-07-03/), July 3rd, **Booking soon**
+- [Introduction to RNA-seq in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-07-13), July 13th, **Booking soon**
+
+
 
 ## Past Courses
 
 ## 2019
-
+- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-12-03/), December 3rd / 4th
+- [Nanopore Sequencing & Data Analysis](http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/), September 19th
+- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/), September 18th
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/), September 17th
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-07-19/), July 19th
 - [Northern BUG Bioinformatics trainers workshop](http://sbc.shef.ac.uk/training/training-network-2019-07-09), July 9th/10th
 - [Best Practices for Data Management](http://sbc.shef.ac.uk/training/data-management-2019-07-02/), July 2nd

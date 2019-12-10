@@ -4,7 +4,7 @@ title: Expertise offered by the Sheffield Bioinformatics Core
 excerpt: "How to work with the SBC..."
 ---
 
-As part of our *triage* process we will direct your query to the most appropriate expert, which may be one of the faculty members that make up the [Sheffield Bioinformatics Hub](http://bioinformatics.group.shef.ac.uk/) or the [Research Software Engineering group](http://rse.shef.ac.uk/) at Sheffield.
+As part of our *triage* process we will direct your query to the most appropriate expert, which may be one of the faculty members that make up the [Sheffield Bioinformatics Hub](https://bioinformatics.group.shef.ac.uk/) or the [Research Software Engineering group](https://rse.shef.ac.uk/) at Sheffield.
 
 The SBC has expertise in the following areas, and software packages:-
 
@@ -56,6 +56,6 @@ Matthew Parker is a registered Clinical Scientist (Bioinformatics) in the core a
 - Data Management and curation
 - Creating interactive web applications wih [shiny](https://shiny.rstudio.com/)
 
-As well as these analysis services, we also provide [training](../training) courses and bespoke 1-to-1 training for researchers
+As well as these analysis services, we also provide [training](https://sbc.shef.ac.uk/training) courses and bespoke 1-to-1 training for researchers
 
 
