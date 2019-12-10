@@ -11,10 +11,10 @@ Talks and presentations given by members of the Core. For training materials and
 
 
 - [Data Formatting Introduction](https://sbc.shef.ac.uk/data-formatting/slides), BTEC Applied Science visit, June 14th 2019
+- [Best Practices for teaching (and learning) R](https://markdunning.github.io/teaching-best-practice/slides.html#1), April 2nd 2019
 - [Measuring Mutation Burden and Sequence Level Bias: An Initial  Assessment of 100K data](https://www.youtube.com/watch?v=O_aaNUTwkB8), 6th December 2019
 - [Downstream Functional Analysis](https://drive.google.com/file/d/1BnmOms_pSJe00Br6ywkzvbJfL4rQYmXA/view?usp=sharing), Delivered as part of the MSC in Molecular Medicine, University of Sheffield, 8th March 2018
 - [Overview of the Docker Container system](https://markdunning.github.io/docker-overview/), Talk at [SheffieldR](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/), 6th March 2018
-- [Hands-on Introduction to RNA-seq using Galaxy](https://sbc.shef.ac.uk/rna-seq-in-galaxy/), Delivered as part of the MSC in Molecular Medicine, University of Sheffield, 5th March 2018
 
 
 ## Github
