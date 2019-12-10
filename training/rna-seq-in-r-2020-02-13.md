@@ -29,10 +29,7 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 ## Prerequisities
 
-- Data Manipulation and Visualisation
-- Introduction to the command line for Bioinformatics
-
-***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reading our [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/) before attending, which should take around 1 hour***
+***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. If you have done and R course before we recommend reading our [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/) before attending to refresh your knowledge. You can also attend our [Data Analysis Essentials for Researchers](http://sbc.shef.ac.uk/training/data-essentials-2020-01-20) if you have not used R previously. 
 
 ***Please also make sure you have experience of using the Unix command line. For example by attending our Introduction to the Command Line for Bioformatics course***
 
