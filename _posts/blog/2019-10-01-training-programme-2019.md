@@ -2,7 +2,7 @@
 layout: post
 title: Bioinformatics Courses in 2019/2020
 categories: blog
-excerpt: Course programme for 2019/2020
+excerpt: 2019/2020 training programme
 tags: []
 image:
   feature:
