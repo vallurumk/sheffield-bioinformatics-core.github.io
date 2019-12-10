@@ -18,7 +18,7 @@ Talks and presentations given by members of the Core. For training materials and
 
 ## Github
 
-On our [github repository](https://github.com/sheffield-bioinformatics-core) you will and index of bits of code we have written, published analyses we have performed for collaborators, training materials and even the code required to run this website. 
+On our [github repository](https://github.com/sheffield-bioinformatics-core) you will find an index of bits of code we have written, published analyses we have performed for collaborators, training materials and even the code required to run this website. 
 
 ## Software
 
