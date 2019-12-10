@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Bioinformatics Courses in 2018/2019
 categories: blog
 excerpt: 2018/2019 training programme
 tags: []

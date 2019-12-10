@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bioinformatics Clinics
+title: Bioinformatics Courses in 2019/2020
 categories: blog
-excerpt: Fortnightly bioinformatics clinics for Sheffield Uni researchers
+excerpt: Course programme for 2019/2020
 tags: []
 image:
   feature:
