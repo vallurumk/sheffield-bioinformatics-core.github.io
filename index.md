@@ -5,11 +5,13 @@ excerpt: "Sheffield Bioinformatics Core Facility home page."
 search_omit: true
 ---
 
-The Sheffield Bioinformatics Core Facility aims to develop and advance the training and application of bioinformatics and computational biology to biological research, biomedical research and public health in Sheffield
+The Sheffield Bioinformatics Core Facility aims to develop and advance the training and application of bioinformatics and computational biology to biological research, biomedical research and public health in Sheffield. Our consulting and training courses are also available to other Universities and industrial partners
 
-We offer the following services:
+We offer a comprehensive [training programme](https://sbc.shef.ac.uk/training) and services including (but not limited to):
+
 - Experimental Design
 - High-Throuput Next Generation Sequencing (NGS) Analysis
+- Analysis of long-read sequencing (e.g. Nanopore)
 - Clinical Bioinformatics Services
 - Clinical Bioinformatics Consulting
 - Microarray Analysis
