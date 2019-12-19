@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming Bioinformatics Seminar
+title: Upcoming single-cell genomics seminar
 categories: blog
 excerpt: John Marioni visits SBC in January 2020
 tags: []
@@ -17,7 +17,7 @@ author: mark_dunning
 
 We are pleased to announce that the SBC will be hosting a seminar from Dr. John Marioni from EMBL-EBI and Cancer Research Uk Cambridge Institute on Friday 10th January 2020.
 
-![](/images/john_marioni_talk.png]
+![](/images/john_marioni_talk.png)
 
 ## Abstract
 
