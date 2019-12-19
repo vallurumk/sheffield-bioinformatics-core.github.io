@@ -14,4 +14,4 @@ A key philosphy of working with the Sheffield Bioinformatics Core is that you ar
 
 ## Scientific Director
 
-- [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director)
+- [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director), [Academic Group website](https://www.trans-bioinformatics.com/)

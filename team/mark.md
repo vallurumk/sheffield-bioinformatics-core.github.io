@@ -4,7 +4,7 @@ title: Mark Dunning
 excerpt: "More about Mark..."
 ---
 
-![mark](../images/IMG_2921_resize.jpg)
+![mark](/images/MD_new.jpg)
 
 Mark joined The University of Sheffield in October 2017 to establish the Bioinformatics Core
 
@@ -31,6 +31,7 @@ I obtained my PhD in the Statistics and Computational Biology group of [Simon Ta
 
 I have a strong commitment to reproducible research and making my research outputs available to other researchers, and indeed members of the public who may have funded the research in the first place. For instance, I recently developed and deployed a [Shiny](https://shiny.rstudio.com/) application that allows interested parties to query various [prostate cancer datasets](https://bioinformatics.cruk.cam.ac.uk/apps/camcAPP/). In keeping with my open access principles, the code underlying the application is available via [github](https://github.com/crukci-bioinformatics/camcAPP) and utilises data sets that can be downloaded from [Bioconductor](https://bioconductor.org/packages/release/BiocViews.html#___ProstateCancerData). I have also recently investigated technologies such as Galaxy and [Docker](https://www.docker.com) to ease the deployment of software and facilitate reproducible research.
 
+I am a certified instructor for [Data and Software Carpentry](https://carpentries.org/)
 ## Publications
 
 For my updated and full list of publications, please see my ORCid entry:-
