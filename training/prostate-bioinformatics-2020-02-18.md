@@ -26,14 +26,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESEq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.
 
 
-## Acknowledgements
-
-This course is based on the course [RNAseq analysis in R](http://combine-australia.github.io/2016-05-11-RNAseq/) originally prepared by [Combine Australia](https://combine.org.au/) and delivered on May 11/12th 2016 in Carlton. The course was then modified by Cancer Research Uk Cambridge Institute and delivered as part of the [CRUK Functional Genomics Autumn School](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
-
-![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/combine_banner.png)
-
-![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/CRUK_Cambridge_Major%20Centre%20logo.jpg)
-
 ## Who should attend this course?
 
 Researchers in life sciences who want to get an appreciation for the computational steps involved in analysis RNA-seq data from Prostate cancer, and how to execute best-practice RNA-seq workflows in R.
@@ -52,6 +44,7 @@ Researchers in life sciences who want to get an appreciation for the computation
 - Differential expression analysis using edgeR and DEseq2
 - Annotation resources in Bioconductor
 - Identifying over-represented gene sets among a list of differentially expressed genes 
+- Techniques for analysing spatial transcriptomics data in R
     
 ## Software installation
 You will need to bring an internet-enabled laptop to the course and install the latest versions of both R ***and*** RStudio before coming to the course
@@ -105,5 +98,13 @@ Day 3
 
 ## Registration 
 
-Registration is by invite only. Please see our [training page](sbc.shef.ac.uk/training) for other training opportunities, or contact us to discuss running a course at your location
+Registration is by invite only. Please see our [training page](https://sbc.shef.ac.uk/training) for other training opportunities, or contact us to discuss running a course at your location
 
+
+## Acknowledgements
+
+This course is based on the course [RNAseq analysis in R](http://combine-australia.github.io/2016-05-11-RNAseq/) originally prepared by [Combine Australia](https://combine.org.au/) and delivered on May 11/12th 2016 in Carlton. The course was then modified by Cancer Research Uk Cambridge Institute and delivered as part of the [CRUK Functional Genomics Autumn School](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
+
+![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/combine_banner.png)
+
+![](https://raw.githubusercontent.com/sheffield-bioinformatics-core/RNAseq-R/gh-pages/images/CRUK_Cambridge_Major%20Centre%20logo.jpg)
