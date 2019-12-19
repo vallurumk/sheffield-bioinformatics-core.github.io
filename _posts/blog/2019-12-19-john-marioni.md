@@ -19,10 +19,6 @@ We are pleased to announce that the SBC will be hosting a seminar from Dr. John 
 
 ![](/images/john_marioni_talk.png)
 
-## Abstract
-
-> With recent technological developments it has become possible to characterize a single cell’s genome, epigenome, transcriptome and proteome. However, to take advantage of such data it is critical that appropriate computational methods are applied and developed. In this presentation, I will describe some of the computational challenges and the solutions we have developed, focusing particularly on applications in the context of cell fate decisions in early mammalian development.
-
 ## Biography
 
 Dr John Marioni
