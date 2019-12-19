@@ -4,7 +4,7 @@ title: Mark Dunning
 excerpt: "More about Mark..."
 ---
 
-![mark](/images/MD_new.jpg)
+<img src="/images/MD_new.jpg" height=150 align="middle">
 
 Mark joined The University of Sheffield in October 2017 to establish the Bioinformatics Core
 
