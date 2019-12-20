@@ -1,7 +1,7 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Crash Course in R and Prostate Bioinformatics
+title: Crash Course in R and Prostate Cancer Bioinformatics
 excerpt: "RNA-seq in R"
 startDate: 2020-02-18
 endDate: 2020-02-20
