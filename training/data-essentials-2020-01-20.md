@@ -64,14 +64,18 @@ This workshop is designed to teach basic concepts, skills and tools for working 
 
 Day 1
 
-- Data Organisation in Spreadsheets
-- Using Open Refine to clean data
-- Introduction to R
+- 9:30 -  11:30 Data Organisation in Spreadsheets (including coffee break)
+- 11:00 - 12:30 OpenRefine for Data Cleaning
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 14:30 OpenRefine for Data Cleaning
+- 14:00 - 17:00 Introduction to R and RStudio
 
 Day 2
 
-- Data Manipulation
-- Data Visualisation
+- 09:30 - 12:30 Data Manipulation in R (including coffee break)
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 15:00 Plotting data in R
+- 15:00 - 17:00 Summarising and Joining Data
 
 ## Registration 
 
