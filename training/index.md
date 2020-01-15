@@ -8,10 +8,14 @@ excerpt: "Details of upcoming and past training courses.."
 
 To be the first to hear about our training course program and for other core news and annoucements please join our mailing list [here](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join). 
 
-You can also tell us about what courses you would like to attend in the future by [filling in this form](http://goo.gl/97fZGt)
+---
+<!--You can also tell us about what courses you would like to attend in the future by [filling in this form](http://goo.gl/97fZGt)-->
 
 Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please [contact us](mailto:bioinformatics-core@sheffield.ac.uk)
 
+---
+
+If you are based in Sheffield and want 1:1 advice on data analysis, experimental design or any Bioinformatics problem, you can [book a clinic with us](https://sbc.shef.ac.uk/blog/clinics/)
 
 ## 2020
 
