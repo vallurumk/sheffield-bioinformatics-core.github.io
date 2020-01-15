@@ -88,8 +88,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Mark Dunning, Bioinformatics Core Director
 - Katjusa Koler, PhD Student
-- Emily Chambers, Bioinformatics Core Analyst
 - Bev Jones, University of Sheffield Library Services
+- Tim Freeman, PhD Student
+- Niamh Errington, PhD Student
 
 ## Course Data
 
