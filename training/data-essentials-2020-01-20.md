@@ -102,7 +102,7 @@ Day 1
 - 11:00 - 12:30 OpenRefine for Data Cleaning
 - 12:30 - 13:30 LUNCH (not provided)
 - 13:30 - 14:30 OpenRefine for Data Cleaning
-- 14:00 - 17:00 Introduction to R and RStudio
+- 14:30 - 17:00 Introduction to R and RStudio
 
 Day 2
 
