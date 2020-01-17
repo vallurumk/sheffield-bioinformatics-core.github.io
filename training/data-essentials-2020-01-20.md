@@ -32,7 +32,7 @@ This workshop is designed to teach basic concepts, skills and tools for working 
 
 **Please note that this course is funded by the ThinkAhead scheme and only available to staff / students at The University of Sheffield**
 
-<img src=="../images/ta_logo.jpg" height=300>
+![](../images/ta_logo.jpg)
 
 ## Course Data
 
