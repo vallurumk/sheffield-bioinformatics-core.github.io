@@ -32,7 +32,33 @@ This workshop is designed to teach basic concepts, skills and tools for working 
 
 **Please note that this course is funded by the ThinkAhead scheme and only available to staff / students at The University of Sheffield**
 
-![](../images/ta_logo.jpg)
+<img src=="../images/ta_logo.jpg" height=300>
+
+## Course Data
+
+(right-click and select Save Link as...)
+
+- [Data for Spreadsheets practical](https://ndownloader.figshare.com/files/2252083)
+- [Data for OpenRefine](https://ndownloader.figshare.com/files/7823341)
+- [Data for Day 2](http://sbc.shef.ac.uk/workshops/2019-09-17-r/CourseData.zip)
+
+## Timetable and Materials
+
+Day 1
+
+- 9:30 -  11:30 Data Organisation in Spreadsheets (including coffee break)
+- 11:00 - 12:30 OpenRefine for Data Cleaning
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 14:30 OpenRefine for Data Cleaning
+- 14:30 - 17:00 Introduction to R and RStudio
+
+Day 2
+
+- 09:30 - 12:30 Data Manipulation in R (including coffee break)
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 15:00 Plotting data in R
+- 15:00 - 17:00 Summarising and Joining Data
+
 
 ## Objectives:- After this course you should be able to:
 
@@ -92,25 +118,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Tim Freeman, PhD Student
 - Niamh Errington, PhD Student
 
-## Course Data
-
-
-## Timetable (provisional)
-
-Day 1
-
-- 9:30 -  11:30 Data Organisation in Spreadsheets (including coffee break)
-- 11:00 - 12:30 OpenRefine for Data Cleaning
-- 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 14:30 OpenRefine for Data Cleaning
-- 14:30 - 17:00 Introduction to R and RStudio
-
-Day 2
-
-- 09:30 - 12:30 Data Manipulation in R (including coffee break)
-- 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 15:00 Plotting data in R
-- 15:00 - 17:00 Summarising and Joining Data
 
 ## Registration 
 
