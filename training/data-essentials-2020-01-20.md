@@ -60,6 +60,10 @@ Day 2
 - 15:00 - 17:00 Summarising and Joining Data
 
 
+## Feedback
+
+Please leave us feedback using [this link](https://docs.google.com/forms/d/e/1FAIpQLSelCAUgZb1zWq45ucm4CVJ-Q7VbXZnzgys3nGETYsKqzqvOxg/viewform)
+
 ## Objectives:- After this course you should be able to:
 
  
