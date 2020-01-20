@@ -52,7 +52,7 @@ Day 1
 - 13:30 - 14:30 OpenRefine for Data Cleaning
 - 14:30 - 17:00 [Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)(Parts I to IV)
 
-Day 2
+Day 2 - [Materials](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#dealing-with-data)
 
 - 09:30 - 12:30 Data Manipulation in R (including coffee break)
 - 12:30 - 13:30 LUNCH (not provided)
