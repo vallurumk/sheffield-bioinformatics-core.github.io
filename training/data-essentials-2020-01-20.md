@@ -47,7 +47,7 @@ This workshop is designed to teach basic concepts, skills and tools for working 
 Day 1
 
 - 9:30 -  11:30 [Data Organisation in Spreadsheets (including coffee break)](https://datacarpentry.org/spreadsheet-ecology-lesson/)
-- 11:00 - 12:30 [OpenRefine for Data Cleaning](https://datacarpentry.org/OpenRefine-ecology-lesson/)
+- 11:30 - 12:30 [OpenRefine for Data Cleaning](https://datacarpentry.org/OpenRefine-ecology-lesson/)
 - 12:30 - 13:30 LUNCH (not provided)
 - 13:30 - 14:30 OpenRefine for Data Cleaning
 - 14:30 - 17:00 [Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)(Parts I to IV)
