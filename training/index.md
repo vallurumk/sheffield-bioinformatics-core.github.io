@@ -19,7 +19,7 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2020
 
-- [Essential Data Analysis Skills for Researchers](http://sbc.shef.ac.uk/training/data-essentials-2020-01-20), January 20th/21st, [Book here](https://onlineshop.shef.ac.uk/product-catalogue/professional-services/research-services/essential-data-analysis-skills-for-researchers-20th21st-january-2020), **University of Sheffield Staff and Students only**
+
 - [Introduction to the command line for Bioinformatics](http://sbc.shef.ac.uk/training/command-line-2020-02-12), February 12th, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-the-command-line-for-bioinformatics-12th-feburary-2020), **Highly recommended if attending RNA-seq Analysis in R on February 13th**
 - [RNA-seq Analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-02-13), February 13th, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/bulk-rnaseq-analysis-in-r-13th-feburary-2020)
 - [Introduction to R and Prostate Bioinformatics](https://sbc.shef.ac.uk/training/prostate-bioinformatics-2020-02-18), February 18/19/20th, University of Oxford, **Invitation only**
@@ -35,6 +35,10 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 
 ## Past Courses
+
+## 2020
+
+- [Essential Data Analysis Skills for Researchers](http://sbc.shef.ac.uk/training/data-essentials-2020-01-20), January 20th/21st
 
 ## 2019
 
