@@ -56,7 +56,7 @@ Those wanting to use the command-line to perform data analysis; particularly tho
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-- Matthew Parker, Bioinformatics Core Clinical Scientist
+- Katjusa Koler, PhD Student
 - Emily Chambers, Bioinformatics Core Analyst
 
 ## Course Data
