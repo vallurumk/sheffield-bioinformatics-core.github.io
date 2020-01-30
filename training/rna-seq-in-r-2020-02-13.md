@@ -81,7 +81,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Dr. Mark Dunning, Bioinformatics Core Director
-- to be confirmed
+- Katjusa Koler, PhD Student
 
 ## Docker
 
