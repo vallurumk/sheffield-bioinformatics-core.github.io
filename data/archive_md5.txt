@@ -1,0 +1,4 @@
+5fff9d9e56b6cd3b05ab5d92af6029ec  fastq/Sample1/Sample1.fastq
+1495c98952c88cf489c0ec2565384dc3  fastq/Sample2/Sample2.fastq
+1495c98952c88cf489c0ec2565384dc3  fastq/Sample3/Sample3.fastq
+399ddfcbe2d957edae87f61bdb431313  fastq/Sample4/Sample4.fastq
