@@ -51,7 +51,11 @@ Those wanting to use the command-line to perform data analysis; particularly tho
 
 ## Prerequisites
 
-- No prior programming experience is required, but those attending should be able to use a plain text editor.
+- No prior programming experience is required
+
+## Software
+
+- No software is required. You will be given access to an AWS machine on the day
 
 ## Instructors
 
@@ -64,6 +68,11 @@ Those wanting to use the command-line to perform data analysis; particularly tho
 
 ## Timetable (provisional)
 
+- 09:30 - 10:00 [Setup](https://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
+- 10:00 - 12:30 [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/01-introduction/)
+- 12:30 - 13:30 LUNCH
+- 13:30 - 14:30 Obtaining sequencing reads and assessing quality
+- 14:30 - 17:00 Aligning sequencing data and counting
 
 ## Registration 
 
