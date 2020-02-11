@@ -69,6 +69,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Dr. Mark Dunning, Sheffield Bioinformatics Core Director
 - Dr. Andrew Erickson, Postdoc, University of Oxford
 
+## R packages
+
+- Please copy and paste [this R script](https://raw.githubusercontent.com/sheffield-bioinformatics-core/prostate-bioinformatics/master/install_bioc-packages.R?token=AA462NKRWTCYUUW2VQ3TKQ26JQD2E) into an R console to install the packages required for the workshop
 
 ## Timetable (provisional)
 
@@ -91,6 +94,7 @@ Day 2
 
 Day 3
 
+- Survival Analysis
 - Single-cell RNA-seq
 - Spatial transcriptomics
 
