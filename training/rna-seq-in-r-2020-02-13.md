@@ -23,6 +23,18 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.7131045742876!2d-1.4909138841601246!3d53.38418257998699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9%20House%2C%20Sheffield!5e0!3m2!1sen!2suk!4v1573134957379!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
+## Timetable (provisional)
+
+- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
+- 11:00 - 12:30 [Differential Expression](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
+- 12:30 - 13:30 LUNCH
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
+
+## Course Data
+
+Please download and un-zip [this file](https://github.com/sheffield-bioinformatics-core/RNAseq-R/raw/gh-pages/CourseData.zip) containing the data for the course
+
 ## Overview
 
 In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESEq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.
@@ -82,6 +94,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Dr. Mark Dunning, Bioinformatics Core Director
 - Katjusa Koler, PhD Student
+- Niamh Errington, PhD Student
 
 ## Docker
 
@@ -91,16 +104,6 @@ We also have a *docker* container that has all the software packages and data pr
 docker run -p 8787:8787 markdunning/rna-seq-r
 ```
 In your web browser ```http://localhost:8787``` should show an RStudio session. The username and password are both ```rstduio```.
-
-## Timetable (provisional)
-
-Day 1
-
-- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq]()
-- 11:00 - 12:30 [Differential Expression]()
-- 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results]()
-- 15:30 - 17:00 [Gene set testing]()
 
 
 ## Feedback
