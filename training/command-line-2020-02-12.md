@@ -27,7 +27,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 ## Timetable (provisional)
 
 - 09:30 - 10:00 [Setup](https://sbc.shef.ac.uk/RNAseq-R/setup.nb.html)
-- 10:00 - 12:30 [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/01-introduction/)
+- 10:00 - 12:30 [Introduction to the Command Line](https://datacarpentry.org/shell-genomics/01-introduction/) (up to Writing Scripts and Working with Data)
 - 12:30 - 13:30 LUNCH
 - 13:30 - 14:30 [Obtaining sequencing reads and assessing quality](https://sbc.shef.ac.uk/RNAseq-R/read-quality.nb.html)
 - 14:30 - 17:00 [Aligning sequencing data and counting](https://sbc.shef.ac.uk/RNAseq-R/align-and-quantification.nb.html)
