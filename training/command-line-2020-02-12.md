@@ -32,6 +32,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 13:30 - 14:30 [Obtaining sequencing reads and assessing quality](https://sbc.shef.ac.uk/RNAseq-R/read-quality.nb.html)
 - 14:30 - 17:00 [Aligning sequencing data and counting](https://sbc.shef.ac.uk/RNAseq-R/align-and-quantification.nb.html)
 
+## Feedback
+
+Please complete [this short feedback form](https://docs.google.com/forms/d/e/1FAIpQLSem5y6u-syTwJTMXHzm_l4G7cokAAZ_KIoyQwwcB9XHnPYgSA/viewform) to let us know what you thought about the course so we can improve it for the future.
+
 ## Overview
 
 This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We give example of processing data arising from Next-Generation Sequencing experiments, in particular an RNA-seq experiment.
