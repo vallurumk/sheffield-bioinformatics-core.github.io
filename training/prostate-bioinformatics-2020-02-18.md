@@ -78,7 +78,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 Day 1
 
-- 09:30 - 11:00 [R basics](https://sbc.shef.ac.uk/workshops/2019-09-17-r/)
+- 09:30 - 11:00 [R basics](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#r_basics)
 - 11:00 - 12:30 [Dealing with Data](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#dealing-with-data)
 - 12:30 - 13:30 LUNCH (not provided)
 - 13:30 - 14:30 Dealing with Data (continued)
