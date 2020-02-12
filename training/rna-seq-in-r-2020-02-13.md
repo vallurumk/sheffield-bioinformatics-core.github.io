@@ -35,6 +35,10 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 Please download and un-zip [this file](https://github.com/sheffield-bioinformatics-core/RNAseq-R/raw/gh-pages/CourseData.zip) containing the data for the course
 
+## Feedback
+
+Please complete [this short feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdloxJ8eyFFG1ghTcktK53iG6iHoMeL9fuyDT0ixcWLa59lwQ/viewform) so we can improve the course for the future
+
 ## Overview
 
 In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESEq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.
@@ -105,12 +109,7 @@ docker run -p 8787:8787 markdunning/rna-seq-r
 ```
 In your web browser ```http://localhost:8787``` should show an RStudio session. The username and password are both ```rstduio```.
 
-
-## Feedback
-
-
-
 ## Registration 
 
-Registration is [open now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/bulk-rnaseq-analysis-in-r-13th-feburary-2020). Sign-up to our [mailing list](https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/bioinformatics-core-news/join)to get updates.
+Registration is closed
 
