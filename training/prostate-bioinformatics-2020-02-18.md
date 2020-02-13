@@ -95,9 +95,12 @@ Day 2
 
 Day 3
 
-- Survival Analysis
-- Single-cell RNA-seq
-- Spatial transcriptomics
+- 09:30 - 11:15: Basic Medical Statistics and Survival Analysis in R
+- 11:15 - 11:30: Single Cell RNA seq and Spatial Transcriptomics workflows in R "Teaser"
+- Coffee and Tea
+- 11:30 - 13:30: Title To be Announced
+- 13:30 - 14:30: LUNCH
+- 14:30 - 17:00: Bring your own data workshop (Optional)
 
 ## Feedback
 
