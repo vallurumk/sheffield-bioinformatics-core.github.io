@@ -21,19 +21,21 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Bartolome House, Seminar Room EG03
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.7131045742876!2d-1.4909138841601246!3d53.38418257998699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9%20House%2C%20Sheffield!5e0!3m2!1sen!2suk!4v1573134957379!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+## Course Materials
 
-## Timetable (provisional)
-
-- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-preprocessing.nb.html)
-- 11:00 - 12:30 [Differential Expression](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-de.nb.html)
+- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/rna-seq-preprocessing.nb.html)
+- 11:00 - 12:30 [Differential Expression](https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/rna-seq-de.nb.html)
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-annotation-visualisation.nb.html)
-- 15:30 - 17:00 [Gene set testing](https://sbc.shef.ac.uk/RNAseq-R/rna-seq-gene-set-testing.nb.html)
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/rna-seq-gene-set-testing.nb.html)
 
 ## Course Data
 
-Please download and un-zip [this file](https://github.com/sheffield-bioinformatics-core/RNAseq-R/raw/gh-pages/CourseData.zip) containing the data for the course
+Please download and un-zip [this file](https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/CourseData.zip) containing the data for the course
+
+## Instructor Markdown
+
+The markdown file written by the instructors during the course can be [downloaded here](https://sbc.shef.ac.uk/workshops/2020-02-13-rnaseq-r/analysis-instructor.Rmd)
 
 ## Feedback
 
