@@ -15,7 +15,7 @@ We offer a comprehensive [training programme](https://sbc.shef.ac.uk/training) a
 - Clinical Bioinformatics Services
 - Clinical Bioinformatics Consulting
 - Microarray Analysis
-- Other Commom Bioinformatics Analysis
+- Other Common Bioinformatics Analysis
 See [expertise](https://sbc.shef.ac.uk/expertise) for more details...
 
 On this website, you can find about more about [working with us](https://sbc.shef.ac.uk/policies), our [team](https://sbc.shef.ac.uk/team) and [expertise](https://sbc.shef.ac.uk/expertise) and details of upcoming [training](https://sbc.shef.ac.uk/training) courses.
