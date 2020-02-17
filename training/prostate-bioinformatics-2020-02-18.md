@@ -27,6 +27,37 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESEq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.
 
+## R packages
+
+- Please copy and paste [this R script](https://raw.githubusercontent.com/sheffield-bioinformatics-core/prostate-bioinformatics/master/install_bioc-packages.R?token=AA462NKRWTCYUUW2VQ3TKQ26JQD2E) into an R console to install the packages required for the workshop
+
+## Course Materials
+
+Day 1
+
+- 09:30 - 11:00 [R basics](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#r_basics)
+- 11:00 - 12:30 [Dealing with Data](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#dealing-with-data)
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 14:30 Dealing with Data (continued)
+- 14:30 - 16:00 [Plotting](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#plotting)
+- 16:00 - 17:00 [Summarising and joining](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#summarising_and_grouping_with_dplyr)
+
+Day 2
+
+- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-preprocessing.nb.html)
+- 11:00 - 12:30 [Differential Expression](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-de.nb.html)
+- 12:30 - 13:30 LUNCH
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-annotation-visualisation.nb.html)
+- 15:30 - 17:00 [Gene set testing](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-gene-set-testing.nb.html)
+
+Day 3
+
+- 09:30 - 11:15: Basic Medical Statistics and Survival Analysis in R
+- 11:15 - 11:30: Single Cell RNA seq and Spatial Transcriptomics workflows in R "Teaser"
+- Coffee and Tea
+- 11:30 - 13:30: "Shiny apps" for Prostate Cancer
+- 13:30 - 14:30: LUNCH
+- 14:30 - 17:00: Bring your own data workshop (Optional)
 
 ## Who should attend this course?
 
@@ -68,7 +99,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Dr. Mark Dunning, Sheffield Bioinformatics Core Director
 - Dr. Andrew Erickson, Postdoc, University of Oxford
-- Dr. Dan Woodcock, University of Oxford
+
 
 ## R packages
 
