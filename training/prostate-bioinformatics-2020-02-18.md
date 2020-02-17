@@ -43,6 +43,7 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 Day 1
 
+- [Course Overview](https://sbc.shef.ac.uk/prostate-bioinformatics/intro_slides.html)
 - 09:30 - 11:00 [R basics](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#r_basics)
 - 11:00 - 12:30 [Dealing with Data](https://sbc.shef.ac.uk/workshops/2019-09-17-r/crash-course.nb.html#dealing-with-data)
 - 12:30 - 13:30 LUNCH (not provided)
