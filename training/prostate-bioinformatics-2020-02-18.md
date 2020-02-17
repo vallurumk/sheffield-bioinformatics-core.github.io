@@ -31,7 +31,13 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 
 ## R packages
 
-- Please copy and paste [this R script](https://raw.githubusercontent.com/sheffield-bioinformatics-core/prostate-bioinformatics/master/install_bioc-packages.R?token=AA462NKRWTCYUUW2VQ3TKQ26JQD2E) into an R console to install the packages required for the workshop
+- For Day 2, please copy and paste [this R script](https://raw.githubusercontent.com/sheffield-bioinformatics-core/prostate-bioinformatics/master/install_bioc-packages.R?token=AA462NKRWTCYUUW2VQ3TKQ26JQD2E) into an R console to install the packages required for the workshop
+
+## Course Data
+
+- [Day 1](http://sbc.shef.ac.uk/workshops/2019-09-17-r/CourseData.zip)
+- [Day 2]()
+- [Day 3]()
 
 ## Course Materials
 
@@ -46,11 +52,11 @@ Day 1
 
 Day 2
 
-- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-preprocessing.nb.html)
-- 11:00 - 12:30 [Differential Expression](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-de.nb.html)
+- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq]()
+- 11:00 - 12:30 [Differential Expression]()
 - 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-annotation-visualisation.nb.html)
-- 15:30 - 17:00 [Gene set testing](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-gene-set-testing.nb.html)
+- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results]()
+- 15:30 - 17:00 [Gene set testing]()
 
 Day 3
 
