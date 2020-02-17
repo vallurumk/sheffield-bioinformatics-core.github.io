@@ -21,6 +21,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Venue to be confirmed
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2470.0648780205793!2d-1.2160443484247596!3d51.75013720064676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c16f5b2a9a31%3A0xb83b78ebb9090c92!2sThe%20Oxford%20Weight%20Loss%20Surgery!5e0!3m2!1sen!2suk!4v1581930593033!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
 ![](/images/NDS_Ox_logo_v4.png)
 
 ## Overview
@@ -99,39 +101,6 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Dr. Mark Dunning, Sheffield Bioinformatics Core Director
 - Dr. Andrew Erickson, Postdoc, University of Oxford
-
-
-## R packages
-
-- Please copy and paste [this R script](https://raw.githubusercontent.com/sheffield-bioinformatics-core/prostate-bioinformatics/master/install_bioc-packages.R?token=AA462NKRWTCYUUW2VQ3TKQ26JQD2E) into an R console to install the packages required for the workshop
-
-## Timetable (provisional)
-
-Day 1
-
-- 09:30 - 11:00 [R basics]()
-- 11:00 - 12:30 [Dealing with Data]()
-- 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 14:30 Dealing with Data (continued)
-- 14:30 - 16:00 [Plotting]()
-- 16:00 - 17:00 [Summarising and joining]()
-
-Day 2
-
-- 09:30 - 11:00 [Quality assessment and pre-processing for RNA-seq]()
-- 11:00 - 12:30 [Differential Expression]()
-- 12:30 - 13:30 LUNCH
-- 13:30 - 15:30 [Annotation and Visualisation of RNA-seq results]()
-- 15:30 - 17:00 [Gene set testing]()
-
-Day 3
-
-- 09:30 - 11:15: Basic Medical Statistics and Survival Analysis in R
-- 11:15 - 11:30: Single Cell RNA seq and Spatial Transcriptomics workflows in R "Teaser"
-- Coffee and Tea
-- 11:30 - 13:30: Title To be Announced
-- 13:30 - 14:30: LUNCH
-- 14:30 - 17:00: Bring your own data workshop (Optional)
 
 ## Feedback
 
