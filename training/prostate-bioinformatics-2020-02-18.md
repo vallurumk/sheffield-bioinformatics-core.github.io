@@ -36,7 +36,7 @@ In this workshop, you will be learning how to analyse RNA-seq count data, using 
 ## Course Data
 
 - [Day 1](http://sbc.shef.ac.uk/workshops/2019-09-17-r/CourseData.zip)
-- [Day 2]()
+- [Day 2](https://drive.google.com/file/d/1k-ol5waIdcayaCcyTLvhEYcMMWKiQjnx/view?usp=sharing)
 - [Day 3]()
 
 ## Course Materials
