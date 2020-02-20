@@ -60,7 +60,7 @@ Day 2
 - 15:30 - 17:00 [Gene set testing](https://sbc.shef.ac.uk/prostate-bioinformatics/rna-seq-gene-set-testing.nb.html)
 
 Day 3
-
+- [Gene set testing notes](https://sbc.shef.ac.uk/prostate-bioinformatics/Day3.nb.html)
 - 09:30 - 11:15: Basic Medical Statistics and Survival Analysis in R
 - 11:15 - 11:30: Single Cell RNA seq and Spatial Transcriptomics workflows in R "Teaser"
 - Coffee and Tea
