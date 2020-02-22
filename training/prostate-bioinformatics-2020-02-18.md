@@ -68,6 +68,15 @@ Day 3
 - 13:30 - 14:30: LUNCH
 - 14:30 - 17:00: Bring your own data workshop (Optional)
 
+## Extra reading / tutorials
+
+Other tutorials that we would recommend for further reading / practice
+
+- [Data Organisation in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/)
+- [Data Cleaining in OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/)
+- [Github Introduction](https://guides.github.com/activities/hello-world/)
+- [Seurat tutorials and walkthroughs](https://satijalab.org/seurat/vignettes.html)(for single-cell data)
+
 ## Who should attend this course?
 
 Researchers in life sciences who want to get an appreciation for the computational steps involved in analysis RNA-seq data from Prostate cancer, and how to execute best-practice RNA-seq workflows in R.
