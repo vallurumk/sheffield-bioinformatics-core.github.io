@@ -21,7 +21,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 09:30am - 5pm
 - Venue to be confirmed
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2470.0648780205793!2d-1.2160443484247596!3d51.75013720064676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c16f5b2a9a31%3A0xb83b78ebb9090c92!2sThe%20Oxford%20Weight%20Loss%20Surgery!5e0!3m2!1sen!2suk!4v1581930593033!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ![](/images/NDS_Ox_logo_v4.png)
 
