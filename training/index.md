@@ -34,8 +34,8 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2020
 - [Introduction to R and Prostate Bioinformatics](https://sbc.shef.ac.uk/training/prostate-bioinformatics-2020-02-18), February 18/19/20th, **University of Oxford**
-- [Introduction to the command line for Bioinformatics](http://sbc.shef.ac.uk/training/command-line-2020-02-12), February 12th
 - [RNA-seq Analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-02-13), February 13th
+- [Introduction to the command line for Bioinformatics](http://sbc.shef.ac.uk/training/command-line-2020-02-12), February 12th
 - [Essential Data Analysis Skills for Researchers](http://sbc.shef.ac.uk/training/data-essentials-2020-01-20), January 20th/21st
 
 ## 2019
