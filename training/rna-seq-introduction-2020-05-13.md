@@ -3,19 +3,25 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: RNA-seq Analysis for Beginners
 excerpt: "Intro to RNA-seq"
-startDate: 2020-07-03
-endDate: 2020-07-03
+startDate: 2020-05-13
+endDate: 2020-05-13
 startTime: 9.30
 endTime: 17.00
 city: sheffield
-postcode: S3 7RD
+postcode: S3 7ND
 country: United Kingdom
-venue: The Diamond, Workroom 1
+venue: Bartolome House, Seminar Room EG03
 description: "High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing, and what data you should expect to receive from the Bioinformatics Core. We will describe the steps involved to go from sequencing library to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Galaxy interface (https://usegalaxy.org/) to demonstrate tasks such as alignment, quality control and assessing differential expression. We will also showcase some web sites you can use for enrichment and pathways analysis."
 keywords: bioinformatics, NGS, RNA-seq, galaxy
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
+
+- Wednesday 13th May 2020
+- 09:30am - 5pm
+- Bartolome House, Seminar Room EG03
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.7131045742876!2d-1.4909138841601246!3d53.38418257998699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9%20House%2C%20Sheffield!5e0!3m2!1sen!2suk!4v1573134957379!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ## Course Materials
 
