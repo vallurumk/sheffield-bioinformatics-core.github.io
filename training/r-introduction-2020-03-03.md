@@ -103,7 +103,8 @@ You can download the binary files for your distribution from CRAN. Or you can us
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
-
+- Emily Chambers, Bioinformatics Core Analyst
+- Aya Elwazir, PhD Student
 
 ## Timetable (provisional)
 
