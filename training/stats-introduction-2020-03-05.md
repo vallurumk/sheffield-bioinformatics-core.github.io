@@ -102,4 +102,4 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 - Mark Dunning, Bioinformatics Core Director
 - Aya Elwazir, PhD Student
-- Niamh Errington, PhD Student
+- Tim Freeman, PhD Student
