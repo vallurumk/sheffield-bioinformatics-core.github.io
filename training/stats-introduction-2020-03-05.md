@@ -34,11 +34,11 @@ Please book your place on the course using [this link](https://onlineshop.shef.a
 
 - 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture]
 - 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]
-- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical]
-- 11:30 - 12:30 - Normality, outliers and descriptive statistics, [Lecture]
-- 12:30 - 13:30 - LUNCH
-- 13:30 - 14:30 - Normality, outliers and descriptive statistics, [Practical]
-- 14:30 - 17:00 - Significance tests for continuous variables, [Lecture] and Practical
+- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical] - including tea and coffee
+- 11:30 - 12:00 - Normality, outliers and descriptive statistics, [Lecture]
+- 12:00 - 13:00 - LUNCH
+- 13:00 - 14:00 - Normality, outliers and descriptive statistics, [Practical]
+- 14:00 - 17:00 - Significance tests for continuous variables, [Lecture] and Practical - including tea and coffee
 
 ## Course Data
 
