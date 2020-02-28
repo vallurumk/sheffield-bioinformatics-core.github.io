@@ -9,7 +9,7 @@ excerpt: "An archive of resources sorted by date."
 
 Talks and presentations given by members of the Core. For training materials and longer courses, see our [training](https://sbc.shef.ac.uk//training/) section.
 
-
+- [Statistical and Data Analysis Challenges in Bioinformatics](https://docs.google.com/presentation/d/1QPExPGWqQZJYZKPkQeEjVF-p_RvuRPdK17HFmWv91So/edit?usp=sharing), Local RSS group meeting, February 27th 2020
 - [Data Formatting Introduction](https://sbc.shef.ac.uk/data-formatting/slides), BTEC Applied Science visit, June 14th 2019
 - [Best Practices for teaching (and learning) R](https://markdunning.github.io/teaching-best-practice/slides.html#1), April 2nd 2019
 - [Measuring Mutation Burden and Sequence Level Bias: An Initial  Assessment of 100K data](https://www.youtube.com/watch?v=O_aaNUTwkB8), 6th December 2018
