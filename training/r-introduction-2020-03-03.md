@@ -22,10 +22,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-## Registration
-
-Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-3rd-march-2020) to book your place on the course.
-
 ## Overview
 
 As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
@@ -39,17 +35,26 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Course Data
 
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2019-09-17-r/CourseData.zip) into the directory on your computer that you wish to work in
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
 
 ## Materials
 
-- [Introductory Slides]()
+- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
 - [Course notes]()
+
+## Timetable (provisional)
+
+- 09:30 - 11:00 R basics
+- 11:00 - 12:30 Dealing with Data
+- 12:30 - 13:30 LUNCH (not provided)
+- 13:30 - 14:30 Dealing with Data (continued)
+- 14:30 - 16:00 Plotting
+- 16:00 - 17:00 Summarising and joining
 
 
 ## Feedback
-Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6_I3HuXCq0Sgqi8U44YU2QI6Szzp6HkUSMwPw5kGa0L0eGQ/viewform). This will help us improve the course for the future.
--->
+Please give us feedback for the course using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeoe-ESP2uFpxu79aJGnnKz9UbKEIGSwRITWLwjT1Eypsit8Q/viewform). This will help us improve the course for the future.
+
 
 ## Who should attend this course?
 
@@ -106,14 +111,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 - Emily Chambers, Bioinformatics Core Analyst
 - Aya Elwazir, PhD Student
 
-## Timetable (provisional)
 
-- 09:30 - 11:00 R basics
-- 11:00 - 12:30 Dealing with Data
-- 12:30 - 13:30 LUNCH (not provided)
-- 13:30 - 14:30 Dealing with Data (continued)
-- 14:30 - 16:00 Plotting
-- 16:00 - 17:00 Summarising and joining
 
 
 ## References
