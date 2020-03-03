@@ -40,7 +40,7 @@ After the course you should feel confident to start exploring your own dataset u
 ## Materials
 
 - [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
-- [Course notes]()
+- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
 
 ## Timetable (provisional)
 
