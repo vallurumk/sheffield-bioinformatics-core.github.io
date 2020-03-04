@@ -46,7 +46,7 @@ Please book your place on the course using [this link](https://onlineshop.shef.a
 
 ## Feedback
 
-- We would be grateful if you could fill in [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdNb-MMvSDWs2ep5Av1Si31bcojsU3A1I7XgC96tXjxayMK5g/viewform) which will help us improve the course for the future.
+- We would be grateful if you could fill in [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeW4Dvb0fEbrGY4dP3w6VvVnq7qNmcdikmo1AwlkpC7JQ37YQ/viewform) which will help us improve the course for the future.
 
 ## Who should attend this course?
 
