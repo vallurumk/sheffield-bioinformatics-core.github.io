@@ -19,8 +19,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 - Sheffield - 3rd March 2020
 - 09:30am - 5pm
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9519.181464571486!2d-1.4777067!3d53.3827108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60e5580cdf19b137!2sPam+Liversidge+Building!5e0!3m2!1sen!2suk!4v1510862811609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 
 ## Overview
 
@@ -35,12 +33,12 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Course Data
 
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-crash-course/CourseData.zip) into the directory on your computer that you wish to work in
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2020-03-03-r/CourseData.zip) into the directory on your computer that you wish to work in
 
 ## Materials
 
-- [Introductory Slides](http://sbc.shef.ac.uk/r-crash-course/intro_slides.html)
-- [Course notes](http://sbc.shef.ac.uk/r-crash-course/crash-course.nb.html)
+- [Introductory Slides](http://sbc.shef.ac.uk/workshops/2020-03-03-r/intro_slides.html)
+- [Course notes](http://sbc.shef.ac.uk/workshops/2020-03-03-r/crash-course.nb.html)
 
 ## Timetable (provisional)
 

@@ -19,12 +19,13 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2020
 
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-3rd-march-2020)
+
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-03-05/), March 5th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-5th-march-2020)
 - [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2020-04-06), April 6/7th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation-april-2020)
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2020-05-13/), May 13th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-13th-may-2020)
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
+- ChIP-seq Analysis in R, To be confirmed, **Booking soon**
 - Principles of Machine Learning in R, To be confirmed, **Booking soon**
 
 
@@ -32,6 +33,7 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 ## Past Courses
 
 ## 2020
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/), March 3rd
 - [Introduction to R and Prostate Bioinformatics](https://sbc.shef.ac.uk/training/prostate-bioinformatics-2020-02-18), February 18/19/20th, **University of Oxford**
 - [RNA-seq Analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2020-02-13), February 13th
 - [Introduction to the command line for Bioinformatics](http://sbc.shef.ac.uk/training/command-line-2020-02-12), February 12th
