@@ -40,6 +40,10 @@ Please book your place on the course using [this link](https://onlineshop.shef.a
 - 13:00 - 14:00 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_ii_-_how_to_assess_normality)
 - 14:00 - 17:00 - Significance tests for continuous variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part3.pptx) and [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables) - including tea and coffee
 
+## Code Summary
+
+See [this presentation](http://sbc.shef.ac.uk/stats-in-r/code_summary.pptx) for an overview of the R code used 
+
 ## Course Data
 
 - Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
