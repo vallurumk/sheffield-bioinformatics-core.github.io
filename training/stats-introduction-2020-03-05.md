@@ -32,13 +32,13 @@ Please book your place on the course using [this link](https://onlineshop.shef.a
 
 ## Provisional Timetable and Materials
 
-- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture]()
-- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture]()
+- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Introduction.pptx)
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part1.pptx)
 - 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_i_-_contingency_tables) - including tea and coffee
-- 11:30 - 12:00 - Normality, outliers and descriptive statistics, [Lecture]()
+- 11:30 - 12:00 - Normality, outliers and descriptive statistics, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part2.pptx)
 - 12:00 - 13:00 - LUNCH
 - 13:00 - 14:00 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_ii_-_how_to_assess_normality)
-- 14:00 - 17:00 - Significance tests for continuous variables, [Lecture] and [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables) - including tea and coffee
+- 14:00 - 17:00 - Significance tests for continuous variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part3.pptx) and [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables) - including tea and coffee
 
 ## Course Data
 
