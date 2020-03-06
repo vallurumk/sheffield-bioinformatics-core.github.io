@@ -26,27 +26,25 @@ This course provides a refresher on the foundations of statistical analysis. The
 **Note that you will need to be familiar with R to access this course. We have a course scheduled for March 3rd that will cover sufficient background
 [https://sbc.shef.ac.uk/training/r-introduction-2020-03-03/](https://sbc.shef.ac.uk/training/r-introduction-2020-03-03/)**
 
-## Registration
 
-Please book your place on the course using [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-5th-march-2020)
 
 ## Provisional Timetable and Materials
 
-- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Introduction.pptx)
-- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part1.pptx)
-- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_i_-_contingency_tables) - including tea and coffee
-- 11:30 - 12:00 - Normality, outliers and descriptive statistics, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part2.pptx)
+- 09:30 - 10:00 - Introduction to Statistical Analysis, [Lecture](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/Introduction.pptx)
+- 10:00 - 10:30 - Contingency tables, and testing for categorical variables, [Lecture](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/Part1.pptx)
+- 10:30 - 11:30 - Contingency tables, and testing for categorical variables, [Practical](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/practical.nb.html#part_i_-_contingency_tables) - including tea and coffee
+- 11:30 - 12:00 - Normality, outliers and descriptive statistics, [Lecture](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/Part2.pptx)
 - 12:00 - 13:00 - LUNCH
-- 13:00 - 14:00 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_ii_-_how_to_assess_normality)
-- 14:00 - 17:00 - Significance tests for continuous variables, [Lecture](http://sbc.shef.ac.uk/stats-in-r/Part3.pptx) and [Practical](http://sbc.shef.ac.uk/stats-in-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables) - including tea and coffee
+- 13:00 - 14:00 - Normality, outliers and descriptive statistics, [Practical](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/practical.nb.html#part_ii_-_how_to_assess_normality)
+- 14:00 - 17:00 - Significance tests for continuous variables, [Lecture](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/Part3.pptx) and [Practical](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/practical.nb.html#part_iii_-_significance_tests_for_continuous_variables) - including tea and coffee
 
 ## Code Summary
 
-See [this presentation](http://sbc.shef.ac.uk/stats-in-r/code_summary.pptx) for an overview of the R code used 
+See [this presentation](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/code_summary.pptx) for an overview of the R code used 
 
 ## Course Data
 
-- Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
+- Please download and unzip [this file](http://sbc.shef.ac.uk/workshops/2020-03-05-stats-r/stats_course.zip)
 
 ## Feedback
 
