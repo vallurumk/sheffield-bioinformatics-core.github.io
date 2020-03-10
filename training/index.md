@@ -19,7 +19,6 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2020
 
-- [Introduction to Genomic Variant Interpretation](http://sbc.shef.ac.uk/training/variants-introduction-2020-04-06), April 6/7th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-genomic-variant-interpretation-april-2020)
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2020-05-13/), May 13th, [Booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/rnaseq-analysis-for-beginners-13th-may-2020)
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
