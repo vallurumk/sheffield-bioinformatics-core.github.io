@@ -19,6 +19,8 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2020
 
+**Due to Covid-19 we are not opening any more courses for booking until the situation becomes clearer. In the meantime, why not check the materials from some of our previous courses listed below?**
+
 - [RNA-seq Analysis for Beginners](http://sbc.shef.ac.uk/training/rna-seq-introduction-2020-05-13/), May 13th, Closed for new bookings and may run as an online-only course due to Covid-19
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), June 1st, **Booking soon**
 - [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), June 2nd, **Booking soon**
