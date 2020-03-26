@@ -25,11 +25,12 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Setup
 
-- Install both R **and** RStudio for your operating system. Instructions are available [below](#software-installation). There are also some videos on youtube to explain the process
+- If attending the course live, you will get a link to a Blackboard collaborate environment and an Amazon Web instance allowing you to run R and RStudio through a web browser
+- To follow the course on your own computer, install both R **and** RStudio for your operating system. Instructions are available [below](#software-installation). There are also some videos on youtube to explain the process
   + [Installation for Mac](https://www.youtube.com/watch?v=1PsPfMaLWSk)
   + [Installation for Windows](https://www.youtube.com/watch?v=GAGUDL-4aVw)
 - Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on your computer that you wish to work in
-- The [Course notes](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html) are available online to follow along
+- The Course notes are available online to follow along
   + [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
   + [Part 2](http://sbc.shef.ac.uk/r-online/part2.nb.html)
   + [Part 3](http://sbc.shef.ac.uk/r-online/part3.nb.html)
