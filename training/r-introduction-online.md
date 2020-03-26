@@ -1,5 +1,5 @@
 ---
-layout: page
+Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)layout: page
 title: Data Manipulation and Visualisation 
 organizer: Sheffield Bioinformatics Core
 excerpt: "Intro to R.."
@@ -28,12 +28,15 @@ After the course you should feel confident to start exploring your own dataset u
 - Install both R **and** RStudio for your operating system. Instructions are available [below](#software-installation). There are also some videos on youtube to explain the process
   + [Installation for Mac](https://www.youtube.com/watch?v=1PsPfMaLWSk)
   + [Installation for Windows](https://www.youtube.com/watch?v=GAGUDL-4aVw)
-- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/workshops/2019-09-17-r/CourseData.zip) into the directory on your computer that you wish to work in
-- The [Course notes](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html) are available online to follow along with during the video
+- Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on your computer that you wish to work in
+- The [Course notes](https://bioinformatics-core-shared-training.github.io/r-crash-course/crash-course.nb.html) are available online to follow along
+  + [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
+  + [Part 2](http://sbc.shef.ac.uk/r-online/part2.nb.html)
+  + [Part 3](http://sbc.shef.ac.uk/r-online/part3.nb.html)
+  
+## Video Recordings
 
-## Playlist
-
-- Videos of the instructor going through the course materials are available on this [youtube playlist](https://www.youtube.com/playlist?list=PLjwCHZreEv6f4TN0wHjcpQZS2WOqACPjW)
+- Videos of the instructor going through the course materials are available on youtube
 
 
 ## Who should follow this course?
