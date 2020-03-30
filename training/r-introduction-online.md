@@ -1,5 +1,5 @@
 ---
-Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)layout: page
+layout: page
 title: Data Manipulation and Visualisation 
 organizer: Sheffield Bioinformatics Core
 excerpt: "Intro to R.."
@@ -30,6 +30,7 @@ After the course you should feel confident to start exploring your own dataset u
   + [Installation for Windows](https://www.youtube.com/watch?v=GAGUDL-4aVw)
   
 2) Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on your computer that you wish to work in
+
 3) Create an RStudio project using the menu **File -> New Project -> Existing Directoy** and browse to the directory that you extraced the zip file to.
 
 4) Type the following into the R console to install some extra R packages required for the workshop
@@ -40,7 +41,7 @@ install.packages("ggplot2")
 install.packages("readr")
 ```
 
-These instructions are also described in a video
+These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI](https://youtu.be/vzLclNVuGoI)
 
 ## Course Notes
 
