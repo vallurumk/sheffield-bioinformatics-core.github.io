@@ -31,7 +31,7 @@ After the course you should feel confident to start exploring your own dataset u
   
 2) Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on your computer that you wish to work in
 
-3) Create an RStudio project using the menu **File -> New Project -> Existing Directoy** and browse to the directory that you extraced the zip file to.
+3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to.
 
 4) Type the following into the R console to install some extra R packages required for the workshop
 
