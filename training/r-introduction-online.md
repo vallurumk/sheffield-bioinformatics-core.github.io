@@ -45,14 +45,18 @@ These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI
 
 ## Course Notes
 
++ [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro-slides.html)
 + [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
 + [Part 2](http://sbc.shef.ac.uk/r-online/part2.nb.html)
 + [Part 3](http://sbc.shef.ac.uk/r-online/part3.nb.html)
   
 ## Video Recordings
 
-- Videos of the instructor going through the course materials will be available on youtube
-
+Videos of the instructor going through the course materials will be available on youtube
+- [Course Introduction](https://www.youtube.com/watch?v=bb-qyh3c9vE)
+- Part 1
+- Part 2
+- Part 3
 
 ## Who should follow this course?
 
