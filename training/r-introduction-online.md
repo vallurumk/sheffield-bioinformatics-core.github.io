@@ -45,7 +45,7 @@ These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI
 
 ## Course Notes
 
-+ [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro-slides.html)
++ [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
 + [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
 + [Part 2](http://sbc.shef.ac.uk/r-online/part2.nb.html)
 + [Part 3](http://sbc.shef.ac.uk/r-online/part3.nb.html)
