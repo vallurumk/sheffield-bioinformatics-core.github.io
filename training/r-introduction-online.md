@@ -54,7 +54,7 @@ These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI
 
 Videos of the instructor going through the course materials will be available on youtube
 - [Course Introduction](https://www.youtube.com/watch?v=bb-qyh3c9vE)
-- Part 1
+- [Part 1](https://youtu.be/nGiMyIRTDj0)
 - Part 2
 - Part 3
 
