@@ -56,7 +56,7 @@ Videos of the instructor going through the course materials will be available on
 - [Course Introduction](https://www.youtube.com/watch?v=bb-qyh3c9vE)
 - [Part 1](https://youtu.be/nGiMyIRTDj0)
 - [Part 2](https://youtu.be/o2lb87tPfjM)
-- Part 3
+- [Part 3](https://youtu.be/5H84lzgBang)
 
 ## Who should follow this course?
 
