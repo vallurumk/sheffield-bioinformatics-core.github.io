@@ -22,7 +22,6 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 12:30pm - 16:30pm
 - Bartolome House,  Seminar Room EG03
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.712925739254!2d-1.4909138840310832!3d53.38418577957716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879788327d13c2b%3A0x76151ebce3e59f6!2sBartolom%C3%A9+House%2C+Sheffield!5e0!3m2!1sen!2suk!4v1533301984260" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Overview
 
@@ -31,6 +30,17 @@ contact: bioinformatics-core@sheffield.ac.uk
 - Have you ever struggled to import your spreadsheets into R?
 
 As a researcher, you will encounter research data in many forms, ranging from measurements, numbers and images to documents and publications. Whether you create, receive or collect data, you will certainly need to organise it at some stage of your project. This workshop will provide an overview of some basic principles on how we can work with data more effectively. We will discuss the best practices for research data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
+
+## Course Data
+
+- [Example patient data for Open Refine Practical](https://github.com/sheffield-bioinformatics-core/data-formatting/raw/master/patient-data.xlsx) - Right-click on link and select Save Link As…
+
+## Timetable and Links to Materials
+
+- 12:30 - 13:00 [Course Overview](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
+- 13:00 - 13:30 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides.html#1)
+- 13:45 - 14:45 [Open Refine Demo](http://sbc.shef.ac.uk/refine-demo/demo)
+- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
 
 ## Who should attend this course?
 
@@ -67,16 +77,7 @@ You will need to install the [OpenRefine](http://openrefine.org/index.html) soft
 
 
 
-## Course Data
 
-- [Example patient data for Open Refine Practical](https://github.com/sheffield-bioinformatics-core/data-formatting/raw/master/patient-data.xlsx) - Right-click on link and select Save Link As…
-
-## Timetable and Links to Materials
-
-- 12:30 - 13:00 [Course Overview](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
-- 13:00 - 13:30 [Data Formatting](http://sbc.shef.ac.uk/data-formatting/slides.html#1)
-- 13:45 - 14:45 [Open Refine Demo](http://sbc.shef.ac.uk/refine-demo/demo)
-- 15:00 - 16:30 [File Management and Data Sharing at The University of Sheffield](https://docs.google.com/presentation/d/1HCWnoby1uKtBpXGwAvfJkZAo8xXbB4RKjSYu9cCz4W8/edit?usp=sharing)
 
 ## Feedback
 
