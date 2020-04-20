@@ -21,7 +21,7 @@ We will describe the steps involved to go from sequencing library to a list of g
 
 ## Setup
 
-- Please register for an account at [usegalaxy.eu](usegalaxy.eu)
+- Please register for an account at [usegalaxy.eu](https://usegalaxy.eu).**Make sure to check your email to activate your account**
 - Please download the [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/download)
 - Please download the javaGSEA file from 
 [http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) (gsea3.0-jar)
