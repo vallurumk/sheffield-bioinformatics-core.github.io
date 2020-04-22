@@ -23,8 +23,8 @@ We will describe the steps involved to go from sequencing library to a list of g
 
 - Please register for an account at [usegalaxy.eu](https://usegalaxy.eu).**Make sure to check your email to activate your account**
 - Please download the [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/download)
-- Please download the javaGSEA file from 
-[http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) (gsea3.0-jar)
+- Please download the GSEA app from 
+[http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) for your operating system (GSEA_Win_4.0.3-installer.exe or GSEA_4.0.3.app.zip)
 - Please watch these pre-recorded lectures
   + [Introduction and Experimental Design](https://youtu.be/YtOG-77FfIg)
   + [RNA-seq workflow overview](https://youtu.be/m1x4CaLg90A)
@@ -39,9 +39,8 @@ We will describe the steps involved to go from sequencing library to a list of g
   
 ## Video Recordings
 
-+ [RNA-seq Pre-procesing](https://youtu.be/zRHRFH-f7pc)
++ [RNA-seq Pre-processing](https://youtu.be/zRHRFH-f7pc)
 
-Videos of the instructor going through the course materials will be available on youtube
 
 
 
