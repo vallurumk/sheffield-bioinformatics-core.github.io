@@ -39,6 +39,8 @@ We will describe the steps involved to go from sequencing library to a list of g
   
 ## Video Recordings
 
++ [RNA-seq Pre-procesing](https://youtu.be/zRHRFH-f7pc)
+
 Videos of the instructor going through the course materials will be available on youtube
 
 
