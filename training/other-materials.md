@@ -80,4 +80,13 @@ We have compiled this link of recommended materials from other providers
 ## Python Programming
 
 - [Software Carpentry Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Solving biological problems with Python
+](http://pycam.github.io/)
 
+## Experimental Design
+
+- [CRUK course on Experimental Design](http://bioinformatics-core-shared-training.github.io/experimental-design/)
+
+## Microarray Analysis
+
+- [CRUK course on microarray analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/)
