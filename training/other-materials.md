@@ -18,7 +18,10 @@ We have compiled this link of recommended materials from other providers
 
 - [Simon Cockell Lockdown learning](https://www.youtube.com/channel/UC7aizSyonJqZI3O3U4SDTiA/videos)
 - [Babraham Bioinformatics Bitesize videos](https://www.youtube.com/playlist?list=PLbiByRpDb_hP7b-I1GR4eEWCD2OqdZEg1)
-
+- [Rafael Irizarray](https://www.youtube.com/user/RafalabChannel/videos)
+- [Ben Langmead - Algorithms for DNA Sequencing](https://www.youtube.com/watch?v=hpb-mH-yjLc&list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
+- [Bioconductor playlists](https://www.youtube.com/user/bioconductor/playlists)
+- [Roger Peng - Exploratory Data Analysis](https://www.youtube.com/watch?v=6lOvA_y7p7w&list=PLjTlxb-wKvXPhZ7tQwlROtFjorSj9tUyZ)
 
 ## Reproducible Research
 
