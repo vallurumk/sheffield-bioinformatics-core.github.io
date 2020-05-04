@@ -33,8 +33,8 @@ We will describe the steps involved to go from sequencing library to a list of g
 
 ## Course Notes
 
-+ [RNA-seq Pre-processing]<!--(http://sbc.shef.ac.uk/rnaseq-introduction-online/01-pre-processing.nb.html)-->
-+ [Differential Expression]<!--(http://sbc.shef.ac.uk/rnaseq-introduction-online/02-differential-expression.nb.html)-->
++ [RNA-seq Pre-processing](http://sbc.shef.ac.uk/rnaseq-introduction-online/01-pre-processing.nb.html)
++ [Differential Expression](http://sbc.shef.ac.uk/rnaseq-introduction-online/02-differential-expression.nb.html)
 + [Gene Set Enrichment]<!--(http://sbc.shef.ac.uk/rnaseq-introduction-online/03-enrichment.nb.html)-->
   
 ## Video Recordings
