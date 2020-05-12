@@ -6,8 +6,7 @@ excerpt: "Details of courses and resources from other providers"
 
 # Training from External Providers
 
-We have compiled this link of recommended materials from other providers
-
+We have compiled this link of recommended materials from other providers, and materials developed in previous roles.
 
 ## Youtube Playlists
 
@@ -88,6 +87,18 @@ We have compiled this link of recommended materials from other providers
 ## Microarray Analysis
 
 - [CRUK course on microarray analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/)
+
+## Shiny (R)
+
+- [CRUK course on Shiny for Bioinformatics](https://bioinformatics-core-shared-training.github.io/shiny-bioinformatics/)
+
+## Docker
+
+- [CRUK course on using Docker](http://bioinformatics-core-shared-training.github.io/docker-4-bioinformatics/)
+
+## Linear Models in R
+
+- [CRUK Linear Models course](http://tinyurl.com/linear-models-r)
 
 ## Training Portals
 
