@@ -8,11 +8,6 @@ excerpt: "Details of courses and resources from other providers"
 
 We have compiled this link of recommended materials from other providers
 
-## Training Portals
-
-- [Galaxy Training Network](https://galaxyproject.org/teach/gtn/)
-- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html)
-- [GOBLET training portal](https://www.mygoblet.org/training-portal)
 
 ## Youtube Playlists
 
@@ -93,3 +88,9 @@ We have compiled this link of recommended materials from other providers
 ## Microarray Analysis
 
 - [CRUK course on microarray analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/)
+
+## Training Portals
+
+- [Galaxy Training Network](https://galaxyproject.org/teach/gtn/)
+- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html)
+- [GOBLET training portal](https://www.mygoblet.org/training-portal)
