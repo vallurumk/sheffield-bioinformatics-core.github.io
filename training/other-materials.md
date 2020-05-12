@@ -17,10 +17,11 @@ We have compiled this link of recommended materials from other providers, and ma
 - [Bioconductor playlists](https://www.youtube.com/user/bioconductor/playlists)
 - [Roger Peng - Exploratory Data Analysis](https://www.youtube.com/watch?v=6lOvA_y7p7w&list=PLjTlxb-wKvXPhZ7tQwlROtFjorSj9tUyZ)
 
-## Reproducible Research
+## Reproducible Research / Data Management
 
 ### Materials
 
+- [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/)
 - [The Data Organisation Tutorial by Karl Broman](http://kbroman.org/dataorg/)
 - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide/blob/master/README.md)
 - [Three common bad practices in sharing tables and spreadsheets and how to avoid them](http://luisdva.github.io/pls-don't-do-this/)
@@ -100,8 +101,7 @@ We have compiled this link of recommended materials from other providers, and ma
 
 - [CRUK Linear Models course](http://tinyurl.com/linear-models-r)
 
-## Training Portals
+# Training Portals
 
 - [Galaxy Training Network](https://galaxyproject.org/teach/gtn/)
-- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html)
 - [GOBLET training portal](https://www.mygoblet.org/training-portal)
