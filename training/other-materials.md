@@ -46,7 +46,8 @@ We have compiled this link of recommended materials from other providers, and ma
 
 - [University of York Differential Gene Expression Tutorial](https://shiny.york.ac.uk/bioltf/gene_expression_course/day1/)
 - [Harvard Bioinformatics Core Differential gene expression](https://hbctraining.github.io/DGE_workshop_salmon/)
-- 
+- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html#rnaseq)
+
 ### Videos
 
 - [RPKM / FPKM explained](https://www.youtube.com/watch?v=TTUrtCY2k-w&t=543s)
