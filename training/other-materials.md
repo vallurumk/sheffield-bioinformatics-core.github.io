@@ -33,6 +33,13 @@ We have compiled this link of recommended materials from other providers, and ma
 - [Florian Markowetz - Five Selfish Reasons to Work Reproducibly](https://www.youtube.com/watch?v=1Y_oIjlH-yg)
 - [Kirstie Whitaker - Show your working](https://youtu.be/e-7Pfi_bGaE)
 
+## Unix / Command Line
+
+- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html#unix)
+- [Software Carpentry](https://swcarpentry.github.io/shell-novice/)
+- [CRUK Command Line for Genomics](https://bioinformatics-core-shared-training.github.io/shell-genomics/)
+
+
 ## RNA-seq
 
 ### Course Materials
@@ -54,6 +61,7 @@ We have compiled this link of recommended materials from other providers, and ma
 - [Harvard Bioinformatics Core ChIP-seq training](https://hbctraining.github.io/Intro-to-ChIPseq/)
 - [Rockefeller Bioinformatics](https://rockefelleruniversity.github.io/RU_ChIPseq/)
 - [Rockefeller Bioinformatics](https://rockefelleruniversity.github.io/RU_ATACseq/)
+- [Babraham Bioinformatis](https://www.bioinformatics.babraham.ac.uk/training.html#chip)
 
 ## Single-cell RNA-seq
 
@@ -61,6 +69,7 @@ We have compiled this link of recommended materials from other providers, and ma
 
 - [Analysis of single cell RNA-seq data - Sanger](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 - [Analysis of single cell RNA-seq data - Harvard Bioinformatics Core](https://hbctraining.github.io/scRNA-seq/)
+- [10X analysis - Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html#10xrna)
 
 ### Videos
 
@@ -97,9 +106,15 @@ We have compiled this link of recommended materials from other providers, and ma
 
 - [CRUK course on using Docker](http://bioinformatics-core-shared-training.github.io/docker-4-bioinformatics/)
 
-## Linear Models in R
+## Statistics in R
 
 - [CRUK Linear Models course](http://tinyurl.com/linear-models-r)
+- [Babraham Bioinformatics Statistics in R](https://www.bioinformatics.babraham.ac.uk/training.html#rstats)
+
+# Scientific Figure Design
+
+- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html#figuredesign)
+
 
 # Training Portals
 
