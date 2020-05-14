@@ -85,6 +85,10 @@ We have compiled this link of recommended materials from other providers, and ma
 
 - [CRUK Autumn School](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
 
+## Epigenetics
+
+- [University of Bradford](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/ewas-suite/tutorial.html)
+
 ## Python Programming
 
 - [Software Carpentry Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
