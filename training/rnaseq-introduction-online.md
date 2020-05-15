@@ -37,7 +37,8 @@ We will describe the steps involved to go from sequencing library to a list of g
   
 ## Video Recordings
 
-<!--+ [RNA-seq Pre-processing](https://youtu.be/zRHRFH-f7pc)-->
+- [RNA-seq Pre-processing](https://youtu.be/WHeLvBWt6bg)
+- [Differential Expression and Pathways](https://youtu.be/l_vw1loyDJ0)
 
 
 
