@@ -26,7 +26,7 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 **Due to Covid-19 we are not opening any more courses for booking until the situation becomes clearer. In the meantime, why not check the materials from some of our previous courses listed below?**
 
-We have also made a curated list of other training materials available online and made an FAQ for support queries we are receiving at the moment
+We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
 - [http://sbc.shef.ac.uk/training/other-materials](http://sbc.shef.ac.uk/training/other-materials)
 - [FAQ](http://sbc.shef.ac.uk/training/faq)
