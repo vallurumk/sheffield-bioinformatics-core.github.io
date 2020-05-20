@@ -66,3 +66,27 @@ or the main R repository at CRAN
 [Browse R packages](https://www.r-pkg.org/)
 
 ------
+
+## I get a `file not found` error when trying to read a file into R
+
+R is having problems with the *file path* or *file name* that you specified.
+
+1) check the file name to make sure there are no typos
+2) check that the file exists in your current working directory. The working directory can be printed to screen using `getwd()`.
+
+The recommended way to organise your files in RStudio is using *R projects*.
+
+[https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
+
+Any files that you want to analyse should be placed inside the project directory.
+
+If you are still having problems, RStudio has an **Import Dataset** option through the file menu. This will read your file, and also print the R code that would be required.
+
+
+------
+
+## Do you have any courses on ....?
+
+Check our website for the courses that we currently run. All should have links to materials. We have now created a link to other resources online that you can check out
+
+http://sbc.shef.ac.uk/training/other-materials
