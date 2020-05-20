@@ -36,3 +36,33 @@ Alternatively, GEO provide a GEO2R tool that provide the code for you
 [https://www.ncbi.nlm.nih.gov/geo/geo2r/](https://www.ncbi.nlm.nih.gov/geo/geo2r/)
 
 ------
+
+## Can I read data from Excel into R?
+
+Yes, if you have `.xls` or `.xlsx` file they can be read into R. The recommended approach would be to save then as `.csv` files, and proceed as normal. Otherwise, the `readxl` package can be used
+
+```
+## do this the first time if you don't have the package
+install.packages("readxl")
+library(readxl)
+data <- readxl("<YOUR_FILE_NAME_HERE>")
+```
+
+However, you may wish to consult this guide on data organisation to make sure your data are in a suitable form for analysis in R
+
+[https://datacarpentry.org/spreadsheet-ecology-lesson/](https://datacarpentry.org/spreadsheet-ecology-lesson/)
+
+------
+
+## Is there a package to do .... in R?
+
+Aside from google, the main places to look would be Bioconductor (for Biological data):-
+
+
+[Bioconductor packages](http://bioconductor.org/packages/release/BiocViews.html#___Software)
+
+or the main R repository at CRAN
+
+[Browse R packages](https://www.r-pkg.org/)
+
+------
