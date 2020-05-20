@@ -89,4 +89,5 @@ If you are still having problems, RStudio has an **Import Dataset** option throu
 
 Check our website for the courses that we currently run. All should have links to materials. We have now created a link to other resources online that you can check out
 
+http://sbc.shef.ac.uk/training/
 http://sbc.shef.ac.uk/training/other-materials
