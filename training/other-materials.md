@@ -42,11 +42,13 @@ We have compiled this link of recommended materials from other providers, and ma
 
 ## RNA-seq
 
-### Course Materials
+### Course Materials / workflows
 
 - [University of York Differential Gene Expression Tutorial](https://shiny.york.ac.uk/bioltf/gene_expression_course/day1/)
 - [Harvard Bioinformatics Core Differential gene expression](https://hbctraining.github.io/DGE_workshop_salmon/)
 - [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html#rnaseq)
+- [DESeq2 workflow from the package authors](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
+- [RNA-seq with limma and edgeR](https://bioconductor.org/packages/release/workflows/vignettes/RNAseq123/inst/doc/limmaWorkflow.html)
 
 ### Videos
 
@@ -66,8 +68,9 @@ We have compiled this link of recommended materials from other providers, and ma
 
 ## Single-cell RNA-seq
 
-### Course Materials
+### Course Materials 
 
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/)
 - [Analysis of single cell RNA-seq data - Sanger](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 - [Analysis of single cell RNA-seq data - Harvard Bioinformatics Core](https://hbctraining.github.io/scRNA-seq/)
 - [10X analysis - Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html#10xrna)
@@ -80,6 +83,7 @@ We have compiled this link of recommended materials from other providers, and ma
 ## Cancer Genomics
 
 - [CRUK Bioinformatics Summer School](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2017/)
+- [TCGA workflow using Bioconductor](https://bioconductor.org/packages/release/workflows/vignettes/TCGAWorkflow/inst/doc/TCGAWorkflow.html)
 
 ## Functional Genomics (RNA- and ChIP-seq)
 
@@ -88,6 +92,11 @@ We have compiled this link of recommended materials from other providers, and ma
 ## Epigenetics
 
 - [University of Bradford](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/ewas-suite/tutorial.html)
+- [Bioconductor workflow for analysing methylation array data](https://bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html)
+
+## Proteomics
+
+- [Mass spectrometry and proteomics data analysis](https://bioconductor.org/packages/release/workflows/vignettes/proteomics/inst/doc/proteomics.html)
 
 ## Python Programming
 
@@ -101,6 +110,7 @@ We have compiled this link of recommended materials from other providers, and ma
 
 ## Microarray Analysis
 
+- [End-to-end workflow for Affymetrix](https://bioconductor.org/packages/release/workflows/vignettes/maEndToEnd/inst/doc/MA-Workflow.html)
 - [CRUK course on microarray analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/)
 
 ## Shiny (R)
