@@ -85,6 +85,26 @@ If you are still having problems, RStudio has an **Import Dataset** option throu
 
 ------
 
+## How do I make a heatmap from my differentially-expressed genes
+
+There is a heatmap tool available through Galaxy, and here is a tutorial
+
+https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.html
+
+The Degust tool can also make heatmaps
+
+http://degust.erc.monash.edu/
+
+
+In R, the `pheatmap` or `ComplexHeatmap` packages are recommended for their flexibility. You will need to filter your count matrix to contain rows for just your genes of interest.
+
+A recent Bitesize Bioinformatics video from Babraham Bioinformatics explains the process
+
+- https://www.youtube.com/watch?v=pTeTH9bz-_s&list=PLbiByRpDb_hP7b-I1GR4eEWCD2OqdZEg1&index=7
+
+------
+
+
 ## Do you have any courses on ....?
 
 Check our website for the courses that we currently run. All should have links to materials. We have now created a link to other resources online that you can check out
