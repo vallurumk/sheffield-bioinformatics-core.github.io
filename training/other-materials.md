@@ -56,8 +56,14 @@ We have compiled this link of recommended materials from other providers, and ma
 
 ## Version control / git and github
 
+### Course Materials
+
 - [Software Carpentry git Lessons](http://swcarpentry.github.io/git-novice/)
 - [Github Guides](https://guides.github.com/)
+
+### Videos
+
+- [Introducing version control with Git and Github](https://www.youtube.com/watch?v=T72ZzWZfGO0&list=PLbiByRpDb_hP7b-I1GR4eEWCD2OqdZEg1&index=1)
 
 ## ChiP-seq / ATAC-seq
 
