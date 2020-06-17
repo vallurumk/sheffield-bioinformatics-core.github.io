@@ -16,14 +16,15 @@ It will be assumed that you have some familiarity with the Unix command-line int
 
 - [Software Carpentry](https://swcarpentry.github.io/shell-novice/)
 
-The particular example we will give is for an RNA-seq analysis
+The particular example we will give is for an RNA-seq analysis. If you have a different analysis to perform, please check-out the RNA-seq instructions before seeing what seeing what other software we have made available.
 
 # Setup on your own machine
 
 A Virtual-Machine approach (e.g. using VirtualBox) could be used, but we will consider a solution using Docker.
 
-Docker is an open platform for developers to build and ship applications, whether on laptops, servers in a data center, or the cloud. It is a (relatively) painless way for you to install and try out Bioinformatics software. You can think of it as an isolated environment inside your exising operating system where you can install and run software without messing with the main OS.
+Docker is an open platform for developers to build and ship applications, whether on laptops, servers in a data center, or the cloud. It is a (relatively) painless way for you to install and try out Bioinformatics software. You can think of it as an isolated environment inside your existing operating system where you can install and run software without messing with the main OS.
 
+It is worth bearing in mind that the first approach will use the CPU and RAM from your own machine, so if you do not have adequate resources, some of the analyses may struggle and you might have to consider [using a computing cluster](#Analysis-on-the-UoS-cluster).
 
 ## Installing Docker
 
@@ -66,7 +67,10 @@ The following command would map that directory to the folder `/data` inside the 
 docker run --rm  -it -v /c/work/my_fastq_data:/data sheffieldbioinformatics/rnaseq-training
 ```
 
+Notice how the *command prompt* changes to indicate that I am now the `root` user within a different file system
+
 *N.B. the other options being used here are --rm to delete the container afterwards, and -it to make it interactive*.
+
 
 We now should be able to see our files with the `ls` command on the directory `/data/`.
 
@@ -89,17 +93,72 @@ Conveniently the results are appear in the directory on our Windows machine
 
 ![](images/windows_files2.PNG)
 
-Other tools that are available include:-
+Other commonly-used tools that are available include:-
 
 ```
+## QC
 multiqc
+
+## alignment
 hisat2
+tophat2
+bowtie2
+STAR
+
+## trimming
+cutadapt
+
+## quantification
 salmon
 kallisto
+
+## countinh
 featureCounts
-STAR
 htseq-count
+cuffdiff
+
+## general
+samtools
+
 ```
+
+The trimmomatic trimming tool can also be executed using:-
+
+
+```
+java -jar $TRIMMOMATIC
+```
+
+Various tools from the RSEM suite can also be used. To see a full list, type `rsem` and press the tab key.
+
+```
+rsem-calculate-expression
+rsem-prepare-reference
+
+##etc
+
+```
+
+The sra-toolkit is available for downloading files directly from the Sequence Read Archive (SRA)
+
+```
+fastq-dump
+```
+
+Additionally, various standard command-line tools are available to help you navigate and manipulate files.
+
+```
+cd
+ls
+cat
+more
+cp
+wget
+unzip
+gunzip
+tar
+```
+
 
 When you have finished with analysis, type `exit` and close the command prompt.
 
@@ -107,9 +166,11 @@ When you have finished with analysis, type `exit` and close the command prompt.
 exit
 ```
 
+
+
 # Analysis on the UoS cluster
 
-As described above, `docker` can be used to run the environment presented in this course on a personal laptop. However, there are some security implications of docker that prohibits it being installed on a high-performance computing system. An alternative is `singularity`, which allows computing environments to be distributed as a single image file. We have created such a singularity image for the analysis of RNA-seq and made it available on sharc (The University of Sheffield's HPC).
+As described above, `docker` can be used to run an RNA-seq analysis on a personal laptop or desktop. However, there are some security implications of docker that prohibits it being installed on a high-performance computing system. An alternative is `singularity`, which allows computing environments to be distributed as a single image file. We have created such a singularity image for the analysis of RNA-seq and made it available on sharc (The University of Sheffield's HPC).
 
 If you don't already have one, you will need to request an account on sharc.
 
@@ -119,7 +180,7 @@ The UoS website has documentation on connecting to the HPC and transfering data.
 
 https://www.sheffield.ac.uk/it-services/research/hpc/sharc
 
-## Connecting to the cluster
+## Interactive mode
 
 On my Windows machine I use the free tools putty and WinSCP to connect to the cluster
 
@@ -127,12 +188,12 @@ On my Windows machine I use the free tools putty and WinSCP to connect to the cl
 - [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 
-Firstly, login to sharc in the usual manner and then open an interactive shell.
+Firstly, login to sharc using the [steps in the documentation](https://www.sheffield.ac.uk/it-services/research/hpc/using/access/intro) and then open an interactive shell. e.g. 
 
 ```{bash eval=FALSE}
 ssh USERNAME@sharc.shef.ac.uk
 
-## open an interactive shell wiht 6Gb of RAM. Change as required
+## open an interactive shell with 6Gb of RAM. Change as required
 
 qrshx -l rmem=6G
 ```
@@ -147,37 +208,22 @@ export IMAGE_BASE="singularity exec /usr/local/community/bioinformatics-core/sin
 
 ```
 
-## Example workflow
 
-Lets say that I have some `fastq` files in the folder `/fastdata/md1mjdx/my_fastqs`
+Lets say that I have some `fastq` files in the folder `/fastdata/md1mjdx/my_fastqs` then I could run `fastqc` as follows.
 
 ```{bash eval=FALSE}
 cd /fastdata/md1mjdx/my_fastqs
 $IMAGE_BASE fastqc *.fastq.gz
 ```
 
-Other commands that require you to list give the path to the singularity image are as follows:-
+The tools listed in the previous section are all available, but this time the command must be prefixed with `$IMAGE_BASE`. The commands listed below will typically print the help. For details of how to run the command for your analysis consult the corresponding documentation.
+
+### Other example commands
+
 
 ```{bash eval=FALSE}
 $IMAGE_BASE multiqc
 ```
-
-
-```{bash eval=FALSE}
-wget 
-```
-
-
-```{bash eval=FALSE}
-$IMAGE_BASE salmon index
-```
-
-```{bash eval=FALSE}
-$IMAGE_BASE salmon quant
-```
-
-
-### Other example commands
 
 
 ```{bash eval=FALSE}
@@ -208,3 +254,83 @@ $IMAGE_BASE htseq-count
 ```{bash eval=FALSE}
 $IMAGE_BASE kallisto
 ```
+
+## Script submission
+
+<TO DO>
+
+# Analysis on another computing cluster
+
+If you are outside the University of Sheffield We are not able to offer a great deal of support for analysis on your institutes' computing environment. In brief, the `singularity` tool will need to be installed, which can then be used to convert the docker container into a correspoding singularity file. 
+
+```
+singularity build rnaseq-training.sif docker://sheffield-bioinformatics/rnaseq-training
+```
+
+
+
+# Other NGS analyses
+
+## ChIP-seq
+
+
+### docker
+
+The command to run the docker container for this is:-
+
+```
+docker run --rm  -it -v /c/work/my_fastq_data:/data sheffield-bioinformatics/chipseq-training
+```
+
+
+Providing the following software
+
+```
+# qc
+fastqc
+multiqc
+
+# trimming
+cutadapt
+
+
+# alignment
+
+bowtie2
+
+# peak-calling
+
+macs2
+
+# downstream
+
+meme
+
+# general
+
+samtools
+bedtools
+
+# SRA toolkit
+
+fastq-dump
+```
+
+The picard suite of tools can also be accessed
+
+```
+java -jar $PICARD
+``
+
+
+### UoS computing cluster
+
+```
+export IMAGE_BASE="singularity exec /usr/local/community/bioinformatics-core/singularity/chipseq-training.sif"
+```
+
+
+## Variant-calling
+
+Coming soon....
+
