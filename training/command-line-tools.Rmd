@@ -175,6 +175,9 @@ When you have finished with analysis, type `exit` and close the command prompt.
 exit
 ```
 
+## Any software missing?
+
+If you have the need for any RNA-seq software that is not covered by this list, but drop us a line (bioinformatics-core@sheffield.ac.uk). 
 
 
 # Analysis on the UoS cluster
@@ -274,11 +277,11 @@ $IMAGE_BASE htseq-count
 
 ## Script submission
 
-<TO DO>
+
 
 # Analysis on another computing cluster
 
-If you are outside the University of Sheffield We are not able to offer a great deal of support for analysis on your institutes' computing environment. In brief, the `singularity` tool will need to be installed, which can then be used to convert the docker container into a correspoding singularity file. 
+If you are outside the University of Sheffield We are not able to offer a great deal of support for analysis on your institutes' computing environment. In brief, the `singularity` tool will need to be installed, which can then be used to convert the docker container into a corresponding singularity file. 
 
 ```
 singularity build rnaseq-training.sif docker://sheffield-bioinformatics/rnaseq-training
