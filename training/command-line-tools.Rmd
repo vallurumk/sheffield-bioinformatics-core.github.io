@@ -284,7 +284,7 @@ $IMAGE_BASE htseq-count
 If you are outside the University of Sheffield We are not able to offer a great deal of support for analysis on your institutes' computing environment. In brief, the `singularity` tool will need to be installed, which can then be used to convert the docker container into a corresponding singularity file. 
 
 ```
-singularity build rnaseq-training.sif docker://sheffield-bioinformatics/rnaseq-training
+singularity build rnaseq-training.sif docker://sheffieldbioinformatics/rnaseq-training
 ```
 
 
@@ -299,7 +299,7 @@ singularity build rnaseq-training.sif docker://sheffield-bioinformatics/rnaseq-t
 The command to run the docker container for this is:-
 
 ```
-docker run --rm  -it -v /c/work/my_fastq_data:/data sheffield-bioinformatics/chipseq-training
+docker run --rm  -it -v /c/work/my_fastq_data:/data sheffieldbioinformatics/chipseq-training
 ```
 
 
