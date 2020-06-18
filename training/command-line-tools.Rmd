@@ -18,9 +18,18 @@ It will be assumed that you have some familiarity with the Unix command-line int
 
 The particular example we will give is for an RNA-seq analysis. If you have a different analysis to perform, please check-out the RNA-seq instructions before seeing what seeing what other software we have made available.
 
+**Disclaimer:- this is not a tutorial on how to perform an RNA-seq analysis and which tools to use. You should use this tutorial when you are familiar with the workflow and want to run the tools on your own data.**
+
+- [SBC tutorial on RNA-seq processing](https://sbc.shef.ac.uk/workshops/2020-02-12-command-line/align-and-quantification.nb.html)
+
+
+# Video walkthrough
+
+- [Video walkthrough](https://youtu.be/k6vwcT6lAvI)
+
 # Setup on your own machine
 
-A Virtual-Machine approach (e.g. using VirtualBox) could be used, but we will consider a solution using Docker.
+A Virtual-Machine approach (e.g. using VirtualBox) could be used, but we will consider a solution using "Docker".
 
 Docker is an open platform for developers to build and ship applications, whether on laptops, servers in a data center, or the cloud. It is a (relatively) painless way for you to install and try out Bioinformatics software. You can think of it as an isolated environment inside your existing operating system where you can install and run software without messing with the main OS.
 
@@ -225,6 +234,15 @@ The tools listed in the previous section are all available, but this time the co
 $IMAGE_BASE multiqc
 ```
 
+```{bash eval=FALSE}
+$IMAGE_BASE salmon
+```
+
+
+```{bash eval=FALSE}
+$IMAGE_BASE kallisto
+```
+
 
 ```{bash eval=FALSE}
 $IMAGE_BASE hisat2-build
@@ -251,9 +269,8 @@ $IMAGE_BASE featureCounts
 $IMAGE_BASE htseq-count
 ```
 
-```{bash eval=FALSE}
-$IMAGE_BASE kallisto
-```
+
+
 
 ## Script submission
 
