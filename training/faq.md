@@ -37,6 +37,19 @@ Alternatively, GEO provide a GEO2R tool that provide the code for you
 
 ------
 
+## How can I perform survival analysis?
+
+The Winship Biostatistics and Bioinformatics Shared Resource (BBISR) of Emory University have developed a nice web interface for performing survival analysis
+
+http://bbisr.shinyapps.winship.emory.edu/CASAS/
+
+The web page is running R code under-the-hood using the [Shiny](https://shiny.rstudio.com/) R package. If you want to perform survival analysis in R, there is a brief explanation in our [GEO tutorial](https://sbc.shef.ac.uk/geo_tutorial/tutorial.nb.html#survival-analysis).
+
+A much more comprehesive guide can be found here:-
+
+- [https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)
+
+
 ## Can I read data from Excel into R?
 
 Yes, if you have `.xls` or `.xlsx` file they can be read into R. The recommended approach would be to save then as `.csv` files, and proceed as normal. Otherwise, the `readxl` package can be used
