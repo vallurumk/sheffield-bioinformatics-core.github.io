@@ -60,6 +60,7 @@ We have compiled this link of recommended materials from other providers, and ma
 
 - [Software Carpentry git Lessons](http://swcarpentry.github.io/git-novice/)
 - [Github Guides](https://guides.github.com/)
+- [Friendly Github Intro (Kirstie Whitaker)](https://kirstiejane.github.io/friendly-github-intro/)
 
 ### Videos
 
