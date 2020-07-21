@@ -41,9 +41,13 @@ install.packages("ggplot2")
 install.packages("readr")
 ```
 
-**Mac Users may get the following error message when trying to install these packages
+These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI](https://youtu.be/vzLclNVuGoI)
 
-```xcrun error: inactive developer path (/Library/Developer/CommandLineTools), missing xcrun at:.....
+**Mac Users may get the following error message when trying to install these packages**
+
+```
+xcrun error: inactive developer path (/Library/Developer/CommandLineTools), missing xcrun at:.....
+
 ```
 
 If this is the case, you will need to follow the instructions from this link to install "Xcode"
@@ -54,12 +58,13 @@ https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-act
 
 https://cran.r-project.org/bin/windows/Rtools/
 
-These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI](https://youtu.be/vzLclNVuGoI)
 
 5) Check your installation. You can check everything is installed by copying and pasting this into the R console
 
 ```
 source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/r-online/master/check_packages.R")
+
+```
 
 ## Course Notes
 
