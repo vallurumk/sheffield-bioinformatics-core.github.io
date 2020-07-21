@@ -52,11 +52,11 @@ xcrun error: inactive developer path (/Library/Developer/CommandLineTools), miss
 
 If this is the case, you will need to follow the instructions from this link to install "Xcode"
 
-https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a
+[https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a](https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a)
 
 **Window users might get a message that Rtools is required. This shouldn't be neccesary, but you might need it for other packages. It can be installed here:-**
 
-https://cran.r-project.org/bin/windows/Rtools/
+[https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/)
 
 
 5) Check your installation. You can check everything is installed by copying and pasting this into the R console
