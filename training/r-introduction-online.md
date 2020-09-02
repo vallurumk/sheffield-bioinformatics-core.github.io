@@ -45,7 +45,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
   
 2) Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on the computer that you wish to work in
 
-3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to.
+3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to. Rstudio will refresh so that the working directory corresponds to the course data folder.
 
 4) Type the following into the R console to install some extra R packages required for the workshop
 
