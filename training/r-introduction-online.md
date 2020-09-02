@@ -25,7 +25,7 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Setup
 
-These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI](https://youtu.be/vzLclNVuGoI)
+These instructions are also described in a video:- [https://youtu.be/QIubJ8W8R4g](https://youtu.be/QIubJ8W8R4g)
 
 1) First, install both R **and** RStudio for your operating system. 
 
