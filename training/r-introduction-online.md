@@ -25,11 +25,25 @@ After the course you should feel confident to start exploring your own dataset u
 
 ## Setup
 
-1) To follow the course on your own computer, install both R **and** RStudio for your operating system. Instructions are available [below](#software-installation). There are also some videos on youtube to explain the process
-  + [Installation for Mac](https://www.youtube.com/watch?v=1PsPfMaLWSk)
-  + [Installation for Windows](https://www.youtube.com/watch?v=GAGUDL-4aVw)
+These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI](https://youtu.be/vzLclNVuGoI)
+
+1) First, install both R **and** RStudio for your operating system. 
+
+### Windows
+
+Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
+
+### Mac
+
+Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
+
+### Linux
+
+You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please install free [the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download). 
+
+
   
-2) Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on your computer that you wish to work in
+2) Please download and extract (un-zip) [this zip file](http://sbc.shef.ac.uk/r-online/CourseData.zip) into the directory on the computer that you wish to work in
 
 3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to.
 
@@ -41,7 +55,7 @@ install.packages("ggplot2")
 install.packages("readr")
 ```
 
-These instructions are also described in a video:- [https://youtu.be/vzLclNVuGoI](https://youtu.be/vzLclNVuGoI)
+
 
 **Mac Users may get the following error message when trying to install these packages**
 
@@ -107,25 +121,6 @@ Researchers in life sciences who want to get manipulate and visualise their data
 ## Prerequisites
 
 - No prior programming experience is required
-
-
-## Software installation
-
-You will need to bring an internet-enabled laptop to the course and install the latest versions of *both* R ***and*** RStudio before coming to the course
-
-
-### Windows
-
-Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from CRAN. Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
-
-### Mac
-
-Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
-
-### Linux
-
-You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please install free [the RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download). 
-
 
 
 ## References
