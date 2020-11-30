@@ -21,6 +21,8 @@ We will describe the steps involved to go from sequencing library to a list of g
 
 ## Setup
 
+- Please download the contents of this google folder and save into a directory that you want to work in
+  [https://drive.google.com/open?id=1ftuBP5L-rcXwsEub2mIaSDJ1tceHYFc7](https://drive.google.com/open?id=1ftuBP5L-rcXwsEub2mIaSDJ1tceHYFc7)
 - Please register for an account at [usegalaxy.eu](https://usegalaxy.eu).**Make sure to check your email to activate your account**
 - Please download the GSEA app from 
 [http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) for your operating system (GSEA_Win_4.1.0-installer.exe or GSEA_4.1.0.app.zip)
