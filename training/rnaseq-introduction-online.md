@@ -23,22 +23,22 @@ We will describe the steps involved to go from sequencing library to a list of g
 
 - Please register for an account at [usegalaxy.eu](https://usegalaxy.eu).**Make sure to check your email to activate your account**
 - Please download the GSEA app from 
-[http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) for your operating system (GSEA_Win_4.0.3-installer.exe or GSEA_4.0.3.app.zip)
+[http://software.broadinstitute.org/gsea/downloads.jsp](http://software.broadinstitute.org/gsea/downloads.jsp) for your operating system (GSEA_Win_4.1.0-installer.exe or GSEA_4.1.0.app.zip)
 - Please watch these pre-recorded lectures
   + [Introduction and Experimental Design](https://youtu.be/YtOG-77FfIg)
   + [RNA-seq workflow overview](https://youtu.be/m1x4CaLg90A)
   + [Functional Gene Analysis](https://youtu.be/clb0bh3zFSM)
 
-## Course Notes
+## Course Notes - to appear on day of the course
 
-+ [RNA-seq Pre-processing](http://sbc.shef.ac.uk/rnaseq-introduction-online/01-pre-processing.nb.html)
+<!--+ [RNA-seq Pre-processing](http://sbc.shef.ac.uk/rnaseq-introduction-online/01-pre-processing.nb.html)
 + [Differential Expression](http://sbc.shef.ac.uk/rnaseq-introduction-online/02-differential-expression.nb.html)
-+ [Gene Set Enrichment](http://sbc.shef.ac.uk/rnaseq-introduction-online/03-enrichment.nb.html)
++ [Gene Set Enrichment](http://sbc.shef.ac.uk/rnaseq-introduction-online/03-enrichment.nb.html)-->
   
-## Video Recordings
+## Video Recordings - to appear after the course
 
-- [RNA-seq Pre-processing](https://youtu.be/WHeLvBWt6bg)
-- [Differential Expression and Pathways](https://youtu.be/l_vw1loyDJ0)
+<!-- - [RNA-seq Pre-processing](https://youtu.be/WHeLvBWt6bg)
+- [Differential Expression and Pathways](https://youtu.be/l_vw1loyDJ0)-->
 
 
 
