@@ -17,14 +17,11 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 If you are based in Sheffield and want 1:1 advice on data analysis, experimental design or any Bioinformatics problem, you can [book a clinic with us](https://sbc.shef.ac.uk/blog/clinics/)
 
-## 2020
+## 2021
 
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/), Postponed
-- [Statistical Analysis in R](http://sbc.shef.ac.uk/training/stats-introduction-2020-06-02/), Postponed
-- ChIP-seq Analysis in R, Postponed
-- Principles of Machine Learning in R, Postponed
+- [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_jan21/), ONLINE,  January 11, 13, 15, 18 and 20th, Invitation only
+- [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_feb21/), ONLINE, February 15, 17, 19, 22 and 24th, Invitation only
 
-**Due to Covid-19 we are not opening any more courses for booking until the situation becomes clearer. In the meantime, why not check the materials from some of our previous courses listed below?**
 
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
