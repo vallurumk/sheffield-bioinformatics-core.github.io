@@ -19,9 +19,9 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2021
 
-- [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_jan21/), ONLINE,  January 11, 13, 15, 18 and 20th, Invitation only
-- [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_feb21/), ONLINE, February 15, 17, 19, 22 and 24th, Invitation only
-
+- Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00, **ask for sign-up details**
+- Statistical Analysis in R, April 21st **ask for sign-up details**
+- RNA-seq analysis in R, May 17th, 19th and 21st, **ask for sign-up details**
 
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
@@ -29,6 +29,11 @@ We have also made a curated list of other training materials available online an
 - [FAQ](http://sbc.shef.ac.uk/training/faq)
 
 ## Past Courses
+
+## 2021
+
+- [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_jan21/), ONLINE,  January 11, 13, 15, 18 and 20th, Invitation only
+- [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_feb21/), ONLINE, February 15, 17, 19, 22 and 24th, 
 
 ## 2020
 
