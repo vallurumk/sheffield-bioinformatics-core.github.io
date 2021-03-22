@@ -19,9 +19,9 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2021
 
-- Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00, **ask for sign-up details**
-- Statistical Analysis in R, April 21st **ask for sign-up details**
-- RNA-seq analysis in R, May 17th, 19th and 21st, **ask for sign-up details**
+- Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
+- Statistical Analysis in R, April 21st, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
+- RNA-seq analysis in R, May 17th, 19th and 21st, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
 
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
