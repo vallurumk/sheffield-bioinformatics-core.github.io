@@ -19,8 +19,6 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2021
 
-- Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
-- Statistical Analysis in R, April 21st, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
 - RNA-seq analysis in R, May 17th, 19th and 21st, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
 
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
@@ -34,6 +32,9 @@ We have also made a curated list of other training materials available online an
 
 - [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_jan21/), ONLINE,  January 11, 13, 15, 18 and 20th, Invitation only
 - [NIHR BRC Data Analytics Workshop ](https://sbc.shef.ac.uk/brc_training_feb21/), ONLINE, February 15, 17, 19, 22 and 24th, 
+- Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00,
+- Statistical Analysis in R, April 21st
+- [WhiteRose Mechanistic Biology DTP - Analytics 2](https://www.whiterose-mechanisticbiology-dtp.ac.uk/training-and-events/upcoming/analytics-r-2-analysis-of-high-throughput-biological-data-in-r-21st-april-to-4th-may-2021/)
 
 ## 2020
 
