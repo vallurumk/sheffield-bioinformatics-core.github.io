@@ -34,7 +34,7 @@ We have also made a curated list of other training materials available online an
 - [NIHR BRC Data Analytics Workshop - Data Management, R and Statistics](https://sbc.shef.ac.uk/brc_training_feb21/), ONLINE, February 15, 17, 19, 22 and 24th, 
 - Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00,
 - Statistical Analysis in R, April 21st
-- [WhiteRose Mechanistic Biology DTP - Analytics 2 - RNA-seq analysis in R](sbc.shef.ac.uk/whiterose_analytics2), ONLINE, April 26, 28, 30, and May 4
+- [WhiteRose Mechanistic Biology DTP - Analytics 2 - RNA-seq analysis in R](https://sbc.shef.ac.uk/whiterose_analytics2/), ONLINE, April 26, 28, 30, and May 4
 
 ## 2020
 
