@@ -74,14 +74,14 @@ Download and install the version for your OS from: https://rstudio.com/products/
 
 Run the code in the R script linked below
 
-[Package installation code](install_bioc_packages.R)
+[Package installation code](https://raw.githubusercontent.com/sheffield-bioinformatics-core/workshops/rnaseq-r-online_v1/install_bioc_packages.R)
 
 ## 5) Check your installation. 
 
 You can check everything is installed by copying and pasting this into the R console
 
 ```
-source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/rnaseq-r-online/main/check_packages.R")
+source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/workshops/rnaseq-r-online_v1/check_packages.R")
 
 ```
 
