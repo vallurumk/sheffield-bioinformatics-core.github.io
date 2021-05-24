@@ -19,7 +19,6 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 
 ## 2021
 
-- RNA-seq analysis in R, May 17th, 19th and 21st, [University of Sheffield staff/students apply here](https://docs.google.com/forms/d/e/1FAIpQLSdLT5yQiCy6rpHwuHa3Ev7PQgB6rTpHzweinzjoWbIXo720Lg/viewform)
 
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
@@ -30,6 +29,7 @@ We have also made a curated list of other training materials available online an
 
 ## 2021
 
+- [RNA-seq analysis in R](https://sbc.shef.ac.uk/workshops/rnaseq-r-online_v1), May 17th, 19th and 21st
 - [WhiteRose Mechanistic Biology DTP - Analytics 2 - RNA-seq analysis in R](https://sbc.shef.ac.uk/whiterose_analytics2/), ONLINE, April 26, 28, 30, and May 4
 -  Statistical Analysis in R, April 21st
 -  Data Manipulation and Visualisation, April 12th, 14th and 16th 13:00 to 16:00,
