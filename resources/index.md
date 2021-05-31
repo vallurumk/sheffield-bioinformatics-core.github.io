@@ -32,7 +32,7 @@ Other researchers / Core facilities that we collaborate with and share resources
 
 ### Local
 
-- [Sheffield Bioinformatics Network](https://bioinformatics.group.shef.ac.uk/)
+- [Northern Bioinformatics User Group (Nothern BUG)](https://northernbug.github.io/)
 - [Sheffield Research Software Engineering (RSE) group](https://rse.shef.ac.uk/)
 - [Sheffield Diagnostic Genetics Service](https://www.sheffieldchildrens.nhs.uk/sdgs/)
 - [Sheffield Biological Mass Spectrometry Facility (biOMICS)](https://www.sheffield.ac.uk/biomics)
