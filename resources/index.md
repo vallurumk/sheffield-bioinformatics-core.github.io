@@ -41,6 +41,7 @@ Other researchers / Core facilities that we collaborate with and share resources
 
 ### National / International
 
+- [COVID-19 Genomics Uk Consortium](https://www.cogconsortium.uk/)
 - [Northern Bioinformatics User Group (NorthernBUG)](https://northernbug.github.io/)
 - [Cancer Research Uk Cambridge Institute Bioinformatics Core](https://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core)
 - [Bioinformatics Training Program of the University of Cambridge](https://bioinfotraining.bio.cam.ac.uk/)
