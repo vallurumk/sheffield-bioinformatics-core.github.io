@@ -23,7 +23,8 @@ On our [github repository](https://github.com/sheffield-bioinformatics-core) you
 
 ## Software
 
-..coming soon...
+- Periscope; A tool to quantify sub-genomic RNA (sgRNA) expression in SARS-CoV-2 artic network amplicon nanopore sequencing data.
+  + [github repository](https://github.com/sheffield-bioinformatics-core/periscope)
 
 
 ## Collaborators
