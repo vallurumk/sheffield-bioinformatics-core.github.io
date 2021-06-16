@@ -3,6 +3,9 @@ layout: page
 title: Emily Chambers
 excerpt: "More about Emily..."
 ---
+
+![emily](../images/emilychambers.jpeg)
+
 Emily joined the Bioinformatics Core at The University of Sheffield in September 2017.
 - [twitter](https://twitter.com/evc_sheffield)
 - [github](https://github.com/evchambers)
