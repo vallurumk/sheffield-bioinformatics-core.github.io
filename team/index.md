@@ -11,7 +11,8 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html) - Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
 - [Matthew Parker](http://sbc.shef.ac.uk/team/matt) - Clinical Bioinformatics Core Scientist
-- Sharon Hsu
+- [Sharon Hsu](http://sbc.shef.ac.uk/team/sharon) - Junior Bioinformatician
+- [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer
 - Emmanuel Jammeh - Associate member
 
 ## Scientific Directors
