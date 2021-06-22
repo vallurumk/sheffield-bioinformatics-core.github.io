@@ -13,7 +13,10 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 - [Matthew Parker](http://sbc.shef.ac.uk/team/matt) - Clinical Bioinformatics Core Scientist
 - [Sharon Hsu](http://sbc.shef.ac.uk/team/sharon) - Junior Bioinformatician
 - [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer
-- Emmanuel Jammeh - Associate member
+
+## Associate Members
+
+- Emmanuel Jammeh - Postdoctoral Researcher, Wang lab.
 
 ## Scientific Directors
 
