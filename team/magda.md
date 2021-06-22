@@ -8,7 +8,7 @@ excerpt: "More about Magda..."
 
 Magda joined the Bioinformatics Core at The University of Sheffield in June 2021.
 
-- [github] (https://github.com/mbdabrowska1)
+- [github](https://github.com/mbdabrowska1)
 - [LinkedIn](https://www.linkedin.com/in/magdalena-dabrowska-20906692/)
 
 ## Experience
