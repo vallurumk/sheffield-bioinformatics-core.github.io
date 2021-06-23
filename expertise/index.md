@@ -27,6 +27,15 @@ The Core is experienced in advising on the following issues:-
 - MACS2, and other peak callers for ChIP-Seq analysis
 - Downstream analysis of gene lists to identify over-represented pathways / ontologies using [GSEA](http://software.broadinstitute.org/gsea/index.jsp), goseq, or other online tools such as [DAVID](https://david.ncifcrf.gov/) or [Genetrail](https://genetrail2.bioinf.uni-sb.de/).
 
+## Nanopore Sequence Analysis
+
+- Direct & cDNA RNASeq
+- CRISPR/Cas9 targeted sequencing
+- Amplicon sequencing
+- SARS-CoV-2 sequencing and analysis
+- Microbial genomics
+- Plasmid sequencing
+
 ## Clinical Bioinformatics Services
 
 Matthew Parker is a registered Clinical Scientist (Bioinformatics) in the core and has experience of providing clinical bioinformatics services for the NHS. 
