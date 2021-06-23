@@ -94,7 +94,7 @@ Pappo AS, Federico S, Dalton J, Cheung IY, Ding L, Fulton R, Wang J, Chen
 X, Becksfort J, Wu J, Billups CA, Ellison D, Mardis ER, Wilson RK, Downing
 JR, Dyer MA, St Jude Children's Research Hospital-Washington University
 Pediatric Cancer Genome P. <i>Association of age at diagnosis and genetic
-mutations in patients with neuroblastoma.* <strong>JAMA</strong> 2012, 307(10):1062-
+mutations in patients with neuroblastoma.</i> <strong>JAMA</strong> 2012, 307(10):1062-
 1071.
 </td>
 </tr>
