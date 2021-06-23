@@ -4,7 +4,7 @@ title: Matthew Parker Ph.D
 excerpt: "More about Matt..."
 ---
 
-<div style="text-align:center"><img src="images/matt.jpg"></div>
+<div style="text-align:center"><img src="/images/matt.jpg"></div>
 
 I joined University of Sheffield Bioinformatics Core in May 2018 to provide support for the Biomedical Research Centre (BRC) 
 and other university projects in addition to strengthening the clinical bioinformatics services. Recently I have helped deliver 
