@@ -9,6 +9,7 @@ excerpt: "An archive of resources sorted by date."
 
 Talks and presentations given by members of the Core. For training materials and longer courses, see our [training](https://sbc.shef.ac.uk//training/) section.
 
+- [SARS-CoV-2 Subgenomic RNA Detection](https://www.youtube.com/watch?v=aK8zp57FIK0), Matthew Parker, HHMI COVID-19 Seminar Series
 - [Statistical and Data Analysis Challenges in Bioinformatics](https://docs.google.com/presentation/d/1QPExPGWqQZJYZKPkQeEjVF-p_RvuRPdK17HFmWv91So/edit?usp=sharing), Local RSS group meeting, February 27th 2020
 - [Data Formatting Introduction](https://sbc.shef.ac.uk/data-formatting/slides), BTEC Applied Science visit, June 14th 2019
 - [Best Practices for teaching (and learning) R](https://markdunning.github.io/teaching-best-practice/slides.html#1), April 2nd 2019

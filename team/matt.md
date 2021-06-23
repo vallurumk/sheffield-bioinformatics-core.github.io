@@ -44,7 +44,7 @@ For my updated and full list of publications, please see my google scholar page:
 
 ### Selected Publications & Pre-Prints
 
-<table cellspacing="5",cellpadding="5">
+<table cellspacing="5" cellpadding="5">
 <tr>
 <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature13109"></div></td>
 <td>
