@@ -10,6 +10,8 @@ excerpt: "An archive of resources sorted by date."
 Talks and presentations given by members of the Core. For training materials and longer courses, see our [training](https://sbc.shef.ac.uk//training/) section.
 
 - [SARS-CoV-2 subgenomic RNA Detection](https://www.youtube.com/watch?v=aK8zp57FIK0), Matthew Parker, HHMI COVID-19 Seminar Series
+- [periscope: Detecting subgenomic RNA in ARTIC Network Sequencing Data](https://nanoporetech.com/resource-centre/videos/NCM2020/Periscope%3A-sub-genomic-RNA-identification-in-SARS-CoV-2-ARTIC-Network-Nanopore-Sequencing-Data), Matthew Parker, Nanopore Community Meeting
+- [Nanopore Sequencing of C9orf72 in ALS](https://nanoporetech.com/resource-centre/nanopore-sequencing-c9orf72-als), Matthew Parker, Nanopore London Calling
 - [Statistical and Data Analysis Challenges in Bioinformatics](https://docs.google.com/presentation/d/1QPExPGWqQZJYZKPkQeEjVF-p_RvuRPdK17HFmWv91So/edit?usp=sharing), Local RSS group meeting, February 27th 2020
 - [Data Formatting Introduction](https://sbc.shef.ac.uk/data-formatting/slides), BTEC Applied Science visit, June 14th 2019
 - [Best Practices for teaching (and learning) R](https://markdunning.github.io/teaching-best-practice/slides.html#1), April 2nd 2019
