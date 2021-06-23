@@ -9,7 +9,7 @@ excerpt: "More about Matt..."
 I joined University of Sheffield Bioinformatics Core in May 2018 to provide support for the Biomedical Research Centre (BRC) 
 and other university projects in addition to strengthening the clinical bioinformatics services. Recently I have helped deliver 
 \>10,000 SARS-CoV-2 genomes as part of COG-UK. I bring my experience in the delivery of genomics at scale to the Sheffield
-Bioinformatics Core. With a H-index of 28 and > 11,000 citations I have made a measureable impact on teh field of genomics.
+Bioinformatics Core. With a H-index of 28 and > 11,000 citations I have made a measureable impact on the field of genomics.
 
 - [twitter](https://twitter.com/bioinfomatt)
 - [github](https://github.com/mattdmem)
@@ -55,8 +55,8 @@ D, Wu G, Shurtleff S, Easton J, Boggs K, Yergeau D, Vadodaria B, Mulder
 HL, Becksfort J, Gupta P, Huether R, Ma J, Song G, Gajjar A, Merchant T,
 Boop F, Smith AA, Ding L, Lu C, Ochoa K, Zhao D, Fulton RS, Fulton LL,
 Mardis ER, Wilson RK, Downing JR, Green DR, Zhang J, Ellison DW,
-Gilbertson RJ. *C11orf95-RELA fusions drive oncogenic NF-kappaB
-signalling in ependymoma.* <strong>Nature</strong> 2014, 506(7489):451-455.
+Gilbertson RJ. <i>C11orf95-RELA fusions drive oncogenic NF-kappaB
+signalling in ependymoma.</i> <strong>Nature</strong> 2014, 506(7489):451-455.
 </td>
 </tr>
 
@@ -70,8 +70,8 @@ Gupta P, Ma J, Easton J, Vadodaria B, Onar-Thomas A, Lin T, Li S, Pounds
 S, Paugh S, Zhao D, Kawauchi D, Roussel MF, Finkelstein D, Ellison DW,
 Lau CC, Bouffet E, Hassall T, Gururangan S, Cohn R, Fulton RS, Fulton LL,
 Dooling DJ, Ochoa K, Gajjar A, Mardis ER, Wilson RK, Downing JR, Zhang J,
-Gilbertson RJ. *Novel mutations target distinct subgroups of
-medulloblastoma.* <strong>Nature</strong> 2012, 488(7409):43-48.
+Gilbertson RJ. <i>Novel mutations target distinct subgroups of
+medulloblastoma.</i> <strong>Nature</strong> 2012, 488(7409):43-48.
 </td>
 </tr>
 
@@ -81,8 +81,8 @@ medulloblastoma.* <strong>Nature</strong> 2012, 488(7409):43-48.
 <strong>Parker M</strong>, Chen X, Bahrami A, Dalton J, Rusch M, Wu G, Easton J, Cheung
 NK, Dyer M, Mardis ER, Wilson RK, Mullighan C, Gilbertson R, Baker SJ,
 Zambetti G, Ellison DW, Downing JR, Zhang J, Pediatric Cancer Genome P.
-*Assessing telomeric DNA content in pediatric cancers using whole-
-genome sequencing data.* <strong>Genome Biology</strong> 2012, 13(12):R113.
+<i>Assessing telomeric DNA content in pediatric cancers using whole-
+genome sequencing data.</i> <strong>Genome Biology</strong> 2012, 13(12):R113.
 </td>
 </tr>
 
@@ -92,8 +92,8 @@ genome sequencing data.* <strong>Genome Biology</strong> 2012, 13(12):R113.
 Cheung NK, Zhang J, Lu C, <strong>Parker M</strong>, Bahrami A, Tickoo SK, Heguy A,
 Pappo AS, Federico S, Dalton J, Cheung IY, Ding L, Fulton R, Wang J, Chen
 X, Becksfort J, Wu J, Billups CA, Ellison D, Mardis ER, Wilson RK, Downing
-JR, Dyer MA, St Jude Children&#39;s Research Hospital-Washington University
-Pediatric Cancer Genome P. *Association of age at diagnosis and genetic
+JR, Dyer MA, St Jude Children's Research Hospital-Washington University
+Pediatric Cancer Genome P. <i>Association of age at diagnosis and genetic
 mutations in patients with neuroblastoma.* <strong>JAMA</strong> 2012, 307(10):1062-
 1071.
 </td>
@@ -107,7 +107,7 @@ Green LR, Parsons P, Tucker RM, Brown R, Groves D, Johnson K, Carrilero L, Heffe
 Partridge DG, Evans C, Raza M, Keeley AJ, Smith N, Filipe A, Shepherd JG, Davis C.
 Bennett S, Sreenu VB, Kohl A, Aranday-Cortes E, Tong L, Nichols J, Thomson EC,
 The COVID-19 Genomics UK (COG-UK) consortium, Wang D, Mallal S, de Silva TI. 
-*Subgenomic RNA identification in SARS-CoV-2 genomic sequencing data.* <strong>Genome Research</strong> 2021, Online
+<i>Subgenomic RNA identification in SARS-CoV-2 genomic sequencing data.</i> <strong>Genome Research</strong> 2021, Online
 </td>
 </tr>
 
@@ -119,7 +119,7 @@ Leary S, Cope A, State A, Johnson K, Ali N, Raghei R, Heffer J, Smith N,
 Zhang P, Gallis M, Louka SF, Hornsby HR, Whiteley M, Foulkes BH, Christou S,
 Wolverson P, Pohare M, Hansford SE, Green LR, Evans C, Raza M, Wang D, 
 Gaudieri S, Mallal S, The COVID-19 Genomics UK (COG-UK) consortium, de Silva TI.
-*Altered Subgenomic RNA Expression in SARS-CoV-2 B.1.1.7 Infections.* <strong>bioRxiv</strong> 2021.03.02.433156 
+<i>Altered Subgenomic RNA Expression in SARS-CoV-2 B.1.1.7 Infections.</i> <strong>bioRxiv</strong> 2021.03.02.433156 
 </td>
 </tr>
 
