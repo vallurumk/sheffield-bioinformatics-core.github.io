@@ -20,6 +20,7 @@ If you are based in Sheffield and want 1:1 advice on data analysis, experimental
 ## 2021
 
 - [High Performance Computing for Healthcare](https://n8cir.org.uk/events/hpc-healthcare/), July 12 and 14th. In collaboration with [RSE Sheffield](https://rse.shef.ac.uk/).
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-07-19/), July 19th, 21st ,23rd.
 
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
