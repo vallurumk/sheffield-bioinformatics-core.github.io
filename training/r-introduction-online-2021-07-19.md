@@ -21,13 +21,19 @@ email: [bioinformatics-core@sheffield.ac.uk](bioinformatics-core@sheffield.ac.uk
 
 ## Dates
 
-The course will comprise of three sessions
+The course will comprise of three sessions and be **held online** using Blackboard Collaborate
 
 - Monday July 19th 13:00 to 16:00
 - Wednesday July 21s 13:00 to 16:00
 - Friday July 23rd 13:00 to 16:00
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
+
+# Registration Link
+
+Please use this link to register for the course
+
+- [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-july-2021-online](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-july-2021-online)
 
 # Introduction to Data Manipulation and Visualisation using R
 
