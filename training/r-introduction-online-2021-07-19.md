@@ -105,7 +105,7 @@ Please watch this short presentation (<10 minutes) before attending the workshop
 
 ## Course Notes
 
-- Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
+- [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
 - [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
 
 
