@@ -10,9 +10,6 @@ editor_options:
   chunk_output_type: inline
 ---
 
-<img src="images/logo-sm.png" style="position:absolute;top:40px;right:10px;" width="200" />
-
-
 ## Contact
 
 web : [sbc.shef.ac.uk](https://sbc.shef.ac.uk)  
@@ -109,6 +106,6 @@ Please watch this short presentation (<10 minutes) before attending the workshop
 ## Course Notes
 
 - Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
-- [Part 1](part1.nb.html)
+- [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
 
 
