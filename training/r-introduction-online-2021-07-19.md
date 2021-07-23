@@ -108,4 +108,6 @@ Please watch this short presentation (<10 minutes) before attending the workshop
 - [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
 - [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
 - [Part 2](http://sbc.shef.ac.uk/r-online/part2.nb.html)
+- [Part 2 Solution](https://sbc.shef.ac.uk/r-online/part2-solution.nb.html)
+- [Part 3](http://sbc.shef.ac.uk/r-online/part3.nb.html)
 
