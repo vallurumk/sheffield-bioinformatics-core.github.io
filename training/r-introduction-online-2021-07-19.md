@@ -62,7 +62,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 
   
-2) Please download and extract (un-zip) [this zip file](https://drive.google.com/file/d/1JSVildyP-mZ9i7hrNAQJfdayulA-XPtE/view?usp=sharing) into the directory on the computer that you wish to work in
+2) Please download and extract (un-zip) [this zip file](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip) into the directory on the computer that you wish to work in
 
 3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to. Rstudio will refresh so that the working directory corresponds to the course data folder.
 
