@@ -17,11 +17,6 @@ Unless specified, all the courses listed below take place in Sheffield. We can a
 
 If you are based in Sheffield and want 1:1 advice on data analysis, experimental design or any Bioinformatics problem, you can [book a clinic with us](https://sbc.shef.ac.uk/blog/clinics/)
 
-## 2021
-
-- [High Performance Computing for Healthcare](https://n8cir.org.uk/events/hpc-healthcare/), July 12 and 14th. In collaboration with [RSE Sheffield](https://rse.shef.ac.uk/).
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-07-19/), July 19th, 21st ,23rd.
-
 We have also made a curated list of other training materials available online and an FAQ for support queries we are receiving at the moment
 
 - [http://sbc.shef.ac.uk/training/other-materials](http://sbc.shef.ac.uk/training/other-materials)
@@ -30,7 +25,8 @@ We have also made a curated list of other training materials available online an
 ## Past Courses
 
 ## 2021
-
+- [High Performance Computing for Healthcare](https://n8cir.org.uk/events/hpc-healthcare/), July 12 and 14th. In collaboration with [RSE Sheffield](https://rse.shef.ac.uk/).
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-07-19/), July 19th, 21st ,23rd.
 - [RNA-seq analysis in R](https://sbc.shef.ac.uk/workshops/rnaseq-r-online_v1), May 17th, 19th and 21st
 - [WhiteRose Mechanistic Biology DTP - Analytics 2 - RNA-seq analysis in R](https://sbc.shef.ac.uk/workshops/whiterose_analytics2_v1/), ONLINE, April 26, 28, 30, and May 4
 -  Statistical Analysis in R, April 21st
