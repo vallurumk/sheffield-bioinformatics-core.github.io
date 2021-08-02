@@ -10,9 +10,6 @@ editor_options:
   chunk_output_type: inline
 ---
 
-<img src="images/logo-sm.png" style="position:absolute;top:40px;right:10px;" width="200" />
-
-
 ## Contact
 
 web : [sbc.shef.ac.uk](https://sbc.shef.ac.uk)  
@@ -65,7 +62,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 
   
-2) Please download and extract (un-zip) [this zip file](https://drive.google.com/file/d/1JSVildyP-mZ9i7hrNAQJfdayulA-XPtE/view?usp=sharing) into the directory on the computer that you wish to work in
+2) Please download and extract (un-zip) [this zip file](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip) into the directory on the computer that you wish to work in
 
 3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to. Rstudio will refresh so that the working directory corresponds to the course data folder.
 
@@ -108,8 +105,9 @@ Please watch this short presentation (<10 minutes) before attending the workshop
 
 ## Course Notes
 
-<!--+ [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
-+ [Part 1](part1.nb.html)
-+ [Part 2](part2.nb.html)
--->
+- [Introduction Slides](http://sbc.shef.ac.uk/r-online/intro_slides.html)
+- [Part 1](http://sbc.shef.ac.uk/r-online/part1.nb.html)
+- [Part 2](http://sbc.shef.ac.uk/r-online/part2.nb.html)
+- [Part 2 Solution](https://sbc.shef.ac.uk/r-online/part2-solution.nb.html)
+- [Part 3](http://sbc.shef.ac.uk/r-online/part3.nb.html)
 
