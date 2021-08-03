@@ -21,19 +21,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 ## Overview
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
 
-**Note that you will need to be familiar with R to access this course. We have a course scheduled for the previous day that will cover sufficient background
-[http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/](http://sbc.shef.ac.uk/training/r-introduction-2020-06-01/)**
+**Note that you will need to be familiar with R to access this course. Please see our latest introductory course on using R to check if you have sufficient background
+[https://sbc.shef.ac.uk/training/r-introduction-online-2021-07-19/](https://sbc.shef.ac.uk/training/r-introduction-online-2021-07-19/)**
 
-## Provisional Timetable and Materials
-
-
-## Course Data
-
-- Please download and unzip [this file](http://sbc.shef.ac.uk/workshops/2019-09-18/stats-r/stats_course.zip)
-
-## Feedback
-
-- We would be grateful if you could fill in [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdNb-MMvSDWs2ep5Av1Si31bcojsU3A1I7XgC96tXjxayMK5g/viewform) which will help us improve the course for the future.
 
 ## Who should attend this course?
 
@@ -57,6 +47,24 @@ The course is aimed primarily at scientists at all levels – especially those w
 - Interpreting the result of a statistical test
 - Statistical tests of categorical variables (Chi-squared and Fisher’s exact tests)
 - Non-parametric versions of one- and two-sample tests (Wilcoxon tests)
+
+
+## Sign-up
+
+Please use this link to sign-up for the course
+
+- [Online store](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-22nd-september-2021)
+
+## Provisional Timetable and Materials
+
+
+## Course Data
+
+- Please download and unzip [this file](http://sbc.shef.ac.uk/workshops/2019-09-18/stats-r/stats_course.zip)
+
+## Feedback
+
+- We would be grateful if you could fill in [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdNb-MMvSDWs2ep5Av1Si31bcojsU3A1I7XgC96tXjxayMK5g/viewform) which will help us improve the course for the future.
 
 
 
