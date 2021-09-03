@@ -22,6 +22,11 @@ We have also made a curated list of other training materials available online an
 - [http://sbc.shef.ac.uk/training/other-materials](http://sbc.shef.ac.uk/training/other-materials)
 - [FAQ](http://sbc.shef.ac.uk/training/faq)
 
+
+## Upcoming (more to follow soon)
+
+- [Statistical Analysis in R, September 22nd, 1pm to 5pm](https://sbc.shef.ac.uk/training/stats-introduction-2021-09-22/), ONLINE, [BOOK HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-22nd-september-2021)
+
 ## Past Courses
 
 ## 2021
