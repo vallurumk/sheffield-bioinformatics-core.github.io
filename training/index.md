@@ -26,7 +26,7 @@ We have also made a curated list of other training materials available online an
 ## Upcoming (more to follow soon)
 
 - [Statistical Analysis in R, September 22nd, 1pm to 5pm](https://sbc.shef.ac.uk/training/stats-introduction-2021-09-22/), ONLINE, [BOOK HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-22nd-september-2021)
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-10-10/), ONLINE, [BOOK HERE](), October 11th, 13th, 15th
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-10-11/), ONLINE, [BOOK HERE](), October 11th, 13th, 15th
 
 
 ## Past Courses
