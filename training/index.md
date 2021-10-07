@@ -25,13 +25,14 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-- [Statistical Analysis in R, September 22nd, 1pm to 5pm](https://sbc.shef.ac.uk/training/stats-introduction-2021-09-22/), ONLINE, [BOOK HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-22nd-september-2021)
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-10-11/), ONLINE, [BOOK HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-october-2021-online), October 11th, 13th, 15th
 
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-10-11/), ONLINE, [BOOK HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-october-2021-online), October 11th, 13th, 15th
+- Introduction to NGS and Bioinformatics, ONLINE, November 29, December 1st and December 6th, BOOKING SOON
 
 ## Past Courses
 
 ## 2021
+- [Statistical Analysis in R, September 22nd, 1pm to 5pm](https://sbc.shef.ac.uk/training/stats-introduction-2021-09-22/), ONLINE, 
 - [High Performance Computing for Healthcare](https://n8cir.org.uk/events/hpc-healthcare/), July 12 and 14th. In collaboration with [RSE Sheffield](https://rse.shef.ac.uk/).
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-07-19/), July 19th, 21st ,23rd.
 - [RNA-seq analysis in R](https://sbc.shef.ac.uk/workshops/rnaseq-r-online_v1), May 17th, 19th and 21st
