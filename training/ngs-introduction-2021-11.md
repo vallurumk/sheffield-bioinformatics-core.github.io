@@ -29,7 +29,11 @@ This course covers state-of-the-art and best-practice tools for the analysis of 
 
 You can choose to attend either session 2 or 3 (or both) according to your researcher goals and interest. However, **attendance at session 1 is compulsory** as it will introduce many fundamental tools and concepts that are common to both sessions 2 and 3.
 
-## Session 1 (**Compulsory**) - Introduction to NGS and Galaxy
+Session 1 (Compulsory) - Introduction to NGS and Galaxy- Monday 29th November 1pm to 5pm
+Session 2 (Optional) - Variant Calling- Wednesday 1st December 1pm to 5pm
+Session 3 (Optional) - RNA-seq-Monday 6th December 1pm to 5pm
+
+## Session 1 (**Compulsory**) - Introduction to NGS and Galaxy - Monday 29th November 1pm to 5pm
  
 Learning Objectives
 
@@ -40,7 +44,7 @@ Learning Objectives
 - Visualisation of sequencing data in the Integrative Genomics Viewer (IGV)
  
 
-## Session 2 (**Optional**) - Variant Calling
+## Session 2 (**Optional**) - Variant Calling - Wednesday 1st December 1pm to 5pm
 
 Learning Objectives
 
@@ -50,7 +54,7 @@ Learning Objectives
 - Annotating variants calls with respect to genomic coordinates
 - Analysis workflows for matched tumour and normal samples
 
-## Session 3 (**Optional**) - RNA-seq
+## Session 3 (**Optional**) - RNA-seq - Monday 6th December 1pm to 5pm
 
 Learning Objectives
 
