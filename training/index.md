@@ -25,11 +25,13 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-- [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2021-11), ONLINE, November 29, December 1st and December 6th, BOOKING SOON
+- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-02-11/), January 11th, 13th and 17th, ONLINE
+- [Statistical Analyses for Public Health](http://sbc.shef.ac.uk/training/stats-health-2021-01-25), January 25th and 26th, PROVISIONALLY IN-PERSON, Bartolome House, ALG04, University of Sheffield
 
 ## Past Courses
 
 ## 2021
+- [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2021-11), November 29, December 1st and December 6th, BOOKING SOON
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2021-10-11/), October 11th, 13th, 15th
 - [Statistical Analysis in R, September 22nd, 1pm to 5pm](https://sbc.shef.ac.uk/training/stats-introduction-2021-09-22/), ONLINE, 
 - [High Performance Computing for Healthcare](https://n8cir.org.uk/events/hpc-healthcare/), July 12 and 14th. In collaboration with [RSE Sheffield](https://rse.shef.ac.uk/).
