@@ -30,7 +30,12 @@ Please only sign-up to the course if you are available on these dates, or prepar
 
 Please use this link to register for the course
 
+<<<<<<< HEAD
 
+=======
+[https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-october-2021-online](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-october-2021-online
+)
+>>>>>>> 85161ef3f0c9807d2cd3862eda409dd1c0708e83
 
 ## Overview
 

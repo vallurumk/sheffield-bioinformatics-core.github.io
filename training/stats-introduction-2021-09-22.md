@@ -60,7 +60,7 @@ Please use this link to sign-up for the course
 
 ## Course Data
 
-- Please download and unzip [this file](http://sbc.shef.ac.uk/workshops/2019-09-18/stats-r/stats_course.zip)
+- Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
 
 ## Feedback
 
