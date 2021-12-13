@@ -1,67 +1,51 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Statistical Analysis of Biological Data in R
+title: Statistical Analyses in R for Public Health
 excerpt: "Stats Intro"
 description: "This course provides a refresher on the foundations of statistical analysis. "
 keywords: statistics
+venue: Bartolome House, ALG04, University of Sheffield
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 ## Overview
 
-During the course, the learners will learn about (1) variable types and distributions (normal, binomial, Poisson); (2) statistical thinking (correlations between continuous variables, the logic of hypothesis testing, predictive relationships); (3) various statistical models and making predictions - simple and general linear regression models, generalised linear models for binomial data (logistic regression) and linear mixed effect models for repeated measures.
+We use a Public Health dataset and examples (NHANES from the US National Center for Health Statistics) but the materials are relevant to researchers more generally in the life, health and social sciences.
 
-**Note that you will need to be familiar with R to access this course. We have a course scheduled for the January 2022 that will cover sufficient background
-[http://sbc.shef.ac.uk/training/r-introduction-online-2022-01-11/](http://sbc.shef.ac.uk/training/r-introduction-online-2022-01-11/)**
+The workshop assumes no prior experience of statistical analysis in R. However, learners are expected to have some familiarity with R such as having done an introductory course. 
 
-## Course Data
+We have a course scheduled for the January 2022 that will cover sufficient background:-
+[http://sbc.shef.ac.uk/training/r-introduction-online-2022-01-11/](http://sbc.shef.ac.uk/training/r-introduction-online-2022-01-11/)
 
+**At the moment, we are planning to run the course in-person. However, if COVID restrictions prevent us from doing this the course will be run online**
 
-## Lectures
+The course will be as follows:
 
+## Day one (a.m.)
 
-## Video Recordings
+*Statistical thinking for public health*
+We provide an introduction to statistical concepts commonly used for linear modelling. Mean estimation, linear association and mean prediction are covered.
 
+## Day one (p.m) 
 
-## Who should attend this course?
-
-The course is aimed primarily at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. 
-
-## Objectives:- After this course you should be able to:
-
-- Estimate the mean, variance and standard deviation of a variable through simulation.
-- Calculate the size of a linear association between two variables using Pearson’s correlation.
-- Describe the components that are involved in simple linear regression.
-- Use the ggplot2 package to explore the relationship between two continuous variables.
-- Calculate a prediction from a simple linear regression model using parameter estimates given by the model output.
-- What does it mean to assess model fit?
-- Describe the assumptions of the simple linear regression model
-- Assess whether the assumptions of the simple linear regression model have been violated.
-- Recognise from an exploratory plot when an interaction between a continuous and a categorical explanatory variable is appropriate
+*Simple linear regression for public health*
+We cover the concept of simple linear regression and its use with different predictor variables: single continuous variable, single
+two-group factor variable and single factor variable with more than two groups.
 
 
-## Aims:- During this course you will learn about:
+## Day two (a.m)
 
-- How the mean, variance and standard deviation are caculated and interpreted
-- The definitions of the standard error and the 95% confidence interval
-- How we can visualise the linear association between two variables
-- What do each of the components in the equation of a simple linear regression model represent?
-- How we can fit a simple linear regression model with one continuous explanatory variable in R
-- How R can be used to obtain predictions from a simple linear regression model
+*Simple linear regression for public health - fit and assumptions*
+In this workshop we go through the assumptions of simple linear regression and ways we can evaluate the fit of our models.
 
+## Day two (p.m)
 
-Schedule
+*Multiple linear regression for public health*
+In the final workshop we introduce linear regression with more than one explanatory variable which is known
+as multiple linear regression variables. 
 
-- Day one (a.m.)
-  + Statistical thinking for public health
-- Day one (p.m.)
-  + Simple linear regression for public health
-- Day two (a.m.)
-  + Simple linear regression for public health
-- Day two (p.m.)
-  + Multiple linear regression for public health
 
 ## Software installation
 

@@ -26,7 +26,7 @@ We have also made a curated list of other training materials available online an
 ## Upcoming (more to follow soon)
 
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-01-11/), January 11th, 13th and 17th, ONLINE
-- [Statistical Analyses for Public Health](http://sbc.shef.ac.uk/training/stats-health-2022-01-25), January 25th and 26th, PROVISIONALLY IN-PERSON, Bartolome House, ALG04, University of Sheffield
+- [Statistical Analyses in R for Public Health](http://sbc.shef.ac.uk/training/stats-health-2022-01-25), January 25th and 26th, PROVISIONALLY IN-PERSON, Bartolome House, ALG04, University of Sheffield
 
 ## Past Courses
 
