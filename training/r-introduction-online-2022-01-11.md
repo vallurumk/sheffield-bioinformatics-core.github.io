@@ -20,9 +20,9 @@ email: [bioinformatics-core@sheffield.ac.uk](bioinformatics-core@sheffield.ac.uk
 
 The course will comprise of three sessions and be **held online** using Blackboard Collaborate
 
-- Tuesday January 11th 13:00 to 16:00
-- Thursday January 13th 13:00 to 16:00
 - Monday January 17th 13:00 to 16:00
+- Tuesday January 18th 13:00 to 16:00
+- Wednesday January 19th 13:00 to 16:00
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
