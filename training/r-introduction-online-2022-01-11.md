@@ -1,5 +1,5 @@
 ---
-title: "Data Manipulation and Visualisation using R - October 2021"
+title: "Data Manipulation and Visualisation using R - January 2022"
 author: "Sheffield Bioinformatics Core"
 output: 
   html_document: 
@@ -28,7 +28,7 @@ Please only sign-up to the course if you are available on these dates, or prepar
 
 # Registration Link
 
-Please use this link to register for the course
+Please use [this link](https://onlineshop.shef.ac.uk/product-catalogue/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-online) to register for the course
 
 
 ## Overview
@@ -86,7 +86,7 @@ If this is the case, you will need to follow the instructions from this link to 
 
 [https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a](https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a)
 
-**Window users might get a message that Rtools is required. This shouldn't be neccesary, but you might need it for other packages. It can be installed here:-**
+**Window users might get a message that Rtools is required. This shouldn't be necessary, but you might need it for other packages. It can be installed here:-**
 
 [https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/)
 
