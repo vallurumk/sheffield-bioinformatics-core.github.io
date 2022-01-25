@@ -25,7 +25,7 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-
+- [Analytics 2 - Introduction to the Command line for Bioinformatics](http://sbc.shef.ac.uk/white_rose_dtp_analytics2/), March 24th, White Rose Mechanistic Biology Students ONLY
 - [Statistical Analyses in R for Public Health](http://sbc.shef.ac.uk/training/stats-health-2022-01-25), POSTPONED UNTIL A LATER DATE
 
 ## Past Courses
