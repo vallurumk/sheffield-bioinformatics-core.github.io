@@ -26,7 +26,7 @@ We have also made a curated list of other training materials available online an
 ## Upcoming (more to follow soon)
 
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-04-26), April 26th, 27th and 29th, BOOKING SOON
-- [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2021-11), May 16th, 18th and 20th, BOOKING SOON
+- [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2022-05), May 16th, 18th and 20th, BOOKING SOON
 - [Introduction to RNA-seq analysis in R](), June 13th and June 15th, BOOKING SOON
 - [Statistical Analyses in R for Public Health](http://sbc.shef.ac.uk/training/stats-health-2022-01-25), POSTPONED UNTIL A LATER DATE
 
