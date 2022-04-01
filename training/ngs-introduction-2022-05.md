@@ -3,8 +3,8 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Intro to Next Generation Sequencing and Bioinformatics
 excerpt: "Intro to Next Generation Sequencing and Bioinformatics"
-startDate: 2021-11-29
-endDate: 2021-12-06
+startDate: 2022-05-16
+endDate: 2022-05-20
 startTime: 13.00
 endTime: 17.00
 city: Sheffield

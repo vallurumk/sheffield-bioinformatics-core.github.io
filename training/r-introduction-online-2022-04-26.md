@@ -1,5 +1,5 @@
 ---
-title: "Data Manipulation and Visualisation using R - January 2022"
+title: "Data Manipulation and Visualisation using R - April 2022"
 author: "Sheffield Bioinformatics Core"
 output: 
   html_document: 
@@ -20,15 +20,15 @@ email: [bioinformatics-core@sheffield.ac.uk](bioinformatics-core@sheffield.ac.uk
 
 The course will comprise of three sessions and be **held online** using Blackboard Collaborate
 
-- Tuesday January 26th 13:00 to 16:00
-- Wednesday January 27th 13:00 to 16:00
-- Friday January 29th 13:00 to 16:00
+- Tuesday April 26th 13:00 to 16:00
+- Wednesday April 27th 13:00 to 16:00
+- Friday April 29th 13:00 to 16:00
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
 # Registration Link
 
-Please use [this link]() to register for the course
+Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-online) to register for the course
 
 
 ## Overview
