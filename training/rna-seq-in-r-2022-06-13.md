@@ -17,6 +17,13 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
+## 
+
+This course will take place *in-person* in the afternoons of June 13th, June 15th and June 17th at the following venues and time. You will need to attend all three sessions
+
+- Monday 13th June, The Diamond Workroom 1, 13:00 - 17:00
+- Wednesday 15th June, Bartolome House, Seminar Room EG03, 13:00 - 17:00
+- Friday 17th June, Bartolome House, Seminar Room EG03, 13:00 - 17:00
 
 ## Overview
 
