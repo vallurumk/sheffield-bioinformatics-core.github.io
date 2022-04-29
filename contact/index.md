@@ -6,9 +6,9 @@ excerpt: "Contact the SBC..."
 
 You can contact us by email [bioinformatics-core@sheffield.ac.uk](mailto:bioinformatics-core@sheffield.ac.uk) or on twitter [@SheffBioinfCore](https://twitter.com/SheffBioinfCore).
 
-The Sheffield Bioinformatics Core is based at the Sheffield Institute for Translational Neuroscience ([SITraN](http://sitran.org))
+The Sheffield Bioinformatics Core is based at [The Medical School](https://www.sheffield.ac.uk/medicine) at The University of Sheffield
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2380.0777301820026!2d-1.4924336482124727!3d53.377658679887325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487982776c813b27%3A0x328ab9775db14bd6!2sSheffield+Institute+for+Translational+Neuroscience!5e0!3m2!1sen!2suk!4v1510694673476" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1228923.079941016!2d-2.7894390370181705!3d53.0160414743062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879827871f2884f%3A0x4026d33a8623c03c!2sUniversity%20of%20Sheffield%20Medical%20School!5e0!3m2!1sen!2suk!4v1651222635763!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
