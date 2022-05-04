@@ -27,7 +27,7 @@ We have also made a curated list of other training materials available online an
 
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-04-26), April 26th, 27th and 29th, [BOOKING HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-online), ONLINE
 - [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2022-05), May 16th, 18th and 20th, [BOOKING HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/introduction-to-next-generation-sequencing-and-bioinformatics), ONLINE
-- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-06-13), June 13th,June 15th and June 17th, BOOKING SOON, **IN-PERSON**
+- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-06-13), June 13th,June 15th and June 17th, [BOOKING HERE](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/analysis-of-rnaseq-data-in-r), **IN-PERSON**
 - [Introduction to the command-line for Bioinformatics](), June 27th and June 29th, BOOKING SOON, **IN-PERSON**
 - [Statistical Analyses in R for Public Health](http://sbc.shef.ac.uk/training/stats-health-2022-01-25), POSTPONED UNTIL A LATER DATE
 
