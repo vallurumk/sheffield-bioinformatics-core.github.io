@@ -17,7 +17,7 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-## 
+## Booking
 
 This course will take place *in-person* in the afternoons of June 13th, June 15th and June 17th at the following venues and time. You will need to attend all three sessions
 
@@ -25,6 +25,11 @@ This course will take place *in-person* in the afternoons of June 13th, June 15t
 - Wednesday 15th June, Bartolome House, Seminar Room EG03, 13:00 - 17:00
 - Friday 17th June, Bartolome House, Seminar Room EG03, 13:00 - 17:00
 
+You can book a place on the course using this link:-
+
+- [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/analysis-of-rnaseq-data-in-r](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/analysis-of-rnaseq-data-in-r)
+
+The above link will take you to a page where you can pay using a credit card. If you are based at The University of Sheffield, and would like pay using a grant code, please get in touch with us.
 ## Overview
 
 In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESEq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.
