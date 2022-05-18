@@ -33,7 +33,8 @@ The above link will take you to a page where you can pay using a credit card. If
 
 ***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reviewing Parts 1 and 2 of our R introductory course before deciding if you can attend***
 
-- [R crash course Part 1](https://sbc.shef.ac.uk/r-online/part1.nb.html) - [R crash course Part 1](https://sbc.shef.ac.uk/r-online/part2.nb.html) 
+- [R crash course Part 1](https://sbc.shef.ac.uk/r-online/part1.nb.html)
+- [R crash course Part 1](https://sbc.shef.ac.uk/r-online/part2.nb.html) 
 
 ## Overview
 
