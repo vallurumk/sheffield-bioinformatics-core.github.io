@@ -14,7 +14,7 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 ## Associate Members
 
-- Emmanuel Jammeh - Postdoctoral Researcher, Wang lab.
+- [Niamh Errington], Postdoctoral Resarcher, Lawrie group, Imperial College / University of Sheffield.
 - [Sharon Hsu](http://sbc.shef.ac.uk/team/sharon) - Junior Bioinformatician, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
 - [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
 
