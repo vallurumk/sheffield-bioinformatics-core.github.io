@@ -17,24 +17,19 @@ difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
-## Booking
-
-This course will take place *in-person* in the afternoons of June 13th, June 15th and June 17th at the following venues and time. You will need to attend all three sessions
-
-- Monday 13th June, The Diamond Workroom 1, 13:00 - 17:00
-- Wednesday 15th June, Bartolome House, Seminar Room EG03, 13:00 - 17:00
-- Friday 17th June, Bartolome House, Seminar Room EG03, 13:00 - 17:00
-
-You can book a place on the course using this link:-
-
-- [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/analysis-of-rnaseq-data-in-r](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/analysis-of-rnaseq-data-in-r)
-
-The above link will take you to a page where you can pay using a credit card. If you are based at The University of Sheffield, and would like pay using a grant code, please get in touch with us.
 
 ***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reviewing Parts 1 and 2 of our R introductory course before deciding if you can attend***
 
 - [R crash course Part 1](https://sbc.shef.ac.uk/r-online/part1.nb.html)
 - [R crash course Part 2](https://sbc.shef.ac.uk/r-online/part2.nb.html) 
+
+## Materials
+
+- [Session 1](https://sbc.shef.ac.uk/rnaseq-r-online/session1.nb.html)
+- [Session 1 - Solution](https://sbc.shef.ac.uk/rnaseq-r-online/session1_solutions.nb.html)
+- [Session 2](https://sbc.shef.ac.uk/rnaseq-r-online/session2.nb.html)
+- [Session 2 - Solution](https://sbc.shef.ac.uk/rnaseq-r-online/session2_solutions.nb.html)
+
 
 ## Overview
 
