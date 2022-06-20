@@ -29,7 +29,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 - [Session 1 - Solution](https://sbc.shef.ac.uk/rnaseq-r-online/session1_solutions.nb.html)
 - [Session 2](https://sbc.shef.ac.uk/rnaseq-r-online/session2.nb.html)
 - [Session 2 - Solution](https://sbc.shef.ac.uk/rnaseq-r-online/session2_solutions.nb.html)
-
+- [Session 3](https://sbc.shef.ac.uk/rnaseq-r-online/session3.nb.html)
+- [Session 3 - Solution](https://sbc.shef.ac.uk/rnaseq-r-online/session3_solutions.nb.html)
 
 ## Overview
 
