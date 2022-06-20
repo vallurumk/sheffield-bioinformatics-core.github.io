@@ -10,7 +10,7 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html) - Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
-
+- Lewis Quayle - Cancer Bioinformatian (joint with Catto group)
 
 ## Associate Members
 
