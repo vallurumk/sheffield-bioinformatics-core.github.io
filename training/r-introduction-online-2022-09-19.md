@@ -1,8 +1,8 @@
 ---
 layout: page
 organizer: Sheffield Bioinformatics Core
-title: Data Manipulation and Vizualization
-excerpt: "Data Manipulation and Vizualization using the R programming language"
+title: Data Manipulation and Visualisation
+excerpt: "Data Manipulation and Visualisation using the R programming language"
 startDate: 2022-09-19
 endDate: 2022-09-23
 startTime: 13.00
@@ -37,7 +37,7 @@ Please only sign-up to the course if you are available on these dates, or prepar
 
 # Registration Link
 
-Please use [this link]( to register for the course
+Please use [this link]() to register for the course
 
 
 ## Overview
