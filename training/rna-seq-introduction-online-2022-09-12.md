@@ -20,7 +20,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Registration
 
-Please use [this link]() to register for the course. There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
+Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school/rnaseq-analysis-for-beginners) to register for the course. There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
 ## Course Materials
 

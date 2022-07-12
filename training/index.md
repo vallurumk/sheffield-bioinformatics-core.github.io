@@ -27,8 +27,9 @@ We have also made a curated list of other training materials available online an
 
 ## 2022
 
-- [Introduction to RNA-seq analysis](http://sbc.shef.ac.uk/training/rna-seq-introduction-online-2022-09-12), September 12th 13:00 - 17:00, ONLINE and in-person attendance available, BOOKING SOON
+- [Introduction to RNA-seq analysis](http://sbc.shef.ac.uk/training/rna-seq-introduction-online-2022-09-12), September 12th 13:00 - 17:00, ONLINE and in-person attendance available, [BOOKING NOW](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school/rnaseq-analysis-for-beginners)
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-09-19), September 19th, 21st and 23th 13:00 - 16:00, ONLINE and in-person attendance available, BOOKING SOON
+
 
 ## Past Courses
 
