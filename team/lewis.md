@@ -6,9 +6,27 @@ excerpt: "More about Lewis..."
 
 <img src="/images/lquayle.png" width="425"/>
 
-- <a href="https://github.com/lquayle88" target="_blank">GitHub</a>
-- <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a>
-- <a href="https://blog.lewisdoesdata.com" target="_blank">Blog</a>
+<table>
+<tbody>
+  <tr>
+    <td>
+      <a href="https://github.com/lquayle88" target="_blank" >
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Profile" height="50" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank" >
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="50" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://blog.lewisdoesdata.com" target="_blank" >
+        <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" alt="Blog" height="50" width="50">
+      </a>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ## Experience
 
@@ -19,7 +37,7 @@ excerpt: "More about Lewis..."
     <td>Cancer Bioinformatician - Bioinformatics Core Facility, University of Sheffield</td>
   </tr>
   <tr>
-    <td>2019 – 2022</td>
+    <td>2019 – 2022:</td>
     <td>Postdoctoral Bioinformatician - Medical School, University of Sheffield</td>
   </tr>
   <tr>
@@ -53,25 +71,24 @@ My role within the Sheffield Bioinformatics Core Facility involves delivery of c
 
 **Original Manuscripts**
 
-1) **Quayle, L.A.**, Spicer, A., Ottewell, P.D., Holen, I. (2021). Transcriptomic Profiling Reveals Novel Candidate Genes and Signaling Programs in Breast Cancer Quiescence and Dormancy. Cancers, 13(16): 3922.
+**Quayle, L.A.**, Spicer, A., Ottewell, P.D., Holen, I. (2021). Transcriptomic Profiling Reveals Novel Candidate Genes and Signaling Programs in Breast Cancer Quiescence and Dormancy. Cancers, 13(16): 3922.
 
-2) Tulotta, C., Lefley, D., Moore,. C., Amariutei, A., Spicer, A., **Quayle, L.**, Hughes, R., Ahmed, K., Cookson, V., Evans, C., Vadakekolathu, J., Heath, P., Francis, F., Pinteaux, E., Pockley, A., Ottewell, P.D. (2021). IL-1B drives opposing responses in primary tumours and bone metastases; harnessing combination therapies to improve outcome in breast cancer. NPJ Breast Cancer, 7(1): 95.
+Tulotta, C., Lefley, D., Moore,. C., Amariutei, A., Spicer, A., **Quayle, L.**, Hughes, R., Ahmed, K., Cookson, V., Evans, C., Vadakekolathu, J., Heath, P., Francis, F., Pinteaux, E., Pockley, A., Ottewell, P.D. (2021). IL-1B drives opposing responses in primary tumours and bone metastases; harnessing combination therapies to improve outcome in breast cancer. NPJ Breast Cancer, 7(1): 95.
 
-3) **Quayle, L.A.**, Ottewell, P.D., Holen, I. (2018). Chemotherapy Resistance and Stemness in Mitotically Quiescent Human Breast Cancer Cells Identified by Fluorescent Dye Retention. Clin Exp Metastasis, 35(8): 831-846.
+**Quayle, L.A.**, Ottewell, P.D., Holen, I. (2018). Chemotherapy Resistance and Stemness in Mitotically Quiescent Human Breast Cancer Cells Identified by Fluorescent Dye Retention. Clin Exp Metastasis, 35(8): 831-846.
 
-4) **Quayle, L.A.**, Pereira, M.G., Scheper, G., Wiltshire, T., Peake, R.E., Hussain, I., Rea, C.A. & Bates, T.E. (2017). Anti-angiogenic drugs: direct anti-cancer agents with mitochondrial mechanisms of action. Oncotarget, 8 (51): 88670-88688.
+**Quayle, L.A.**, Pereira, M.G., Scheper, G., Wiltshire, T., Peake, R.E., Hussain, I., Rea, C.A. & Bates, T.E. (2017). Anti-angiogenic drugs: direct anti-cancer agents with mitochondrial mechanisms of action. Oncotarget, 8 (51): 88670-88688.
 
-5) **Quayle, L.**, Ottewell, P.D., Holen, I. (2015). Bone Metastasis: Molecular Mechanisms Implicated in Tumour Cell Dormancy in Breast and Prostate Cancer. Curr Cancer Drug Targets. 15: 469-480.
+**Quayle, L.**, Ottewell, P.D., Holen, I. (2015). Bone Metastasis: Molecular Mechanisms Implicated in Tumour Cell Dormancy in Breast and Prostate Cancer. Curr Cancer Drug Targets. 15: 469-480.
 
 **Book Chapters**
 
-6) Holen, I. and **Quayle, L.A.** (2020). Stem cell niches in bone and their roles in cancer metastasis. Advances in Stem Cells and their Niches. Elsevier. 5: 35-62.
+Holen, I. and **Quayle, L.A.** (2020). Stem cell niches in bone and their roles in cancer metastasis. Advances in Stem Cells and their Niches. Elsevier. 5: 35-62.
 
-7) Ottewell, P.D. and **Quayle, L.A.** (2019) Tumor Dormancy in the Bone. Encyclopaedia of Bone Biology. Elsevier. 166 - 179.
+Ottewell, P.D. and **Quayle, L.A.** (2019) Tumor Dormancy in the Bone. Encyclopaedia of Bone Biology. Elsevier. 166 - 179.
 
 **Conference Proceedings**
 
-8) **Quayle, L.**, Ottewell, P.D., Holen, I. (2018), Therapeutic Resistance and Stemness in Mitotically Quiescent Human Breast Cancer Cells. 1st UK Interdisciplinary Breast Cancer Symposium 15th – 16th January 2018; Manchester, U.K. Breast Cancer Res Treat. 167:309–405: Abstract P10.12.
+**Quayle, L.**, Ottewell, P.D., Holen, I. (2018), Therapeutic Resistance and Stemness in Mitotically Quiescent Human Breast Cancer Cells. 1st UK Interdisciplinary Breast Cancer Symposium 15th – 16th January 2018; Manchester, U.K. Breast Cancer Res Treat. 167:309–405: Abstract P10.12.
 
-9) **Quayle, L.**, Park, S., McDonnell, D.P., Ottewell, P.D., Holen, I. (2017) Targeting ERR-α Regulated Lactate Metabolism Eliminates Drug-Resistant Breast Cancer Cells. Proceedings of the 2016 San Antonio Breast Cancer Symposium 6th – 10th December 2016; San Antonio, TX, U.S.A. Cancer Res. 77(4 Suppl): Abstract P3-07-14.
-
+**Quayle, L.**, Park, S., McDonnell, D.P., Ottewell, P.D., Holen, I. (2017) Targeting ERR-α Regulated Lactate Metabolism Eliminates Drug-Resistant Breast Cancer Cells. Proceedings of the 2016 San Antonio Breast Cancer Symposium 6th – 10th December 2016; San Antonio, TX, U.S.A. Cancer Res. 77(4 Suppl): Abstract P3-07-14.
