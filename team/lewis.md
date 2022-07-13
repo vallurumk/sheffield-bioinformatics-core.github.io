@@ -6,23 +6,40 @@ excerpt: "More about Lewis..."
 
 <img src="/images/lquayle.png" width="425"/>
 
-- [GitHub](https://github.com/lquayle88)
-- [LinkedIn](https://www.linkedin.com/in/lewis-quayle)
-- [Blog](https://blog.lewisdoesdata.com)
+- <a href="https://github.com/lquayle88" target="_blank">GitHub</a>
+- <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a>
+- <a href="https://blog.lewisdoesdata.com" target="_blank">Blog</a>
 
 ## Experience
 
-**2022 - Present:** Cancer Bioinformatician - Bioinformatics Core Facility, University of Sheffield
-
-**2019 – 2022:** Postdoctoral Bioinformatician - Medical School, University of Sheffield
-
-**2017 – 2019:** Postdoctoral Research Associate - Medical School, University of Sheffield
-
-**2014 – 2017:** PhD Medicine - Medical School, University of Sheffield
-
-**2013 – 2014:** MRes Medical & Biomedical Science - University of Lincoln
-
-**2010 – 2013:** BSc (Hons) Biomedical Science - University of Lincoln
+<table>
+<tbody>
+  <tr>
+    <td>2022 - Present:</td>
+    <td>Cancer Bioinformatician - Bioinformatics Core Facility, University of Sheffield</td>
+  </tr>
+  <tr>
+    <td>2019 – 2022</td>
+    <td>Postdoctoral Bioinformatician - Medical School, University of Sheffield</td>
+  </tr>
+  <tr>
+    <td>2017 – 2019:</td>
+    <td>Postdoctoral Research Associate - Medical School, University of Sheffield</td>
+  </tr>
+  <tr>
+    <td>2014 – 2017:</td>
+    <td>PhD Medicine - Medical School, University of Sheffield</td>
+  </tr>
+  <tr>
+    <td>2013 – 2014:</td>
+    <td>MRes Medical & Biomedical Science - University of Lincoln</td>
+  </tr>
+  <tr>
+    <td>2010 – 2013:</td>
+    <td>BSc (Hons) Biomedical Science - University of Lincoln</td>
+  </tr>
+</tbody>
+</table>
 
 ## Biography
 
@@ -57,3 +74,4 @@ My role within the Sheffield Bioinformatics Core Facility involves delivery of c
 8) **Quayle, L.**, Ottewell, P.D., Holen, I. (2018), Therapeutic Resistance and Stemness in Mitotically Quiescent Human Breast Cancer Cells. 1st UK Interdisciplinary Breast Cancer Symposium 15th – 16th January 2018; Manchester, U.K. Breast Cancer Res Treat. 167:309–405: Abstract P10.12.
 
 9) **Quayle, L.**, Park, S., McDonnell, D.P., Ottewell, P.D., Holen, I. (2017) Targeting ERR-α Regulated Lactate Metabolism Eliminates Drug-Resistant Breast Cancer Cells. Proceedings of the 2016 San Antonio Breast Cancer Symposium 6th – 10th December 2016; San Antonio, TX, U.S.A. Cancer Res. 77(4 Suppl): Abstract P3-07-14.
+
