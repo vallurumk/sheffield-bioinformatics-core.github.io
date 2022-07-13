@@ -4,7 +4,7 @@ title: Lewis Quayle
 excerpt: "More about Lewis..."
 ---
 
-<img src="/images/lquayle.png" width="425"/>
+<img src="/images/lquayle.png" width="100%"/>
 
 <table>
 <tbody>
