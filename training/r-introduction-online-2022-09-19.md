@@ -37,7 +37,7 @@ Please only sign-up to the course if you are available on these dates, or prepar
 
 # Registration Link
 
-Please use [this link]() to register for the course
+Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/faculty-of-medicine-dentistry-and-health/data-manipulation-and-visualization) to register for the course
 
 
 ## Overview
