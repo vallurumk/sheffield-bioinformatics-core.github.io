@@ -35,7 +35,7 @@ There are options for attending online and in-person. If you are based in Sheffi
 
 
 - Monday September 19th 13:00 to 16:00
-- Wednesday September 22st 13:00 to 16:00
+- Wednesday September 21st 13:00 to 16:00
 - Friday September 23rd 13:00 to 16:00
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
