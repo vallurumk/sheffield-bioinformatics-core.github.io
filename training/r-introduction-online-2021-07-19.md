@@ -2,6 +2,8 @@
 title: "Data Manipulation and Visualisation using R - July 2021"
 author: "Sheffield Bioinformatics Core"
 output: 
+startDate: 2021-07-19
+endDate: 2021-07-23
   html_document: 
     toc: yes
     toc_float: yes

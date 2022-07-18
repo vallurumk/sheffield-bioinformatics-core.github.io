@@ -3,6 +3,8 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Statistical Analysis of Biological Data in R
 excerpt: "Stats Intro"
+startDate: 2020-03-05
+endDate: 2020-03-05
 description: "This course provides a refresher on the foundations of statistical analysis. "
 keywords: statistics
 difficulty: beginner

@@ -1,6 +1,9 @@
 ---
 title: "Data Manipulation and Visualisation using R - January 2022"
 author: "Sheffield Bioinformatics Core"
+startDate: 2022-01-17
+endDate: 2022-01-19
+city: Sheffield, and online
 output: 
   html_document: 
     toc: yes

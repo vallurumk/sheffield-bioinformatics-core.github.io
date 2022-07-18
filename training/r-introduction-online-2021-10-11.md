@@ -1,6 +1,8 @@
 ---
 title: "Data Manipulation and Visualisation using R - October 2021"
 author: "Sheffield Bioinformatics Core"
+startDate: 2021-10-11
+endDate: 2021-10-15
 output: 
   html_document: 
     toc: yes
@@ -26,16 +28,6 @@ The course will comprise of three sessions and be **held online** using Blackboa
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
-# Registration Link
-
-Please use this link to register for the course
-
-<<<<<<< HEAD
-
-=======
-[https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-october-2021-online](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/data-manipulation-and-visualisation-in-r-october-2021-online
-)
->>>>>>> 85161ef3f0c9807d2cd3862eda409dd1c0708e83
 
 ## Overview
 
