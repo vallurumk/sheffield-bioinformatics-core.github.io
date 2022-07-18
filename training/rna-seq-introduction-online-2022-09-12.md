@@ -7,16 +7,21 @@ startDate: 2022-09-12
 endDate: 2022-09-12
 startTime: 13.00
 endTime: 17.00
-city: Sheffield
+city: Sheffield, or online
 postcode: S10 2HQ
 country: United Kingdom
-venue: HYBRID
+venue: Barber House Boardroom (Sheffield), or ONLINE
 description: "High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing. We will describe the steps involved to go from sequencing counts to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Degust interface (https://degust.erc.monash.edu/) to demonstrate tasks such as quality control and assessing differential expression. We will also showcase some web sites you can use for enrichment and pathways analysis"
 keywords: bioinformatics, NGS, RNA-seq
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
+## Dates
+
+September 12th 13:00 - 17:00
+
+Online, and Barber House Boardroom, The University of Sheffield
 
 ## Registration
 

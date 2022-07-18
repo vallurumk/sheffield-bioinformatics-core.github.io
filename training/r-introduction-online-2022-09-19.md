@@ -7,16 +7,21 @@ startDate: 2022-09-19
 endDate: 2022-09-23
 startTime: 13.00
 endTime: 17.00
-city: Sheffield
+city: Sheffield, or online
 postcode: S10 2HQ
 country: United Kingdom
-venue: HYBRID
+venue: Barber House Boardroom (Sheffield), or ONLINE
 description: "As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research."
 keywords: bioinformatics, R, data analysis
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
+
+##
+
+Online, and Barber House Boardroom, The University of Sheffield
+
 
 ## Contact
 
@@ -37,7 +42,7 @@ Please only sign-up to the course if you are available on these dates, or prepar
 
 # Registration Link
 
-Please use [this link]() to register for the course
+Please use [this link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/faculty-of-medicine-dentistry-and-health/data-manipulation-and-visualization) to register for the course
 
 
 ## Overview
