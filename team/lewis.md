@@ -4,11 +4,11 @@ title: Lewis Quayle
 excerpt: "More about Lewis..."
 ---
 
-<img src="/images/lquayle.png" width="425"/>
+<p style="text-align:center;"><img src="/images/lquayle.png" width="425"></p>
 
-- <a href="https://github.com/lquayle88" target="_blank">GitHub</a>
-- <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a>
-- <a href="https://blog.lewisdoesdata.com" target="_blank">Blog</a>
+- GitHub: <a href="https://github.com/lquayle88" target="_blank">github.com/lquayle88</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">linkedin.com/in/lewis-quayle</a>
+- Blog: <a href="https://blog.lewisdoesdata.com" target="_blank">blog.lewisdoesdata.com</a>
 
 ## Experience
 
