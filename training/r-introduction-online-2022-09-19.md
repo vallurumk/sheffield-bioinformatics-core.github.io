@@ -34,9 +34,9 @@ email: [bioinformatics-core@sheffield.ac.uk](bioinformatics-core@sheffield.ac.uk
 There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
 
-- Monday September 19th 13:00 to 16:00
 - Wednesday September 21st 13:00 to 16:00
-- Wednesday September 28rd 14:00 to 17:00 - **Please note the new time / date**
+- Friday September 23rd 13:00 to 16:00
+- Wednesday September 28th 14:00 to 17:00 - **Please note the new time / date**
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
