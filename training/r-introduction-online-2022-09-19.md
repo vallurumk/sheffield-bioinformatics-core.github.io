@@ -67,7 +67,7 @@ Install R by downloading and running [this .exe file](http://cran.r-project.org/
 
 ### Mac
 
-Install R by downloading and running [this .pkg file](https://cran.r-project.org/bin/macosx/base/R-4.2.0.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
+Install R by downloading and running [this .pkg file](https://cran.r-project.org/bin/macosx/base/R-4.2.1.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
 
 ### Linux
 
@@ -77,9 +77,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
   
 2) Please download and extract (un-zip) [this zip file](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip) into the directory on the computer that you wish to work in
 
-3) Create an RStudio project using the menu **File -> New Project -> Existing Directory** and browse to the directory that you extraced the zip file to. Rstudio will refresh so that the working directory corresponds to the course data folder.
-
-4) Type the following into the R console to install some extra R packages required for the workshop
+3) Type the following into the R console to install some extra R packages required for the workshop
 
 ```
 install.packages("dplyr")
@@ -105,16 +103,12 @@ If this is the case, you will need to follow the instructions from this link to 
 [https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/)
 
 
-5) Check your installation. You can check everything is installed by copying and pasting this into the R console
+4) Check your installation. You can check everything is installed by copying and pasting this into the R console
 
 ```
 source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/r-online/master/check_packages.R")
 
 ```
-
-Please watch this short presentation (<10 minutes) before attending the workshop
-
-- [Course Introduction](https://www.youtube.com/watch?v=bb-qyh3c9vE)
 
 ## Course Notes
 
