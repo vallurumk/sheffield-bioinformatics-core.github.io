@@ -27,14 +27,15 @@ We have also made a curated list of other training materials available online an
 
 ## 2022
 
-- [Introduction to RNA-seq analysis](http://sbc.shef.ac.uk/training/rna-seq-introduction-online-2022-09-12), September 12th 13:00 - 17:00, ONLINE and in-person attendance available, [BOOKING NOW](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school/rnaseq-analysis-for-beginners)
-- [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-09-19), September 19th, 21st and 28th 13:00 - 16:00, ONLINE and in-person attendance available, [BOOKING NOW](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/faculty-of-medicine-dentistry-and-health/data-manipulation-and-visualization)
+
+- [Data Manipulation and Visualization](http://sbc.shef.ac.uk/training/r-introduction-online-2022-09-19), September 19th, 21st and 28th 13:00 - 16:00, ONLINE and in-person attendance available, [BOOKING NOW](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/faculty-of-medicine-dentistry-and-health/data-manipulation-and-visualization)
 - More dates to come....
 
 
 ## Past Courses
 
 ## 2022
+- [Introduction to RNA-seq analysis](http://sbc.shef.ac.uk/training/rna-seq-introduction-online-2022-09-12), September 12th 13:00 - 17:00, ONLINE and in-person attendance available
 - [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-06-13), June 13th,June 15th and June 17th, **IN-PERSON**
 - [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2022-05), May 16th, 18th and 20th,  ONLINE
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-04-26), April 26th, 27th and 29th, ONLINE
