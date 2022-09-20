@@ -75,7 +75,9 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 
   
-2) Please download and extract (un-zip) [this zip file](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip) into the directory on the computer that you wish to work in
+2) Please download and extract (un-zip) this zip file into the directory on the computer that you wish to work in
+
+- [(https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip)
 
 3) Type the following into the R console to install some extra R packages required for the workshop
 
