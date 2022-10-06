@@ -13,6 +13,11 @@ To be the first to hear about our training course program and for other core new
 
 Unless specified, all the courses listed below take place in Sheffield. We can also run courses at other sites if there is sufficient interest. If you would like us to run a training course at your institute / site, please [contact us](mailto:bioinformatics-core@sheffield.ac.uk)
 
+
+At the moment our workshops have online and in-person attendance options available. If you chose to attend online you will have access to main instructor's screen online. There will be demonstrators online to assist if you have any issues.
+
+Our current teaching format is to run shorter sessions split over multiple days. This is to allow participants time to review the materials in-between sessions.
+
 ---
 
 If you are based in Sheffield and want 1:1 advice on data analysis, experimental design or any Bioinformatics problem, you can [book a clinic with us](https://sbc.shef.ac.uk/blog/clinics/)
