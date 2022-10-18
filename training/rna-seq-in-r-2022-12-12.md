@@ -23,6 +23,14 @@ contact: bioinformatics-core@sheffield.ac.uk
 - [R crash course Part 1](https://sbc.shef.ac.uk/r-online/part1.nb.html)
 - [R crash course Part 2](https://sbc.shef.ac.uk/r-online/part2.nb.html) 
 
+## Registration Link
+
+You can sign-up to attend either in-person or online using this link
+
+- [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
+
+If you are registering to attend as a University of Sheffield staff or student, you will be prompted for a password. This should have been sent to you in an announcment email.
+
 ## Materials
 
 

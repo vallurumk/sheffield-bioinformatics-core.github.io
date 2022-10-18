@@ -32,13 +32,13 @@ We have also made a curated list of other training materials available online an
 
 ## 2023
 
-- Introduction to the Command line for Bioinformatics, January 2023, Dates to be confirmed...
+- [Introduction to the Command line for Bioinformatics](https://sbc.shef.ac.uk/training/command-line-2023-01-16), 16th January 2023, **IN-PERSON** and **ONLINE**, Booking Soon
 - Analysis of 10X single-cell data in R, January 2023, Dates to be confirmed
 - Data Manipulation and Visualization in R, February 2023, Dates to be confirmed
 
 ## 2022
 
-- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12), December 12th,June 14th and June 16th, **IN-PERSON** and ONLINE
+- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12), December 12th,June 14th and December 16th, **IN-PERSON** and ONLINE, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 ## Past Courses
 
