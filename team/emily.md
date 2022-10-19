@@ -24,6 +24,4 @@ Emily obtained her PhD in the computational biology group of Prof. Colin Semple 
 * R/tidyverse enthusiast
 * Bioinformatics training
 
-- [twitter](https://twitter.com/evc_sheffield)
-- [github](https://github.com/evchambers)
-- [orcid](https://orcid.org/0000-0003-1252-8059)
+[twitter](https://twitter.com/evc_sheffield) - [github](https://github.com/evchambers) - [orcid](https://orcid.org/0000-0003-1252-8059)
