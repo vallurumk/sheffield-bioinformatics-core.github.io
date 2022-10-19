@@ -38,7 +38,7 @@ We have also made a curated list of other training materials available online an
 
 ## 2022
 
-- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12), December 12th,June 14th and December 16th, **IN-PERSON** and ONLINE, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
+- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12), December 12th,December 14th and December 16th, **IN-PERSON** and ONLINE, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 ## Past Courses
 
