@@ -27,29 +27,11 @@ The Core is experienced in advising on the following issues:-
 - MACS2, and other peak callers for ChIP-Seq analysis
 - Downstream analysis of gene lists to identify over-represented pathways / ontologies using [GSEA](http://software.broadinstitute.org/gsea/index.jsp), goseq, or other online tools such as [DAVID](https://david.ncifcrf.gov/) or [Genetrail](https://genetrail2.bioinf.uni-sb.de/).
 
-## Nanopore Sequence Analysis
+## Single Cell RNA-Seq
 
-- Direct & cDNA RNASeq
-- CRISPR/Cas9 targeted sequencing
-- Amplicon sequencing
-- SARS-CoV-2 sequencing and analysis
-- Microbial genomics
-- Plasmid sequencing
+- QC, analysis and visualisation for single cell RNA-seq data
+- Analysis of Spatial transcriptomics data
 
-## Clinical Bioinformatics Services
-
-Matthew Parker is a registered Clinical Scientist (Bioinformatics) in the core and has experience of providing clinical bioinformatics services for the NHS. 
-
-- Clinical bioinformatics consulting:
-  - Consultation on appropriate and best practice clinical bioinformatics
-  - Staff training in bioinformatics
-  - Advice/Implementation of computing facilities for clinical analysis
-  - Consultation on obtaining UKAS (ISO-15189) accreditation
-- Extended variant review and analysis
-- Analysis of copy number and structural variants
-- Assessment of analyses and pipelines
-- Integration of bioinformatics pipelines with other software, e.g. LIMS
-- Ad-Hoc bioinformatics support
 
 ## Microarray Analysis
 
@@ -58,8 +40,8 @@ Matthew Parker is a registered Clinical Scientist (Bioinformatics) in the core a
 
 ## Further Expertise
 
-- Custom pipeline creation
 - Custom visualisation of high-throughput data
+- Custom bioinformatic workflows and piplines with [nextflow](https://www.nextflow.io/)
 - Packaging and deploying software environments with [docker](https://www.docker.com/)
 - Data Management and curation
 - Creating interactive web applications wih [shiny](https://shiny.rstudio.com/)
