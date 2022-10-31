@@ -9,6 +9,7 @@ excerpt: "An archive of resources sorted by date."
 
 Talks and presentations given by members of the Core. For training materials and longer courses, see our [training](https://sbc.shef.ac.uk//training/) section.
 
+- [Reproducible Bioinformatics pipelines with Nextflow](https://docs.google.com/presentation/d/17vXUbXOEzG6ZanTT-7tBqWVhLrxSUX3zv2hAvGk-Y_I/edit?usp=sharing), Mark Dunning, Northern BUG7 - Bradford
 - [SARS-CoV-2 subgenomic RNA Detection](https://www.youtube.com/watch?v=aK8zp57FIK0), Matthew Parker, HHMI COVID-19 Seminar Series
 - [periscope: Detecting subgenomic RNA in ARTIC Network Sequencing Data](https://nanoporetech.com/resource-centre/videos/NCM2020/Periscope%3A-sub-genomic-RNA-identification-in-SARS-CoV-2-ARTIC-Network-Nanopore-Sequencing-Data), Matthew Parker, Nanopore Community Meeting
 - [Nanopore Sequencing of C9orf72 in ALS](https://nanoporetech.com/resource-centre/nanopore-sequencing-c9orf72-als), Matthew Parker, Nanopore London Calling
@@ -42,9 +43,9 @@ Other researchers / Core facilities that we collaborate with and share resources
 - [Sheffield Biological Mass Spectrometry Facility (biOMICS)](https://www.sheffield.ac.uk/biomics)
 - [The NERC Biomolecular Analysis Facility - Sheffield](https://www.sheffield.ac.uk/nbaf-s/home)
 
+
 ### National / International
 
-- [COVID-19 Genomics Uk Consortium](https://www.cogconsortium.uk/)
 - [Northern Bioinformatics User Group (NorthernBUG)](https://northernbug.github.io/)
 - [Cancer Research Uk Cambridge Institute Bioinformatics Core](https://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core)
 - [Bioinformatics Training Program of the University of Cambridge](https://bioinfotraining.bio.cam.ac.uk/)

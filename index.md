@@ -11,9 +11,8 @@ We offer a comprehensive [training programme](https://sbc.shef.ac.uk/training) a
 
 - Experimental Design
 - High-Throuput Next Generation Sequencing (NGS) Analysis
+- Single-cell RNA-seq and spatial transcriptomics
 - Analysis of long-read sequencing (e.g. Nanopore)
-- Clinical Bioinformatics Services
-- Clinical Bioinformatics Consulting
 - Microarray Analysis
 - Other Common Bioinformatics Analysis
 See [expertise](https://sbc.shef.ac.uk/expertise) for more details...

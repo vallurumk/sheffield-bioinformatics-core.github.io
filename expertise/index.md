@@ -17,14 +17,14 @@ The Core is experienced in advising on the following issues:-
 - Biases and confounding factors
 - Single-end or paired-end sequencing
 - Depth of sequencing required
+- Contacts at Sequencing vendors
 
 ## High-Throughput Sequence Analysis
 
-- BWA, Bowtie and other aligners for all NGS platforms and applications
-- Tophat, edgeR, DESeq2 and salmon (among others) for RNA-Seq analysis
+- BWA, and other aligners for all NGS platforms and applications
+- edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
 - GATK, VarScan and MuTect for somatic and germline mutation calling
-- manta, BRASS for calling of structural variants
-- MACS2, and other peak callers for ChIP-Seq analysis
+- MACS2, and other peak callers for ChIP-Seq and ATAC-seq analysis
 - Downstream analysis of gene lists to identify over-represented pathways / ontologies using [GSEA](http://software.broadinstitute.org/gsea/index.jsp), goseq, or other online tools such as [DAVID](https://david.ncifcrf.gov/) or [Genetrail](https://genetrail2.bioinf.uni-sb.de/).
 
 ## Single Cell RNA-Seq
