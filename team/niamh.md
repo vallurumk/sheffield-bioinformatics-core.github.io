@@ -5,7 +5,8 @@ excerpt: "More about Niamh..."
 ---
 
 
-![IMG_20210123_142751030](https://user-images.githubusercontent.com/44575854/194101945-86cbd802-bda5-4f1f-a26c-9bd2bc6e80a6.jpg)
+![IMG_20210123_142751030 (2)](https://user-images.githubusercontent.com/44575854/199238019-122906e6-c8ff-4688-9c92-a7f0a841dc45.jpeg)
+
 
 I joined the team in May 2022.
 
