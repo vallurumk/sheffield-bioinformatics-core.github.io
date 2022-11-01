@@ -5,10 +5,9 @@ excerpt: "More about Niamh..."
 ---
 
 
-![IMG_20210123_142751030 (2)](https://user-images.githubusercontent.com/44575854/199238019-122906e6-c8ff-4688-9c92-a7f0a841dc45.jpeg)
+![IMG_20210123_142751030 (2)](https://user-images.githubusercontent.com/44575854/199239235-4ad156fa-e88f-4f4d-b064-0ad0b66be380.jpeg)
 
-
-I joined the team in May 2022.
+I joined the team in May 2022 following a PhD with Dennis Wang and Allan Lawrie at the University of Sheffield. 
 
 - [ORCiD](https://orcid.org/0000-0001-6768-7394)
 - [LinkedIn](https://www.linkedin.com/in/niamh-errington/)
