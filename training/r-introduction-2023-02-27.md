@@ -22,9 +22,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
-Monday February 27th, 13:00 - 16:00 Bartolome House, EG03, or Online
-Wednesday March 1st, 13:00 - 16:00 Pam Liversidge Building, Design Studio 1, D06, or Online
-Friday March 3rd, 13:00 - 16:00, Pam Liversidge Building, Design Studio 2, E06, or Online
+- Monday February 27th, 13:00 - 16:00 Bartolome House, EG03, or Online
+- Wednesday March 1st, 13:00 - 16:00 Pam Liversidge Building, Design Studio 1, D06, or Online
+- Friday March 3rd, 13:00 - 16:00, Pam Liversidge Building, Design Studio 2, E06, or Online
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
