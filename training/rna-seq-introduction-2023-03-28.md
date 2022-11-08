@@ -19,7 +19,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Dates
 
-Tuesday March 28th 2023 13:00 - 17:00
+Tuesday March 28th 2023 13:00 - 16:00
 
 Online, and Pam Liversidge Building, PLB - Design Studio 1 - D05 (67) - University of Sheffield
 
