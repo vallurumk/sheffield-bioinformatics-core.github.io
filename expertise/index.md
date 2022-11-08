@@ -31,6 +31,8 @@ The Core is experienced in advising on the following issues:-
 
 ## Single Cell RNA-Seq
 
+![](../images/souilhol_et_al.png)
+
 - QC, analysis and visualisation for single cell RNA-seq data
 - Analysis of Spatial transcriptomics data
 
