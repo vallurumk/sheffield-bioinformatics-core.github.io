@@ -21,6 +21,8 @@ The Core is experienced in advising on the following issues:-
 
 ## High-Throughput Sequence Analysis
 
+![](../images/example_heatmap.png)
+
 - BWA, and other aligners for all NGS platforms and applications
 - edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
 - GATK, VarScan and MuTect for somatic and germline mutation calling
