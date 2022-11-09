@@ -8,6 +8,7 @@ endDate: 2023-03-15
 startTime: 13.00
 endTime: 17.00
 postcode: S1 3JD
+city: Sheffield, or online
 country: United Kingdom
 venue: Pam Liversidge Building, University of Sheffield, or ONLINE
 description: "This course provides a refresher on the foundations of statistical analysis. "
