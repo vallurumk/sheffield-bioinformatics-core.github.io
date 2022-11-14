@@ -21,10 +21,8 @@ The Core is experienced in advising on the following issues:-
 
 ## Next Generation Sequencing (NGS) Analysis
 
-<img src="../images/example_heatmap.png" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="../images/example_oncoplot.png" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
-
+![](../images/example_heatmap.png)
+![](../images/example_oncoplot.png)
 
 - BWA, and other aligners for all NGS platforms and applications
 - edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
