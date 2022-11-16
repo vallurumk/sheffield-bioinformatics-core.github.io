@@ -19,8 +19,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 - Sheffield - 16th January 2023
 - 13:00 - 17:00pm
-- Batolome House, Sheffield, Seminar Room EG03
+- Bartolome House, Sheffield, Seminar Room EG03
   + or ONLINE
+- [Registration Link]((https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 
 

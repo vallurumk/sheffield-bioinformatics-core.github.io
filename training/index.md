@@ -37,7 +37,7 @@ We have also made a curated list of other training materials available online an
 - [Data Manipulation and Visualization in R](r-introduction-2023-02-27), 27th February, 1st/3rd March 2023,**IN-PERSON** and **ONLINE**, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Statistics in R](stats-introduction-2023-03-15), **IN-PERSON** and **ONLINE**, 15th March 2023, Booking soon
 - [Introduction to RNA-seq analysis](rna-seq-introduction-2023-03-28), **IN-PERSON** and **ONLINE**, March 28th 2023, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
-- [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), April 17th/19th/21st, [Boo now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
+- [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), April 17th/19th/21st, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 ## 2022
 

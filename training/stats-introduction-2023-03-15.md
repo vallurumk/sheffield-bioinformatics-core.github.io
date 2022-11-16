@@ -21,7 +21,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 - Wednesday 15th March, 13:00 - 17:00
 - Pam Liversidge Building - Design Studio 2 - E06, or ONLINE
-
+- [Registration Link]((https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 ## Overview
 This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
