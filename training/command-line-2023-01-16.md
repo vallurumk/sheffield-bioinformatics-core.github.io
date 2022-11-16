@@ -10,7 +10,7 @@ endTime: 17.00
 city: Sheffield, or ONLINE
 postcode: S3 7ND
 country: United Kingdom
-venue: Barber House Boardroom, Sheffield, or ONLINE
+venue: Bartolomé House, Sheffield S10,, or ONLINE
 description: "This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We will use a case study of dealing with next-generation sequencing data"
 keywords: bioinformatics, bash, unix
 difficulty: beginner
