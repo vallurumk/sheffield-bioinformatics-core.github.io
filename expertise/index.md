@@ -28,6 +28,12 @@ The Core is experienced in advising on the following issues:-
 - edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
 - GATK, VarScan and MuTect for somatic and germline mutation calling
 - MACS2, and other peak callers for ChIP-Seq and ATAC-seq analysis
+
+
+## Downstream Analysis
+
+![](../images/example_network_analysis.png)
+
 - Downstream analysis of gene lists to identify over-represented pathways / ontologies using [GSEA](http://software.broadinstitute.org/gsea/index.jsp), goseq, or other online tools such as [DAVID](https://david.ncifcrf.gov/) or [Genetrail](https://genetrail2.bioinf.uni-sb.de/).
 
 ## Single Cell RNA-Seq
