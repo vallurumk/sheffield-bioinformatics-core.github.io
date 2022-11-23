@@ -3,14 +3,14 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Introduction to RNA-seq analysis in R
 excerpt: "RNA-seq in R"
-startDate: 2022-12-12
-endDate: 2022-12-16
+startDate: 2023-04-17
+endDate: 2023-04-21
 startTime: 13.00
 endTime: 16.00
 city: Sheffield, or online
 postcode: S10 2HQ
 country: United Kingdom
-venue: Barber House Boardroom (Sheffield), or ONLINE
+venue: Bartolome House, Seminar Room EG03 (Sheffield), or ONLINE
 description: "In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESeq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.."
 keywords: bioinformatics, NGS, RNA-seq, R
 difficulty: beginner
@@ -19,11 +19,11 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Workshop Information
 
-Monday 12th December 13:00 - 16:00
-Wednesday 14th December 13:00 - 16:00
-Friday 16th December 13:00 - 16:00
+Monday 17th April 13:00 - 16:00
+Wednesday 19th April 13:00 - 16:00
+Friday 21st April 13:00 - 16:00
 
-Barber House, Boardroom, University of Sheffield, or ONLINE
+Bartolome House, Seminar Room EG03 , University of Sheffield, or ONLINE
 
 You will need to attend all three sessions to complete the workshop
 
@@ -39,7 +39,7 @@ You can sign-up to attend either in-person or online using this link
 
 - [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
-If you are registering to attend as a University of Sheffield staff or student, you will be prompted for a password. This should have been sent to you in an announcement email.
+If you are registering to attend as a University of Sheffield staff or student, you will be prompted for a password. This should have been sent to you in an announcment email.
 
 ## Materials
 
@@ -94,18 +94,18 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 ## Timetable (provisional)
 
-- Session 1 Monday 12th December 13:00 - 16:00
+- Session 1 Monday 17th April 13:00 - 16:00
   + Importing RNA-seq counts into R
   + Quality assessment of raw counts
   + Checking sources of variation using PCA and clustering
   
-- Session 2 Wednesday 14th December 13:00 - 16:00
+- Session 2 Wednesday 19th April 13:00 - 16:00
   + Differential expression using DESeq2 to generate gene-lists
   + Manipulating and filtering gene-lists
   + Basic plotting of differential-expression results
   + More-advanced designs using DESeq2
   
-- Session 3 Friday 16th December 13:00 - 16:00
+- Session 3 Friday 21st April 13:00 - 16:00
   + Advanced plotting with heatmaps
   + Using Bioconductor resources to interrogate Gene Ontologies
   + Identifying over-represented and enriched gene sets

@@ -19,9 +19,10 @@ The Core is experienced in advising on the following issues:-
 - Depth of sequencing required
 - Contacts at Sequencing vendors
 
-## High-Throughput Sequence Analysis
+## Next Generation Sequencing (NGS) Analysis
 
 ![](../images/example_heatmap.png)
+![](../images/example_oncoplot.png)
 
 - BWA, and other aligners for all NGS platforms and applications
 - edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
@@ -38,6 +39,8 @@ The Core is experienced in advising on the following issues:-
 
 
 ## Microarray Analysis
+
+![](../images/example_microarray.png)
 
 - Experience with data from Affymetrix and Illumina platforms
 - Varying data types, including expression, methylation (450K), SNP and copy-number
