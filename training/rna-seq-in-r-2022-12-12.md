@@ -20,8 +20,8 @@ contact: bioinformatics-core@sheffield.ac.uk
 ## Workshop Information
 
 - Monday 12th December, Bartolome House, Seminar Room EG03, or online 13:00 - 16:00
-- Wednesday 14th December, Pam Liversidge Building, Design Studio 2 - E06,  13:00 - 16:00
-- Friday 16th December, Hicks Building, Lecture Theatre 10, 13:00 - 16:00
+- Wednesday 14th December, Pam Liversidge Building, Design Studio 2, or online - E06,  13:00 - 16:00
+- Friday 16th December, Hicks Building, Lecture Theatre 10, or online, 13:00 - 16:00
 
 You will need to attend all three sessions to complete the workshop
 
