@@ -21,7 +21,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 - 13:00 - 17:00pm
 - Bartolome House, Sheffield, Seminar Room EG03
   + or ONLINE
-- [Registration Link]((https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
+- [Registration Link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 
 
