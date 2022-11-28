@@ -19,10 +19,10 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 ## Scientific Directors
 
-- [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director), [Academic Group website](https://www.trans-bioinformatics.com/)
-- [Allan Lawrie](https://www.sheffield.ac.uk/medicine/people/iicd/allan-lawrie), Core Scientific Director and Chair of Core Steering Committee
+- Position to be filled!
 
 ## Alumni
 
 - [Matthew Parker](http://sbc.shef.ac.uk/team/matt) - Clinical Bioinformatics Core Scientist
 - [Sharon Hsu](http://sbc.shef.ac.uk/team/sharon) - Junior Bioinformatician, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
+- [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director), [Academic Group website](https://www.trans-bioinformatics.com/)
