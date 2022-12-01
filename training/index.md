@@ -51,7 +51,7 @@ We have also made a curated list of other training materials available online an
 - [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-06-13), June 13th,June 15th and June 17th, **IN-PERSON**
 - [Introduction to NGS and Bioinformatics](http://sbc.shef.ac.uk/training/ngs-introduction-2022-05), May 16th, 18th and 20th,  ONLINE
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-04-26), April 26th, 27th and 29th, ONLINE
-- [Analytics 2 - Introduction to the Command line for Bioinformatics](https://www.whiterose-mechanisticbiology-dtp.ac.uk/training-and-events/upcoming/analytics-2-introduction-to-the-command-line-for-bioinformatics-2022/), March 24th, White Rose Mechanistic Biology Students ONLY
+- [Analytics 2 - Introduction to the Command line for Bioinformatics](https://sbc.shef.ac.uk/white_rose_dtp_analytics2/), March 24th, White Rose Mechanistic Biology Students ONLY
 - [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-online-2022-01-11), January 17th, 18th and 19th
 
 ## 2021
