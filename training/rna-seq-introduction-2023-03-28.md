@@ -12,7 +12,8 @@ postcode: S1 3JQ
 country: United Kingdom
 venue: Pam Liversidge Building, Design Studio 1 - D05, or ONLINE
 description: "High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing. We will describe the steps involved to go from sequencing counts to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Degust interface (https://degust.erc.monash.edu/) to demonstrate tasks such as quality control and assessing differential expression. We will also showcase some web sites you can use for enrichment and pathways analysis"
-keywords: bioinformatics, NGS, RNA-seq
+keywords: bioinformatics, NGS, RNA-seq, online, transcriptomics, functional genomics
+scientific_keywords: bioinformatics, transcriptomics, functional genomics, RNA-seq
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
