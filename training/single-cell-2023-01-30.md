@@ -12,7 +12,8 @@ postcode: S3 7ND
 country: United Kingdom
 venue: Bartolome House, Seminar Room EG03 (Sheffield)
 description: "Recent advances in gene expression technologies have made it possible to measure transcription for individual cells - enabling researchers to understand cellular heterogeneity and understand complex tissue types.  In this course we describe the analysis of data derived from such experiments using the R language"
-keywords: bioinformatics, NGS, RNA-seq, R
+keywords: bioinformatics, NGS, RNA-seq, R, single-cell, 10X, online
+scientific_keywords: bioinformatics, transcriptomics, functional genomics, single-cell, clustering, cell-types
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
