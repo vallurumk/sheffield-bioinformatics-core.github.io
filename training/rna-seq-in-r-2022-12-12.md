@@ -12,7 +12,8 @@ postcode: S10 2HQ
 country: United Kingdom
 venue: University of Sheffield (see website for details) or ONLINE
 description: "In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESeq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.."
-keywords: bioinformatics, NGS, RNA-seq, R
+keywords: bioinformatics, NGS, RNA-seq, R, transcriptomics, online
+scientific_keywords: transcriptomics, functional genomics, RNA-seq, bioinformatics
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
