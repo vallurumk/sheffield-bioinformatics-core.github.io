@@ -4,7 +4,7 @@ organizer: Sheffield Bioinformatics Core
 title: Data Manipulation and Visualization
 excerpt: "Data Manipulation and Visualization using the R programming language"
 startDate: 2023-02-27
-endDate: 2022-03-01
+endDate: 2023-03-01
 startTime: 13.00
 endTime: 17.00
 city: Sheffield, or online
