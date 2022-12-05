@@ -13,7 +13,8 @@ country: United Kingdom
 city: Sheffield, or ONLINE
 venue: Pam Liversidge Building, University of Sheffield, or ONLINE
 description: "This course provides a refresher on the foundations of statistical analysis. "
-keywords: statistics
+keywords: statistics, R, biostatistics, online
+scientific_keywords: statistics, biostatistics
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
