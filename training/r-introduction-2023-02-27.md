@@ -13,7 +13,8 @@ country: United Kingdom
 venue: University of Sheffield, or ONLINE
 description: "As the data generated from high-throughput biological experiments increase in volume and become more complex, the ability to manipulate and visualise data is a highly-desirable skill in academia and industry. Whilst familiar tools such as Excel allow basic manipulations, they are often not scalable to larger datasets and are not ameanable to reproducible analysis. 
 R is a highly-regarded, free, software environment for statistical analysis, with many useful features that promote and facilitate reproducible research."
-keywords: bioinformatics, R, data analysis
+keywords: bioinformatics, R, data analysis, data visualization, ggplot2, dplyr, online
+scientific keywords: data science, data visualization, R, data manipulation
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
