@@ -13,24 +13,6 @@ excerpt: "More about Lewis..."
 - Blog: <a href="https://www.lewisdoesdata.com" target="_blank">www.lewisdoesdata.com</a>
 - YouTube: <a href="https://www.youtube.com/@lewisdoesdata" target="_blank">www.youtube.com/@lewisdoesdata</a>
 
-## Skills
-
-* Programming:
-  
-  * R, Python, SQL, Unix (BASh)
-  * Markdown, Git, Nextflow, Docker, Singularity (Apptainer)
-
-* Pipeline development and deployment on high-performance computing (HPC) or cloud-based infrastructure
-* Microarray, RNA-Seq (bulk and single-cell), Whole Genome (WGS) and Whole Exome (WES) sequencing data analysis
-* Relational database access and analysis
-* Large-scale public and clinical data cleaning and integration
-* Time-to-event (survival) analysis
-* Interaction network construction, validation and analysis
-* Geospatial data analysis
-* Unsupervised and supervised machine learning model development and deployment
-* Advanced data visualisation
-* Dashboard (static and interactive) and web app development
-
 ## Experience
 
 <table>
@@ -61,6 +43,20 @@ excerpt: "More about Lewis..."
   </tr>
 </tbody>
 </table>
+
+## Skills
+
+* Programming: R, Python, SQL, Unix (BASh), Markdown, Git, Nextflow, Docker, Singularity (Apptainer)
+* Pipeline development and deployment on high-performance computing (HPC) or cloud-based infrastructure
+* Microarray, RNA-Seq (bulk and single-cell), Whole Genome (WGS) and Whole Exome (WES) sequencing data analysis
+* Relational database access and analysis
+* Large-scale public and clinical data cleaning and integration
+* Time-to-event (survival) analysis
+* Interaction network construction, validation and analysis
+* Geospatial data analysis
+* Unsupervised and supervised machine learning model development and deployment
+* Advanced data visualisation
+* Dashboard (static and interactive) and web app development
 
 ## Biography
 
