@@ -74,6 +74,8 @@ My role within the Sheffield Bioinformatics Core Facility involves delivery of c
 
 **Original Manuscripts**
 
+Catto, J.W.F., Mandrik, O., **Quayle, L.A.**, Hussain, S.A., McGrath, J., Cresswell, J., Birtle, A.J., Jones, R.J., Mariappan, P., Makaroff, L.E., Knight, A., Mostafid, H., Chilcott, J., Sasieni, P., Cumberbatch M. (2023). Diagnosis, treatment and survival from bladder, upper urinary tract and urethral cancers: Real world findings from NHS England between 2013 and 2019. BJU Int. Accepted Author Manuscript. https://doi.org/10.1111/bju.15970
+
 **Quayle, L.A.**, Spicer, A., Ottewell, P.D., Holen, I. (2021). Transcriptomic Profiling Reveals Novel Candidate Genes and Signaling Programs in Breast Cancer Quiescence and Dormancy. Cancers, 13(16): 3922.
 
 Tulotta, C., Lefley, D., Moore,. C., Amariutei, A., Spicer, A., **Quayle, L.**, Hughes, R., Ahmed, K., Cookson, V., Evans, C., Vadakekolathu, J., Heath, P., Francis, F., Pinteaux, E., Pockley, A., Ottewell, P.D. (2021). IL-1B drives opposing responses in primary tumours and bone metastases; harnessing combination therapies to improve outcome in breast cancer. NPJ Breast Cancer, 7(1): 95.
