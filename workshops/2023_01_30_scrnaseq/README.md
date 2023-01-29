@@ -56,7 +56,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
 3) Type the following into the R console to install some extra R packages required for the workshop
 
 ```
-source("https://sbc.shef.ac.uk/workshops/2023_01_30_scrnaseq/install_packages.R")
+source("https://github.com/sheffield-bioinformatics-core/sheffield-bioinformatics-core.github.io/blob/master/workshops/2023_01_30_scrnaseq/install_packages.R")
 ```
 
 
