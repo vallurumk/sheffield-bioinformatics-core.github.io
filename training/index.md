@@ -36,18 +36,16 @@ We have also made a curated list of other training materials available online an
 - [Introduction to RNA-seq analysis](rna-seq-introduction-2023-03-28), **IN-PERSON** and **ONLINE**, March 28th 2023, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), April 17th/19th/21st, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
+## Past Courses
+
 ## 2023
 
 - [Introduction to the Command line for Bioinformatics](https://sbc.shef.ac.uk/training/command-line-2023-01-16), 16th January 2023, 13:00 - 17:00, **IN-PERSON** and **ONLINE**
-- [Analysis of 10X single-cell data in R](single-cell-2023-01-30), January 30th 2023, In-person only
+- [Analysis of 10X single-cell data in R](workshops/2023_01_20_scrnaseq), January 30th 2023, In-person only
 
 ## 2022
 
-- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12), December 12th,December 14th and December 16th, 13:00 - 16:00, **IN-PERSON** and ONLINE, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
-
-## Past Courses
-
-## 2022
+- [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-12-12), December 12th,December 14th and December 16th, 13:00 - 16:00, **IN-PERSON** and ONLINE
 - [Data Manipulation and Visualization](http://sbc.shef.ac.uk/training/r-introduction-online-2022-09-19), September 19th, 21st and 28th 13:00 - 16:00, ONLINE and in-person attendance available
 - [Introduction to RNA-seq analysis](http://sbc.shef.ac.uk/training/rna-seq-introduction-online-2022-09-12), September 12th 13:00 - 17:00, ONLINE and in-person attendance available
 - [Introduction to RNA-seq analysis in R](http://sbc.shef.ac.uk/training/rna-seq-in-r-2022-06-13), June 13th,June 15th and June 17th, **IN-PERSON**
