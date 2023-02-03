@@ -41,7 +41,7 @@ We have also made a curated list of other training materials available online an
 ## 2023
 
 - [Introduction to the Command line for Bioinformatics](https://sbc.shef.ac.uk/training/command-line-2023-01-16), 16th January 2023, 13:00 - 17:00, **IN-PERSON** and **ONLINE**
-- [Analysis of 10X single-cell data in R](workshops/2023_01_20_scrnaseq), January 30th 2023, In-person only
+- [Analysis of 10X single-cell data in R](workshops/2023_01_30_scrnaseq), January 30th 2023, In-person only
 
 ## 2022
 
