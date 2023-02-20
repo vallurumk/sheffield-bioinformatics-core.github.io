@@ -81,6 +81,8 @@ You can download the binary files for your distribution from CRAN. Or you can us
 install.packages("dplyr")
 install.packages("ggplot2")
 install.packages("readr")
+install.packages("rmarkdown")
+install.packages("tidyr")
 ```
 
 
