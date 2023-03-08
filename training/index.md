@@ -31,7 +31,7 @@ We have also made a curated list of other training materials available online an
 ## Upcoming (more to follow soon)
 
 
-- [Data Manipulation and Visualization in R](r-introduction-2023-02-27), 27th February, 1st/3rd March 2023,**IN-PERSON** and **ONLINE**, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
+
 - [Statistics in R](stats-introduction-2023-03-15), **IN-PERSON** and **ONLINE**, 15th March 2023, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Introduction to RNA-seq analysis](rna-seq-introduction-2023-03-28), **IN-PERSON** and **ONLINE**, March 28th 2023, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), April 17th/19th/21st, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
@@ -40,6 +40,7 @@ We have also made a curated list of other training materials available online an
 
 ## 2023
 
+- [Data Manipulation and Visualization in R](r-introduction-2023-02-27), 27th February, 1st/3rd March 2023,**IN-PERSON** and **ONLINE**
 - [Introduction to the Command line for Bioinformatics](https://sbc.shef.ac.uk/training/command-line-2023-01-16), 16th January 2023, 13:00 - 17:00, **IN-PERSON** and **ONLINE**
 - [Analysis of 10X single-cell data in R](workshops/2023_01_30_scrnaseq), January 30th 2023, In-person only
 
