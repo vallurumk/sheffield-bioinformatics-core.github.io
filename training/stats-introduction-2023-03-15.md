@@ -56,31 +56,18 @@ The course is aimed primarily at scientists at all levels – especially those w
 - Non-parametric versions of one- and two-sample tests (Wilcoxon tests)
 
 
-## Sign-up
+## Prerequisites
 
-Please use this link to sign-up for the course
+- Introductory-level R; for example attending our [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/) course
 
-- [Online store](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/neuroscience/statistical-analysis-in-r-22nd-september-2021)
 
 ## Provisional Timetable and Materials
 
 
-## Course Data
 
-- Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
+# Setup
 
-## Feedback
-
-- We would be grateful if you could fill in [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdNb-MMvSDWs2ep5Av1Si31bcojsU3A1I7XgC96tXjxayMK5g/viewform) which will help us improve the course for the future.
-
-
-
-## Software installation
-
-You will need to bring an internet-enabled laptop to the course and install the latest versions of *both* R ***and*** RStudio before coming to the course
-
-- [R](https://cran.r-project.org/)
-- [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+1) First, install both R **and** RStudio for your operating system. 
 
 ### Windows
 
@@ -88,7 +75,7 @@ Install R by downloading and running [this .exe file](http://cran.r-project.org/
 
 ### Mac
 
-Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
+Install R by downloading and running [this .pkg file](https://cran.r-project.org/bin/macosx/base/R-4.2.1.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
 
 ### Linux
 
@@ -96,12 +83,39 @@ You can download the binary files for your distribution from CRAN. Or you can us
 
 
 
-## Prerequisites
+2) Type the following into the R console to install some extra R packages required for the workshop
 
-- Introductory-level R; for example attending our [Data Manipulation and Visualisation](http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/) course
+```
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("readr")
+install.packages("rmarkdown")
+install.packages("tidyr")
+```
+
+
+
+**Mac Users may get the following error message when trying to install these packages**
+
+```
+xcrun error: inactive developer path (/Library/Developer/CommandLineTools), missing xcrun at:.....
+
+```
+
+If this is the case, you will need to follow the instructions from this link to install "Xcode"
+
+[https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a](https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a)
+
+**Window users might get a message that Rtools is required. This shouldn't be necessary, but you might need it for other packages. It can be installed here:-**
+
+[https://cran.r-project.org/bin/windows/Rtools/](https://cran.r-project.org/bin/windows/Rtools/)
+
+
+
 
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
+- Emily Chambers, Bioinformatics Core Scientist
 - Aya Elwazir, PhD Student
-- Niamh Errington, PhD Student
+
