@@ -30,17 +30,17 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
+- [Introduction to the Comamnd-Line for Bioinformatics](https://www.eventbrite.com/e/introduction-to-the-command-line-for-bioinformatics-tickets-609611884557), In association with The Carpentries at The University of Sheffield, June 26th 09:30 - 16:30, In-person
+- Analysis of 10X single-cell data in R, July 2023 TO BE CONFIRMED, In-person only
 
 
-
-- [Introduction to RNA-seq analysis](rna-seq-introduction-2023-03-28), **IN-PERSON** and **ONLINE**, March 28th 2023, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
-- [Introduction to the Comamnd-Line for Bioinformatics](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2023/), March 29th, In-Person (University of York) **White Rose Mechanistic Biology DTP students only**.
-- [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), April 17th/19th/21st, [Book now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 ## Past Courses
 
 ## 2023
-
+- [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), In-person and Online, April 17th/19th/21st,
+- [Introduction to RNA-seq analysis](rna-seq-introduction-2023-03-28), **IN-PERSON** and **ONLINE**, March 28th 2023,
+- [Introduction to the Comamnd-Line for Bioinformatics](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2023/), March 29th, In-Person (University of York) **White Rose Mechanistic Biology DTP students only**.
 - [Statistics in R](stats-introduction-2023-03-15), **IN-PERSON** and **ONLINE**, 15th March 2023, 
 - [Data Manipulation and Visualization in R](r-introduction-2023-02-27), 27th February, 1st/3rd March 2023,**IN-PERSON** and **ONLINE**
 - [Introduction to the Command line for Bioinformatics](https://sbc.shef.ac.uk/training/command-line-2023-01-16), 16th January 2023, 13:00 - 17:00, **IN-PERSON** and **ONLINE**
