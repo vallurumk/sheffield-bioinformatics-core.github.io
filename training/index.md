@@ -30,7 +30,7 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-- [Introduction to the Comamnd-Line for Bioinformatics](https://www.eventbrite.com/e/introduction-to-the-command-line-for-bioinformatics-tickets-609611884557), In association with The Carpentries at The University of Sheffield, June 26th 09:30 - 16:30, In-person
+- [Introduction to the Comamnd-Line for Bioinformatics](2023_07_26_command-line), In association with The Carpentries at The University of Sheffield, June 26th 09:30 - 16:30, In-person, [REGISTER HERE](https://www.eventbrite.com/e/introduction-to-the-command-line-for-bioinformatics-tickets-609611884557)
 - Analysis of 10X single-cell data in R, July 2023 TO BE CONFIRMED, In-person only
 
 
