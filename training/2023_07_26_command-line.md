@@ -65,12 +65,14 @@ Those wanting to use the command-line to perform data analysis; particularly tho
 
 ## Schedule (Provisional)
 
-- 09:30 - 10:00 Introduction and Course Setup
-- 10:00 - 12:00 Introduction to the command line
+- 09:30 - 10:00 [(MD) Introduction and Course Setup](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2023/part0.nb.html)
+- 10:00 - 10:45 [(EC) Navigating Files and Directories](https://datacarpentry.org/shell-genomics/02-the-filesystem.html)
+- 10:45 - 11:30 [(EC) Working with Files and Directories](https://datacarpentry.org/shell-genomics/03-working-with-files.html)
+- 11:30 - 12:00 [(MD) Redirection](https://datacarpentry.org/shell-genomics/04-redirection.html)
 - 12:00 - 12:45 LUNCH (not provided)
-- 12:45 - 13:30 Obtaining sequencing data and quality assessment
-- 13:30 - 14:30 Alignment and counting
-- 14:30 - 16:30 Workflows and pipelines
+- 12:45 - 13:45 [(MD) Writing scripts and Working with Data](https://datacarpentry.org/shell-genomics/05-writing-scripts.html)
+- 13:45 - 14:45 [(EC) Obtaining Sequencing Data and Quality Assessment](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2023/part2.nb.html)
+- 14:45 - 16:30 [(MD) Workflows and pipelines](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2023/part3.nb.html)
 
 
 ## Instructors
@@ -78,3 +80,13 @@ Those wanting to use the command-line to perform data analysis; particularly tho
 - Mark Dunning, Bioinformatics Core Director
 - Emily Chambers, Bioinformatics Core Analyst
 - Ben Draper, PhD Student, CBE
+- Jack Riley, PhD Student, Biosciences
+
+MD - Introduction and setup
+EC - Navigating files and directories
+EC - Working with files and directories
+MD - Redirection
+MD - Writing Scripts
+
+EC - Obtaining sequencing reads and doing QC
+MD - Pipelines etc
