@@ -10,12 +10,13 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html) - Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
-- [Lewis Quayle](http://sbc.shef.ac.uk/team/lewis/) - Cancer Bioinformatician (Joint with Catto group)
+
 
 ## Associate Members
 
-- [Niamh Errington](http://sbc.shef.ac.uk/team/niamh/), Postdoctoral Researcher, Lawrie group, Imperial College / University of Sheffield.
+
 - [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
+- [Lewis Quayle](http://sbc.shef.ac.uk/team/lewis/) - Cancer Bioinformatician (Joint with Catto group), Senior Lecturer, Sheffield Hallam University
 
 ## Scientific Directors
 
@@ -23,6 +24,7 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 ## Alumni
 
+- [Niamh Errington](http://sbc.shef.ac.uk/team/niamh/), Postdoctoral Researcher, Lawrie group, Imperial College / University of Sheffield.
 - [Matthew Parker](http://sbc.shef.ac.uk/team/matt) - Clinical Bioinformatics Core Scientist
 - [Sharon Hsu](http://sbc.shef.ac.uk/team/sharon) - Junior Bioinformatician, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
 - [Dennis Wang](http://sbc.shef.ac.uk/team/dennis/) (Core Associate Scientific Director), [Academic Group website](https://www.trans-bioinformatics.com/)
