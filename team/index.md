@@ -16,7 +16,7 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 
 - [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
-- [Lewis Quayle](http://sbc.shef.ac.uk/team/lewis/) - Cancer Bioinformatician (Joint with Catto group), Senior Lecturer, Sheffield Hallam University
+- [Lewis Quayle](http://sbc.shef.ac.uk/team/lewis/) - Cancer Bioinformatician; Senior Lecturer in Data Science and Analytics, Dept. of Computing, Sheffield Hallam University
 
 ## Scientific Directors
 
