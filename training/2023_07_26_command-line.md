@@ -63,6 +63,12 @@ Those wanting to use the command-line to perform data analysis; particularly tho
 
 - No software is required. You will be given access to an AWS machine on the day
 
+## Unix Reference Sheet
+
+Feel free to download this "cheat sheet" describing some of the commands that we will be covering
+
+- [https://upload.wikimedia.org/wikipedia/commons/7/79/Unix_command_cheatsheet.pdf](https://upload.wikimedia.org/wikipedia/commons/7/79/Unix_command_cheatsheet.pdf)
+
 ## Schedule (Provisional)
 
 - 09:30 - 10:00 [(MD) Introduction and Course Setup](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2023/part0.nb.html)
