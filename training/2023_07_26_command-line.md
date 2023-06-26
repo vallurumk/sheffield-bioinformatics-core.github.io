@@ -87,3 +87,9 @@ Feel free to download this "cheat sheet" describing some of the commands that we
 - Emily Chambers, Bioinformatics Core Analyst
 - Ben Draper, PhD Student, CBE
 - Jack Riley, PhD Student, Biosciences
+
+## Feedback 
+
+Please use this form to give us some feedback on the workshop
+
+- [https://docs.google.com/forms/d/e/1FAIpQLSe8EPhVC6rgjvfGWO-ZkLyTEPx8DeRBGdOvn-YPj3Rh5NOCeQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSe8EPhVC6rgjvfGWO-ZkLyTEPx8DeRBGdOvn-YPj3Rh5NOCeQ/viewform)
