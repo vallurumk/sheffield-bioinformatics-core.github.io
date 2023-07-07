@@ -30,8 +30,8 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-, [REGISTER HERE](https://www.eventbrite.com/e/introduction-to-the-command-line-for-bioinformatics-tickets-609611884557)
-- Analysis of 10X single-cell data in R, July 2023 TO BE CONFIRMED, In-person only
+- [Data Manipulation and Visualization in R](r-introduction-2023-09-18), 18th, 19th and 22nd September,**IN-PERSON** and **ONLINE**
+- [Analysis of 10X single-cell data in R](single-cell-2023-10-03), 3 October 2023, In-person and online only
 
 
 
