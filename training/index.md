@@ -30,8 +30,8 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-- [Data Manipulation and Visualization in R](r-introduction-2023-09-18), 18th, 19th and 22nd September,**IN-PERSON** and **ONLINE**
-- [Analysis of 10X single-cell data in R](single-cell-2023-10-03), 3 October 2023, In-person and online only
+- [Data Manipulation and Visualization in R](r-introduction-2023-09-18), 18th, 19th and 22nd September,**IN-PERSON** and **ONLINE**, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
+- [Analysis of 10X single-cell data in R](single-cell-2023-10-03), 3 October 2023, **In-person and **online**, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
 
 
 

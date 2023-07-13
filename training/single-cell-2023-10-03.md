@@ -21,7 +21,7 @@ contact: bioinformatics-core@sheffield.ac.uk
 ## Workshop Information
 
 Tuesday 3rd October 09:30 - 16:30
-Barber House Boardroom, The University of Sheffield (PROVISONAL), or online
+Barber House Boardroom, The University of Sheffield (PROVISONAL), or online, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
 
 
 
