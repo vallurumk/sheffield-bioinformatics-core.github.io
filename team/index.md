@@ -10,13 +10,21 @@ A key philosophy of working with the Sheffield Bioinformatics Core is that you a
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html) - Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/) - Bioinformatics Core Scientist
-- Position being advertised soon!
+- Position being hired soon....
 
 ## Associate Members
 
-
-- [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer, De Silva Group, Department of Infection, Immunity & Cardiovascular Disease
+- Jamie Adams - Postdoc, Ex-Vivo Group, Faculty of Health, Division of Clinical Medicine
+- [Magda Dabrowska](http://sbc.shef.ac.uk/team/magda) - Software Developer, De Silva Group, Department of Clinical Medicine
 - [Lewis Quayle](http://sbc.shef.ac.uk/team/lewis/) - Cancer Bioinformatician; Senior Lecturer in Data Science and Analytics, Dept. of Computing, Sheffield Hallam University
+
+## Co-supervised PhD Students
+
+- Mosab Alsaedi, Faculty of Health, Division of Neuroscience
+- Miriam Arrulo, Ex-Vivo Group, Faculty of Health, Division of Clinical Medicine
+- Ben Draper, Department of Chemical and Biological Engineering, University of Sheffield,
+
+
 
 ## Scientific Directors
 
