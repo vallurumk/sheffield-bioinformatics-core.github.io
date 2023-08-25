@@ -23,9 +23,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
-- Monday September 18th 13:00 - 16:00 Barber House Boardroom (Provisional) or Online
-- Tuesday September 19th, 09:00 - 12:00 Barber House Boardroom (Provisional) or Online
-- Friday September 22nd 13:00, - 16:00 - Barber House Boardroom (Provisional) or Online
+- Monday September 18th 13:00 - 16:00 Bartolome House, Seminar Room EG03, or Online
+- Tuesday September 19th, 09:00 - 12:00 Bartolome House, Seminar Room EG03 or Online
+- Friday September 22nd 13:00, - 16:00 - Bartolome House, Seminar Room EG03 or Online
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
