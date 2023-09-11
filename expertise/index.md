@@ -60,4 +60,5 @@ The Core is experienced in advising on the following issues:-
 
 As well as these analysis services, we also provide [training](https://sbc.shef.ac.uk/training) courses and bespoke 1-to-1 training for researchers
 
+For experimental advice on performing high-throughput studies, please contact the SITraN multi-omics facility
 
