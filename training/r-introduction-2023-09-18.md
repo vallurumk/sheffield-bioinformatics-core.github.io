@@ -63,7 +63,12 @@ Install R by downloading and running [this .exe file](http://cran.r-project.org/
 
 ### Mac
 
-Install R by downloading and running [this .pkg file](https://cran.r-project.org/bin/macosx/base/R-4.2.1.pkg) from CRAN. Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
+Install R by downloading and running one of the following pkg files depending on your model of Mac
+
+- [Apple silicon (M1/M2) Macs](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.1-arm64.pkg)
+- [Older models](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.3.1-x86_64.pkg)
+
+Also, please install the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/#download) 
 
 ### Linux
 
@@ -73,7 +78,7 @@ You can download the binary files for your distribution from CRAN. Or you can us
   
 2) Please download and extract (un-zip) this zip file into the directory on the computer that you wish to work in
 
-- [(https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip)
+- [https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip](https://github.com/sheffield-bioinformatics-core/r-online/raw/master/CourseData.zip)
 
 3) Type the following into the R console to install some extra R packages required for the workshop
 
