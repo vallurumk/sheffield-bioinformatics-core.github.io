@@ -22,6 +22,8 @@ Emily obtained her PhD in the computational biology group of Prof. Colin Semple 
 * Single cell RNA-seq
 * Spatial transcriptomics
 * R/tidyverse enthusiast
+* R/Shiny app development
 * Bioinformatics training
+
 
 [twitter](https://twitter.com/evc_sheffield) - [github](https://github.com/evchambers) - [orcid](https://orcid.org/0000-0003-1252-8059)
