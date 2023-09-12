@@ -4,11 +4,14 @@ title: Lewis Quayle
 excerpt: "More about Lewis..."
 ---
 
-<p style="text-align:center;"><img src="/images/lquayle.png" width="425"></p>
+<p style="text-align:center;">
+  <img src="/images/lquayle.png" width="425">
+</p>
 
 - GitHub: <a href="https://github.com/lquayle88" target="_blank">github.com/lquayle88</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">linkedin.com/in/lewis-quayle</a>
-- Blog: <a href="https://blog.lewisdoesdata.com" target="_blank">blog.lewisdoesdata.com</a>
+- Blog: <a href="https://www.lewisdoesdata.com" target="_blank">www.lewisdoesdata.com</a>
+- YouTube: <a href="https://www.youtube.com/@lewisdoesdata" target="_blank">www.youtube.com/@lewisdoesdata</a>
 
 ## Experience
 
@@ -41,6 +44,20 @@ excerpt: "More about Lewis..."
 </tbody>
 </table>
 
+## Skills
+
+* Programming: R, Python, SQL, Unix (BASh), Markdown, Git, Nextflow, Docker, Singularity (Apptainer)
+* Pipeline development and deployment on high-performance computing (HPC) or cloud-based infrastructure
+* Microarray, RNA-Seq (bulk and single-cell), Whole Genome (WGS) and Whole Exome (WES) sequencing data analysis
+* Relational database access and analysis
+* Large-scale public and clinical data cleaning and integration
+* Time-to-event (survival) analysis
+* Interaction network construction, validation and analysis
+* Geospatial data analysis
+* Unsupervised and supervised machine learning model development and deployment
+* Advanced data visualisation
+* Dashboard (static and interactive) and web app development
+
 ## Biography
 
 I obtained my PhD in the Bone Oncology group of <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/ingunn-holen" target="_blank">Prof. Ingunn Holen</a> and <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/penelope-d-ottewell" target="_blank">Dr Penelope Ottewell</a> in the Department of Oncology & Metabolism at The University of Sheffield Medical School. My PhD project focussed on developing novel models of mitotic quiescence in human breast cancer cells *in vitro* and metastatic dormancy *in vivo*. My early postdoctoral work was focussed on characterising the cellular sub-populations isolated from these models using a multitude of approaches, including next-generation sequencing. During 2019, I undertook a three-month training placement in high-performance computing (HPC) and bioinformatic analysis of RNA-Seq data at the <a href="https://www.garvan.org.au/research/kinghorn-centre-for-clinical-genomics" target="_blank">Kinghorn Centre for Clinical Genomics</a> at the Garvan Institute of Medical Research in Sydney, Australia working under <a href="https://www.garvan.org.au/about-us/people/nenbar" target="_blank">Dr Nenad Bartonicek</a>. Upon my return to The University of Sheffield, I transitioned to a two-year position as a postdoctoral cancer bioinformatician and in June 2022 moved to my current role as cancer bioinformatician embedded within the Sheffield Bioinformatics Core Facility and working in the groups of <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/james-catto" target="_blank">Prof. James Catto</a> and <a href="https://www.sheffield.ac.uk/medicine/people/neuroscience/dennis-wang" target="_blank">Dr Dennis Wang</a>.
@@ -52,6 +69,8 @@ My role within the Sheffield Bioinformatics Core Facility involves delivery of c
 ## Publications
 
 **Original Manuscripts**
+
+Catto, J.W.F., Mandrik, O., **Quayle, L.A.**, Hussain, S.A., McGrath, J., Cresswell, J., Birtle, A.J., Jones, R.J., Mariappan, P., Makaroff, L.E., Knight, A., Mostafid, H., Chilcott, J., Sasieni, P., Cumberbatch M. (2023). Diagnosis, treatment and survival from bladder, upper urinary tract and urethral cancers: Real world findings from NHS England between 2013 and 2019. BJU Int. Accepted Author Manuscript. https://doi.org/10.1111/bju.15970
 
 **Quayle, L.A.**, Spicer, A., Ottewell, P.D., Holen, I. (2021). Transcriptomic Profiling Reveals Novel Candidate Genes and Signaling Programs in Breast Cancer Quiescence and Dormancy. Cancers, 13(16): 3922.
 

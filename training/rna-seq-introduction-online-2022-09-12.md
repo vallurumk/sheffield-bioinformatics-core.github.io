@@ -60,5 +60,4 @@ Researchers in life sciences who want to get an appreciation for the computation
 
 - [Mark Dunning](http://sbc.shef.ac.uk/team/mark/index.html), Bioinformatics Core Director
 - [Emily Chambers](http://sbc.shef.ac.uk/team/emily/index.html), Bioinformatics Core Analyst
-
-
+- Ben Draper, PhD Student, Department of Chemical and Biochemical Engineering, The University of Sheffield

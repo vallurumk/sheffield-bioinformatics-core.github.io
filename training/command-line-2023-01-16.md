@@ -10,17 +10,19 @@ endTime: 17.00
 city: Sheffield, or ONLINE
 postcode: S3 7ND
 country: United Kingdom
-venue: Barber House Boardroom, Sheffield, or ONLINE
+venue: Bartolomé House, Sheffield S10,, or ONLINE
 description: "This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We will use a case study of dealing with next-generation sequencing data"
-keywords: bioinformatics, bash, unix
+keywords: bioinformatics, bash, unix, online
 difficulty: beginner
+scientific_keywords: bioinformatics, command line, unix, BASH, linux, informatics
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 - Sheffield - 16th January 2023
 - 13:00 - 17:00pm
-- Batolome House, Sheffield, Seminar Room EG03
+- Bartolome House, Sheffield, Seminar Room EG03
   + or ONLINE
+- [Registration Link](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 
 

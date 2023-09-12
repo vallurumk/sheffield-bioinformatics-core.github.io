@@ -10,20 +10,19 @@ endTime: 16.00
 city: Sheffield, or online
 postcode: S10 2HQ
 country: United Kingdom
-venue: Barber House Boardroom (Sheffield), or ONLINE
+venue: University of Sheffield (see website for details) or ONLINE
 description: "In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESeq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.."
-keywords: bioinformatics, NGS, RNA-seq, R
+keywords: bioinformatics, NGS, RNA-seq, R, transcriptomics, online
+scientific_keywords: transcriptomics, functional genomics, RNA-seq, bioinformatics
 difficulty: beginner
 contact: bioinformatics-core@sheffield.ac.uk
 ---
 
 ## Workshop Information
 
-Monday 12th December 13:00 - 16:00
-Wednesday 14th December 13:00 - 16:00
-Friday 16th December 13:00 - 16:00
-
-Barber House, Boardroom, University of Sheffield, or ONLINE
+- Monday 12th December, Bartolome House, Seminar Room EG03, or online 13:00 - 16:00
+- Wednesday 14th December, Pam Liversidge Building, Design Studio 2, or online - E06,  13:00 - 16:00
+- Friday 16th December, Hicks Building, Lecture Theatre 10, or online, 13:00 - 16:00
 
 You will need to attend all three sessions to complete the workshop
 
@@ -39,7 +38,7 @@ You can sign-up to attend either in-person or online using this link
 
 - [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
-If you are registering to attend as a University of Sheffield staff or student, you will be prompted for a password. This should have been sent to you in an announcment email.
+If you are registering to attend as a University of Sheffield staff or student, you will be prompted for a password. This should have been sent to you in an announcement email.
 
 ## Materials
 

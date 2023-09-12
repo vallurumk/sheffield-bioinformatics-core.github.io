@@ -10,7 +10,7 @@ The Sheffield Bioinformatics Core Facility aims to develop and advance the train
 We offer a comprehensive [training programme](https://sbc.shef.ac.uk/training) and services including (but not limited to):
 
 - Experimental Design
-- High-Throuput Next Generation Sequencing (NGS) Analysis
+- High-Throughput Next Generation Sequencing (NGS) Analysis
 - Single-cell RNA-seq and spatial transcriptomics
 - Analysis of long-read sequencing (e.g. Nanopore)
 - Microarray Analysis
@@ -19,4 +19,5 @@ See [expertise](https://sbc.shef.ac.uk/expertise) for more details...
 
 On this website, you can find about more about [working with us](https://sbc.shef.ac.uk/policies), our [team](https://sbc.shef.ac.uk/team) and [expertise](https://sbc.shef.ac.uk/expertise) and details of upcoming [training](https://sbc.shef.ac.uk/training) courses.
 
-This website is hosted via [GitHub pages](https://github.com/sheffield-bioinformatics-core/sheffield-bioinformatics-core.github.io). If you see any typos or other mistakes please let us know...or file a pull request with your edits.
+If you need support with experimental techniques for performing high-throughput biological studies we can put you in touch with local expertise at the SITraN multi-omics facility.
+

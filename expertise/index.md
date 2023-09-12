@@ -19,21 +19,33 @@ The Core is experienced in advising on the following issues:-
 - Depth of sequencing required
 - Contacts at Sequencing vendors
 
-## High-Throughput Sequence Analysis
+## Next Generation Sequencing (NGS) Analysis
+
+![](../images/example_NGS.PNG)
 
 - BWA, and other aligners for all NGS platforms and applications
 - edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
 - GATK, VarScan and MuTect for somatic and germline mutation calling
 - MACS2, and other peak callers for ChIP-Seq and ATAC-seq analysis
+- Analysis of public datasets on Gene Expression Omnibus (GEO) and Sequencing Read Archive (SRA)
+
+## Downstream Analysis
+
+![](../images/example_network_analysis.png)
+
 - Downstream analysis of gene lists to identify over-represented pathways / ontologies using [GSEA](http://software.broadinstitute.org/gsea/index.jsp), goseq, or other online tools such as [DAVID](https://david.ncifcrf.gov/) or [Genetrail](https://genetrail2.bioinf.uni-sb.de/).
 
 ## Single Cell RNA-Seq
+
+![](../images/souilhol_et_al.png)
 
 - QC, analysis and visualisation for single cell RNA-seq data
 - Analysis of Spatial transcriptomics data
 
 
 ## Microarray Analysis
+
+![](../images/example_microarray.png)
 
 - Experience with data from Affymetrix and Illumina platforms
 - Varying data types, including expression, methylation (450K), SNP and copy-number
@@ -48,4 +60,5 @@ The Core is experienced in advising on the following issues:-
 
 As well as these analysis services, we also provide [training](https://sbc.shef.ac.uk/training) courses and bespoke 1-to-1 training for researchers
 
+For experimental advice on performing high-throughput studies, please contact the SITraN multi-omics facility
 
