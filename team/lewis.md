@@ -8,17 +8,25 @@ excerpt: "More about Lewis..."
   <img src="/images/lquayle.png" width="425">
 </p>
 
-- GitHub: <a href="https://github.com/lquayle88" target="_blank">github.com/lquayle88</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">linkedin.com/in/lewis-quayle</a>
 - Blog: <a href="https://www.lewisdoesdata.com" target="_blank">www.lewisdoesdata.com</a>
 - YouTube: <a href="https://www.youtube.com/@lewisdoesdata" target="_blank">www.youtube.com/@lewisdoesdata</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">linkedin.com/in/lewis-quayle</a>
+- GitHub: <a href="https://github.com/lquayle88" target="_blank">github.com/lquayle88</a>
 
 ## Experience
 
 <table>
 <tbody>
   <tr>
-    <td>2022 - Present:</td>
+    <td>2023 - Present:</td>
+    <td>Senior Lecturer in Data Science and Analytics, Sheffield Hallam University</td>
+  </tr>
+  <tr>
+    <td>2023 - Present:</td>
+    <td>Honorary Senior Lecturer in Bioinformatics, University of Sheffield</td>
+  </tr>
+  <tr>
+    <td>2022 - 2023:</td>
     <td>Cancer Bioinformatician - Bioinformatics Core Facility, University of Sheffield</td>
   </tr>
   <tr>
@@ -56,21 +64,19 @@ excerpt: "More about Lewis..."
 * Geospatial data analysis
 * Unsupervised and supervised machine learning model development and deployment
 * Advanced data visualisation
-* Dashboard (static and interactive) and web app development
+* Dashboard and web app development
 
 ## Biography
 
-I obtained my PhD in the Bone Oncology group of <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/ingunn-holen" target="_blank">Prof. Ingunn Holen</a> and <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/penelope-d-ottewell" target="_blank">Dr Penelope Ottewell</a> in the Department of Oncology & Metabolism at The University of Sheffield Medical School. My PhD project focussed on developing novel models of mitotic quiescence in human breast cancer cells *in vitro* and metastatic dormancy *in vivo*. My early postdoctoral work was focussed on characterising the cellular sub-populations isolated from these models using a multitude of approaches, including next-generation sequencing. During 2019, I undertook a three-month training placement in high-performance computing (HPC) and bioinformatic analysis of RNA-Seq data at the <a href="https://www.garvan.org.au/research/kinghorn-centre-for-clinical-genomics" target="_blank">Kinghorn Centre for Clinical Genomics</a> at the Garvan Institute of Medical Research in Sydney, Australia working under <a href="https://www.garvan.org.au/about-us/people/nenbar" target="_blank">Dr Nenad Bartonicek</a>. Upon my return to The University of Sheffield, I transitioned to a two-year position as a postdoctoral cancer bioinformatician and in June 2022 moved to my current role as cancer bioinformatician embedded within the Sheffield Bioinformatics Core Facility and working in the groups of <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/james-catto" target="_blank">Prof. James Catto</a> and <a href="https://www.sheffield.ac.uk/medicine/people/neuroscience/dennis-wang" target="_blank">Dr Dennis Wang</a>.
+I obtained my PhD in the Bone Oncology group of <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/ingunn-holen" target="_blank">Prof. Ingunn Holen</a> and <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/penelope-d-ottewell" target="_blank">Dr Penelope Ottewell</a> in the Department of Oncology & Metabolism at The University of Sheffield Medical School. My PhD project focussed on developing novel models of mitotic quiescence in human breast cancer cells *in vitro* and metastatic dormancy *in vivo*. My early postdoctoral work was focussed on characterising the cellular sub-populations isolated from these models using a multitude of approaches, including next-generation sequencing. During 2019, I undertook a three-month training placement in high-performance computing (HPC) and bioinformatic analysis of RNA-Seq data at the <a href="https://www.garvan.org.au/research/kinghorn-centre-for-clinical-genomics" target="_blank">Kinghorn Centre for Clinical Genomics</a> at the Garvan Institute of Medical Research in Sydney, Australia working under <a href="https://www.garvan.org.au/about-us/people/nenbar" target="_blank">Dr Nenad Bartonicek</a>. Upon my return to The University of Sheffield, I transitioned to a two-year position as a postdoctoral cancer bioinformatician and in June 2022 moved to the role of cancer bioinformatician embedded within the Sheffield Bioinformatics Core Facility and working in the groups of <a href="https://www.sheffield.ac.uk/medicine/people/oncology-metabolism/james-catto" target="_blank">Prof. James Catto</a> and <a href="https://www.sheffield.ac.uk/medicine/people/neuroscience/dennis-wang" target="_blank">Dr Dennis Wang</a>. I was appointed as Senior Lecturer in Data Science and Analytics in the Department of Computing, Sheffield Hallam University in May 2023 and awarded a 3 year Honorary Senior Lectureship in the University of Sheffield Medical School at the same time.
 
-My current research activity is centred on a project aiming to create a mutational map of the non-coding regions of patient genomes for the bladder cancer arm of the 100,000 Genomes Project. I am also contributing bioinformatics capability to the Genotype of Urothelial Cancer - Stratified Treatment and Oncological outcomes (GUSTO) phase II clinical study. These roles involve contributing to the maintenance of well-curated, highly structured, transparent resources for integrating genomic and clinical data, and assessing, testing, and implementing best practice scalable HPC workflows and methods for genomic data analysis.
-
-My role within the Sheffield Bioinformatics Core Facility involves delivery of custom analyses, processed data, experimental results, and reports detailing quality control procedures and workflows carried out in secure containerised environments to core facility users. I am also involved in supporting the provision of best-practice training and workshops in next-generation sequencing and bioinformatics techniques to laboratory scientists, assisting investigators across the university in statistically sound experimental design, aiding interpretation of results, and grant or manuscript writing where these require extensive bioinformatics input.
+My current research activity includes two Genomics England 100,000 project studies aiming to create a mutational map in bladder and low-grade serous ovarian cancers, provision of bioinformatics support to the Genotype of Urothelial Cancer - Stratified Treatment and Oncological outcomes (GUSTO) phase II clinical trial, a project aiming to develop a test for prediction of response to chemotherapy in gestational trophoblastic disease, and a project continuing my early post-doctoral work which aim to identify molecular drivers and biomarkers of metastatic dormancy in breast cancer. I am also involved in several smaller clinical and pure research projects in a range of areas including high-throughput screening, public healthcare data analytics, and predictive modelling of prognostic risk factors in a range of settings.
 
 ## Publications
 
 **Original Manuscripts**
 
-Catto, J.W.F., Mandrik, O., **Quayle, L.A.**, Hussain, S.A., McGrath, J., Cresswell, J., Birtle, A.J., Jones, R.J., Mariappan, P., Makaroff, L.E., Knight, A., Mostafid, H., Chilcott, J., Sasieni, P., Cumberbatch M. (2023). Diagnosis, treatment and survival from bladder, upper urinary tract and urethral cancers: Real world findings from NHS England between 2013 and 2019. BJU Int. Accepted Author Manuscript. https://doi.org/10.1111/bju.15970
+Catto, J.W.F., Mandrik, O., **Quayle, L.A.**, Hussain, S.A., McGrath, J., Cresswell, J., Birtle, A.J., Jones, R.J., Mariappan, P., Makaroff, L.E., Knight, A., Mostafid, H., Chilcott, J., Sasieni, P., Cumberbatch M. (2023). Diagnosis, treatment and survival from bladder, upper urinary tract and urethral cancers: Real world findings from NHS England between 2013 and 2019. BJU Int, 131(6): 734-744.
 
 **Quayle, L.A.**, Spicer, A., Ottewell, P.D., Holen, I. (2021). Transcriptomic Profiling Reveals Novel Candidate Genes and Signaling Programs in Breast Cancer Quiescence and Dormancy. Cancers, 13(16): 3922.
 
