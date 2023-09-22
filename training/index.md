@@ -30,15 +30,15 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-- [Data Manipulation and Visualization in R](r-introduction-2023-09-18), 18th, 19th and 22nd September,**IN-PERSON** and **ONLINE**, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
-- [Analysis of 10X single-cell data in R](single-cell-2023-10-03), 3 October 2023, **In-person and online**, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
-- [Introduction to RNA-seq Analysis](rna-seq-introduction-2023-10-25), 25th October 2023, IN-PERSON and ONLINE,
-- [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2023-11-06), 6th, 8th and 10th November 2023, IN-PERSON and ONLINE
-- [Introduction to the Command-Line for Bioinformatics](2023_11_30_command-line), 30th November 2023, IN-PERSON and ONLINE
+- [Analysis of 10X single-cell data in R](single-cell-2023-10-03), 3 October 2023, **Online only available**, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
+- [Introduction to RNA-seq Analysis](rna-seq-introduction-2023-10-25), 25th October 2023, IN-PERSON and ONLINE, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
+- [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2023-11-06), 6th, 8th and 10th November 2023, IN-PERSON and ONLINE, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
+- [Introduction to the Command-Line for Bioinformatics](2023_11_30_command-line), 30th November 2023, IN-PERSON and ONLINE, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
 
 ## Past Courses
 
 ## 2023
+- - [Data Manipulation and Visualization in R](r-introduction-2023-09-18), 18th, 19th and 22nd September
 - [Introduction to the Command-Line for Bioinformatics](2023_07_26_command-line), In association with The Carpentries at The University of Sheffield, June 26th 09:30 - 16:30, In-person
 - [Introduction to RNA-seq analysis in R](rna-seq-in-r-2023-04-17), In-person and Online, April 17th/19th/21st,
 - [Introduction to RNA-seq analysis](rna-seq-introduction-2023-03-28), **IN-PERSON** and **ONLINE**, March 28th 2023,
