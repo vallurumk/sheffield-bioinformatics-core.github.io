@@ -19,9 +19,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Workshop Information
 
-Monday 6th November 13:00 - 16:00
-Wednesday 8th November 13:00 - 16:00
-Friday 10th November 13:00 - 16:00
+- Monday 6th November 13:00 - 16:00
+- Wednesday 8th November 13:00 - 16:00
+- Friday 10th November 13:00 - 16:00
 
 Online, and Pam Liversidge Building, PLB - Design Studio 1 - D06 - University of Sheffield
 
@@ -69,7 +69,10 @@ Researchers in life sciences who want to get an appreciation for the computation
 - Identifying over-represented gene sets among a list of differentially expressed genes 
     
 ## Software installation
+
 You will need to bring an internet-enabled laptop to the course and install the latest versions of both R ***and*** RStudio before coming to the course
+
+1) Install R and RStudio 
 
 ### Windows
 
@@ -83,12 +86,36 @@ Install R by downloading and running [this .pkg](http://cran.r-project.org/bin/m
 
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install r-base` and for Fedora run `sudo yum install R`). Also, please download and run the [RStudio installer](https://www.rstudio.com/products/rstudio/download/#download).
 
+2) Install the R packages required for the course
+
+Enter the following into the console prompt in RStudio
+```
+source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/rnaseq-r-online/main/install_bioc_packages.R")
+```
+
+You can check that this worked by running
+
+```
+source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/rnaseq-r-online/main/check_packages.R")
+
+```
+
+3) Download and unzip this file containing the data for the course
+
+- [Link to Data](https://drive.google.com/file/d/178yZSaG1tTr3akeN0DQ2f1Pu2rMoJkBT/view?usp=sharing)
+
+
+4) (Optional) Watch these short introductory videos
+
+- [A gentle introduction to RNA-seq](https://youtu.be/tlf6wYJrwKY)
+- [RNA-seq count normalisation explained](https://youtu.be/TTUrtCY2k-w)
 
 ## Instructors
 
 - Dr. Mark Dunning, Bioinformatics Core Director
 - Dr. Emily Chambers, Bioinformatics Core Scientist
-
+- Dr. Akshay Bhat, Cancer Bioinformatician
+- Lara Oberski, PhD Student
 
 
 ## Timetable (provisional)
