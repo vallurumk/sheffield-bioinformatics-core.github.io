@@ -30,8 +30,6 @@ We have also made a curated list of other training materials available online an
 
 ## Upcoming (more to follow soon)
 
-
-- [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2023-11-06), 6th, 8th and 10th November 2023, IN-PERSON and ONLINE, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
 - [Introduction to the Command-Line for Bioinformatics](2023_11_30_command-line), 30th November 2023, IN-PERSON and ONLINE, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
 
 University of Sheffield staff and student can also access free R and Linux training via the "myDevelopment" pages on MUSE.
@@ -39,6 +37,7 @@ University of Sheffield staff and student can also access free R and Linux train
 ## Past Courses
 
 ## 2023
+- [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2023-11-06), 6th, 8th and 10th November 2023, IN-PERSON and ONLINE 
 - [Introduction to RNA-seq Analysis](rna-seq-introduction-2023-10-25), 25th October 2023, IN-PERSON and ONLINE
 - [Analysis of 10X single-cell data in R](single-cell-2023-10-03), 3 October 2023, 
 - [Data Manipulation and Visualization in R](r-introduction-2023-09-18), 18th, 19th and 22nd September
