@@ -5,6 +5,10 @@ excerpt: "Sheffield Bioinformatics Core Facility home page."
 search_omit: true
 ---
 
+<p style="text-align:center;">
+  <img src="/images/UniversityofSheffieldLogo_Landscape_Violet_CMYK.png" width="425">
+</p>
+
 The Sheffield Bioinformatics Core Facility aims to develop and advance the training and application of bioinformatics and computational biology to biological research, biomedical research and public health in Sheffield. Our consulting and training courses are also available to other Universities and industrial partners
 
 We offer a comprehensive [training programme](https://sbc.shef.ac.uk/training) and services including (but not limited to):
