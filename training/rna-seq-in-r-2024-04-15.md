@@ -19,9 +19,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Workshop Information
 
-Monday 15th April 12:30 - 16:30
-Wednesday 17th April 12:30 - 16:30
-Friday 19th April 12:30 - 16:30
+- Monday 15th April 12:30 - 16:30
+- Wednesday 17th April 12:30 - 16:30
+- Friday 19th April 12:30 - 16:30
 
 
 
