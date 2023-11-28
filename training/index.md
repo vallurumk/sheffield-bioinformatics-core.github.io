@@ -31,8 +31,13 @@ We have also made a curated list of other training materials available online an
 ## Upcoming (more to follow soon)
 
 - [Introduction to the Command-Line for Bioinformatics](2023_11_30_command-line), 30th November 2023, IN-PERSON and ONLINE, [Book here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school) 
+- [Data Manipulation and Visualization in R](r-introduction-2024-01-29), 29th, 31st January and 2nd February 2024, In-person and online, booking soon
+- [Statistical Analysis of Biological Data in R](stats-introduction-2024-02-28)), 28th February 2024, In-person and online, booking soon
+- [Introduction to RNA-seq analysis](rna-seq-introduction-2024-03-20), Wednesday 20th March, 12:30 - 16:30, booking soon
+- [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2024-04-15), 15th, 17th and 19th April 2024, booking soon
 
-University of Sheffield staff and student can also access free R and Linux training via the "myDevelopment" pages on MUSE.
+
+University of Sheffield staff and student can also access free, shorter, R and Linux training via the "myDevelopment" pages on MUSE.
 
 ## Past Courses
 
