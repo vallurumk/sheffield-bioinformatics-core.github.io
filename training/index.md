@@ -36,7 +36,9 @@ We have also made a curated list of other training materials available online an
 - [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2024-04-15), 15th, 17th and 19th April 2024, [booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 
 
-University of Sheffield staff and student can also access free, shorter, R and Linux training via the "myDevelopment" pages on MUSE.
+University of Sheffield staff and student can also access free, shorter, R and Linux training via Research-IT
+
+- [Research-IT training course list (UoS VPN required to access)](https://sites.google.com/sheffield.ac.uk/research-training/)
 
 ## Past Courses
 
