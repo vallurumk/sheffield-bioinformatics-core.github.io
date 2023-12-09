@@ -12,16 +12,16 @@
       url: /collaboration/testimonials
 - title: "Training"
   subitems:
-    - title: Training Courses
+    - title: Bioinformatics Training with SBC
       url: /training/
+    - title: Links to other materials
+      url: /training/other-materials
 - title: Our Community
   subitems:
     - title: Overview
       url: /community
     - title: Code of Conduct
       url: /community/code_of_conduct
-    - title: Events
-      url: /events/
     - title: Blog
       url: /blog/
 - title: Contact

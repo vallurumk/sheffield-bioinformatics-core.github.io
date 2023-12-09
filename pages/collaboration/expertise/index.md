@@ -19,15 +19,18 @@ The Core is experienced in advising on the following issues:-
 - Depth of sequencing required
 - Contacts at Sequencing vendors
 
+For experimental advice on performing high-throughput studies, please contact the [SITraN multi-omics facility](https://www.sheffield.ac.uk/sitran/facilities/multiomics) or [Genomics Facility in Biosciences](https://sites.google.com/sheffield.ac.uk/genomics-laboratory/home).
+
 ## Next Generation Sequencing (NGS) Analysis
 
-![](/images/example_NGS.PNG)
+![](/assets/images/example_NGS.PNG)
 
 - BWA, and other aligners for all NGS platforms and applications
 - edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis
 - GATK, VarScan and MuTect for somatic and germline mutation calling
 - MACS2, and other peak callers for ChIP-Seq and ATAC-seq analysis
 - Analysis of public datasets on Gene Expression Omnibus (GEO) and Sequencing Read Archive (SRA)
+- Submission of data to public repositories for publication
 
 ## Downstream Analysis
 
@@ -60,5 +63,5 @@ The Core is experienced in advising on the following issues:-
 
 As well as these analysis services, we also provide [training](https://sbc.shef.ac.uk/training) courses and bespoke 1-to-1 training for researchers
 
-For experimental advice on performing high-throughput studies, please contact the SITraN multi-omics facility
+
 

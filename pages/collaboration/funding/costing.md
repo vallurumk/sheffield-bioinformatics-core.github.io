@@ -5,33 +5,29 @@ slug: costing
 type: text
 ---
 
-RSE time is typically funded via internal or external grants, not through overheads. Most UKRI funders are aware of the role of RSEs and actively encourage their deployment on grants.
+SBC time is typically funded via internal or external grants, not through overheads. Most UKRI funders are aware of the role of core facility staff and actively encourage their deployment on grants.
 
-## RSE costing (grant-funded)
+## SBC costing (grant-funded)
 
-Outside of the free activities which we organise, RSE time must be paid for from internal or external sources.
-In many cases this will require you to budget for RSE time as part of your grant application.
-The RSE Team can assist with this an advice you as to what is appropriate for your needs.
-Enquiries should be made to <rse@sheffield.ac.uk>.
+Outside of the free activities that we organise, SBC time must be paid for from internal or external sources.
+In many cases this will **require you to budget for SBC** time as part of your grant application. The SBC Team can assist with this an advice you as to what is appropriate for your needs. Enquiries should be made to <bioinformatics-core@sheffield.ac.uk>. Your faculty Research Hub should also make you aware of this requirement.
 
-We can provide staffing for your grants (charged as 'directly incurred' costs) for anything from 1 day to 50% of a FTE, although **provision of an RSE is subject to availability** and as such **enquiries must be made before grant submission** to allow us to schedule our staff resources.
+We can provide staffing for your grants (charged as 'directly incurred' costs) in one of two ways:- 
 
-If you require a dedicated 100% role for your team or project then you should recruit this directly.
-We can help you with this by assisting with recruitment and by supporting your RSE within the Sheffield RSE community.
+- Costing a %FTE of an existing named staff member 
+- Adding Bioinformatics Core time as a Facility charge on the costing tool at our hourly rate of £85, which would be more appropriate for short-term work
 
-## RSE "service" costing
+You can also add the SBC director (currently [Dr. Mark Dunning](/team/mark)) as a co-investigator on your grant for a small directly-incurred %FTE time. This would be to provide guidance and direction on the project as a whole, and is appealing to grant funders
 
-If you require paid RSE support which cannot be budgeted into a research grant then we provide an different mechanism for buying RSE support. In this case we charge an internal RSE "service" day rate of £384 for internal grants and £605+VAT for external partners and industry (rate expires 31/7/2023, from when the new rate will be £665+VAT).
+If you require a dedicated 100% role for your team or project then we recommend recruiting this directly with support from SBC. See below.
 
-The service rate is based on an average cost of an RSE in our team and has a faculty administration cost.
+## SBC "service" / ad-hoc costing
 
-## Contributing to the RSE team (underwriting a RSE role)
+If you require paid Bioinformatics support which cannot be budgeted into a research grant, or was not budgeted at the time, then we provide a different mechanism for providing Bioinformatics support. In this case we charge an hourly rate of £85 for internal grants and £100 for external partners and industry.
 
-If you have a considerable requirement for RSE staff you may consider underwriting an RSE staff member with the team.
-By doing so you will ensure that a member of staff will exist with the specific skills which you require for your research.
-You will also be given the opportunity to join our strategy group to influence how free RSE time should be allocated.
-Underwriting a post does not guarantee that the staff member will be available to you 100% of the time.
-The staff member will be costed onto grants (benefiting you are your research group) in the normal way.
-Our method of cost recovery will allow us to recover up to 75% of the staff costs which will be reimbursed annually.
-Cost recovery will be reported on at each RSE strategy group meeting which you will be invited to attend as a contributor to the group.
-Examples of current contributors include The Department of Computer Science and IT Services.
+
+## Contributing to the SBC team (100% FTE staff)
+
+If you have a considerable requirement for Bioinformatics support you may consider appointing a Bioinformatics staff member, and have them affiliated with the SBC. By doing so you will ensure that a member of staff will exist with the specific skills that you require for your research. The staff member will be part of the SBC and benefit from our mentorship and support, but will be tasked with delivering outputs for your research project. There will be significant gains in project setup as the staff member will have access to our existing pipelines and framework. If the staff member leaves TUoS at the end of their contract, the work they produce will be retained within the SBC and can be retrieved at any point.
+
+Examples of current and past contributors in this manner include The Department of Biosciences, Division of Neuroscience (NIHR BRC) and Division of Clinical Medicine.

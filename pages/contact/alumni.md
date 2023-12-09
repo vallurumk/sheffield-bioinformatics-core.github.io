@@ -5,7 +5,7 @@ slug: alumni
 type: text
 ---
 
-Previous members of the RSE Sheffield team:
+Previous members of the Sheffield Bioinformatics Core team:
 
 {% assign people = site.people | sort: 'othernames' | sort: 'surname' | sort: 'level'  %}
 <div class="people-list">
