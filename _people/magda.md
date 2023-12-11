@@ -2,7 +2,7 @@
 alumnum: false
 level: 2
 published: true
-
+permalink: /team/magda
 othernames: Magda
 surname: Dabrowska
 role: Bioinformatics Core Associate 

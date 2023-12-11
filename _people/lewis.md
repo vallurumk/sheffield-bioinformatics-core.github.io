@@ -2,7 +2,7 @@
 alumnum: false
 level: 2
 published: true
-
+permalink: /team/lewis
 othernames: Lewis
 surname: Quayle
 role: Bioinformatics Core Associate Member

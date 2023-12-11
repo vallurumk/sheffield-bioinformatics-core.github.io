@@ -1,5 +1,6 @@
 ---
 alumnum: false
+permalink: /team/mark
 level: 0
 published: true
 

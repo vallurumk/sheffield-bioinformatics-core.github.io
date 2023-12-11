@@ -2,7 +2,7 @@
 alumnum: true
 level: 0
 published: true
-
+permalink: /team/dennis
 othernames: Dennis
 surname: Wang
 role: Associate Scientific Director
@@ -10,7 +10,7 @@ summary: Dennis joined The University of Sheffield in September 2016 as a Lectur
 ---
 
 
-![dennis](/assets/images/dennis.jpg)
+![dennis](/assets/images/people/dennis.jpg)
 
 Dennis joined The University of Sheffield in September 2016 as a Lecturer in Genomic Medicine
 

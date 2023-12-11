@@ -2,7 +2,7 @@
 alumnum: false
 level: 1
 published: true
-
+permalink: /team/akshay
 othernames: Akshay
 surname: Bhat
 role: Cancer Bioinformatician

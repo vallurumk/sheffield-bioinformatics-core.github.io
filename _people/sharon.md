@@ -2,7 +2,7 @@
 alumnum: true
 level: 1
 published: true
-
+permalink: /team/sharon
 othernames: Sharon
 surname: Hsu
 role: Bioinformatics Core Associate 
