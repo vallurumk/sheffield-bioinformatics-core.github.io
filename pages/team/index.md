@@ -16,8 +16,9 @@ Previous members of the team can be found on our [Alumni](../alumni) page.
       {% if person.othernames and person.surname %}
         <h2><a href="{{person.url}}">{{person.othernames}} {{person.surname}} - {{person.role}}</a></h2>
       {% endif %}
+      <p style="text-align:left;">
       {{ person.summary }}
-      <p style="text-align:center;">
+      <p style="text-align:right;">
   <img src="/assets/images/people/{{person.othernames}}.jpg" width="250">
 </p>
     {% endif %}
