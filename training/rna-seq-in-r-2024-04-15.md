@@ -3,12 +3,12 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Introduction to RNA-seq analysis in R
 excerpt: "RNA-seq in R"
-startDate: 2023-11-06
-endDate: 2023-11-10
+startDate: 2024-04-15
+endDate: 2024-04-19
 startTime: 13.00
 endTime: 16.00
 city: Sheffield, or online
-postcode: S10 2HQ
+postcode: S1 3JD
 country: United Kingdom
 venue: Pam Liversidge Building, Design Studio 1 - D06, or ONLINE
 description: "In this workshop, you will be learning how to analyse RNA-seq count data, using R. This will include reading the data into R, quality control and performing differential expression analysis and gene set testing, with a focus on the DESeq2 analysis workflow. You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available.."
@@ -19,13 +19,15 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 ## Workshop Information
 
-- Monday 6th November 13:00 - 16:00
-- Wednesday 8th November 13:00 - 16:00
-- Friday 10th November 13:00 - 16:00
+- Monday 15th April 12:30 - 16:30
+- Wednesday 17th April 12:30 - 16:30
+- Friday 19th April 12:30 - 16:30
+
+
 
 Online, and Pam Liversidge Building, PLB - Design Studio 1 - D06 - University of Sheffield
 
-You will need to attend all three sessions to complete the workshop
+You will need to attend **all three sessions**, or be commited to catch-up on any materials you missed, in order to complete the workshop
 
 
 ***Some basic R knowledge is assumed (and is essential). Without it, you will struggle on this course. If you are not familiar with the R statistical programming language we strongly encourage you to work through an introductory R course before attempting these materials. We recommend reviewing Parts 1 and 2 of our R introductory course before deciding if you can attend***
@@ -38,8 +40,6 @@ You will need to attend all three sessions to complete the workshop
 You can sign-up to attend either in-person or online using this link
 
 - [https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
-
-If you are registering to attend as a University of Sheffield staff or student, you will be prompted for a password. This should have been sent to you in an announcment email.
 
 ## Materials
 

@@ -32,6 +32,7 @@ We will focus specifically on data generated using the 10X protocol, although th
 - [Part 2 - HTML](session2.nb.html)
 - [Part 3 - Markdown](session3.Rmd)
 - [Part 3 - HTML](session3.nb.html)
+- [Solutions](solutions.Rmd)
 
 ## Setup
 
