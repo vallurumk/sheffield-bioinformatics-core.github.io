@@ -249,3 +249,12 @@ a:hover {
 a.tag-link.selected, a.filter-link.selected{
     font-weight: bold;
 }
+
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:50%;  
+  float:left;
+}
