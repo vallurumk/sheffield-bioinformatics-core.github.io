@@ -26,7 +26,7 @@ github_username: sheffield-bioinformatics-core
 twitter:
   username: SheffBioinfCore
   card: summary
-logo: /assets/images/logo/logo-sm.png
+logo: /assets/images/logo/UOS_Violet_SBC_2023.png
 
 future: true # required for collections with a date field, where future events are desired.
 collections:
