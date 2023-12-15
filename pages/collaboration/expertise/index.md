@@ -6,8 +6,10 @@ type: text
 carousels:
   - images: 
     - image: /assets/images/example_oncoplot.png
-    - image: /assets/images/example_network_analysis.png
+    - image: /assets/images/souilhol_et_al.png
+    - image: /assets/images/example_heatmap.png
     - image: /assets/images/spt.png
+    - image: /assets/images/example_network_analysis.png
 ---
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
