@@ -3,8 +3,8 @@ layout: page
 organizer: Sheffield Bioinformatics Core
 title: Data Manipulation and Visualization
 excerpt: "Data Manipulation and Visualization using the R programming language"
-startDate: 2024-01-29
-endDate: 2023-02-03
+startDate: 2024-02-05
+endDate: 2023-02-09
 startTime: 13.00
 endTime: 17.00
 city: Sheffield, or online
@@ -23,9 +23,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
-- Monday January 29th 13:00 - 16:00 Bartolome House, Seminar Room EG03, or Online
-- Wednesday January 31st, 13:00 - 16:00 Bartolome House, Seminar Room EG03 or Online
-- Friday February 2nd 13:00, - 16:00 - Bartolome House, Seminar Room EG03 or Online
+Monday 5th February 13:00 - 16:30 The wave Seminar room 10, or online
+Wednesday 7th February 12:30 - 16:30 Bartolome House Seminar Room EG03, or online
+Friday 9th February 12:30 - 16:30 The Wave Seminar Room 10, or online
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
