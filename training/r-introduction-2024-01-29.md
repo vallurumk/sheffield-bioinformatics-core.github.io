@@ -23,9 +23,9 @@ contact: bioinformatics-core@sheffield.ac.uk
 
 There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
-Monday 5th February 13:00 - 16:30 The wave Seminar room 10, or online
-Wednesday 7th February 12:30 - 16:30 Bartolome House Seminar Room EG03, or online
-Friday 9th February 12:30 - 16:30 The Wave Seminar Room 10, or online
+- Monday 5th February 13:00 - 16:30 The wave Seminar room 10, or online
+- Wednesday 7th February 12:30 - 16:30 Bartolome House Seminar Room EG03, or online
+- Friday 9th February 12:30 - 16:30 The Wave Seminar Room 10, or online
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
