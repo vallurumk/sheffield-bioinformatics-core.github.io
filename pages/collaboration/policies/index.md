@@ -17,9 +17,11 @@ To quote R.A. Fisher
 
 
 ## What to Expect
+<details>
+  <summary>See More..</summary>
+An initial meeting, which is free of charge will then be scheduled to discuss your requirements and how the SBC can assist. The meeting will involve yourself, the SBC director, one of the analysis team, and ideally a representative of the facility you intend to use to generate your data. As a result of this initial meeting, the Core will determine whether the proposed project fits within their remit, or recommend referral to other local expertise; such as the <a href="[Research Software Engineering group](https://rse.shef.ac.uk/). 
 
-An initial meeting, which is free of charge will then be scheduled to discuss your requirements and how the SBC can assist. The meeting will involve yourself, the SBC director, one of the analysis team, and ideally a representative of the facility you intend to use to generate your data. As a result of this initial meeting, the Core will determine whether the proposed project fits within their remit, or recommend referral to other local expertise; such as the [Research Software Engineering group](https://rse.shef.ac.uk/). 
-
+</details>
 ### Best Practices
 
 We employ established techniques in reproducible research and version control, and our analysis scripts can be made available to you on request or at the point of submission to a journal. 
