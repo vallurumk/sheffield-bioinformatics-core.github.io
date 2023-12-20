@@ -92,12 +92,14 @@ kk <- enrichKEGG(gene         = gene,
                  pvalueCutoff = 0.05)
 head(kk)
 ```
+
 ```{r}
 library("pathview")
 hsa04110 <- pathview(gene.data  = geneList,
                      pathway.id = "hsa04110",
                      species    = "hsa",
-                     limit      = list(gene=max(abs(geneList)), cpd=1))
+                     limit      = list(gene=max(abs(geneList)), cpd=1),
+                     low=list(gene="navy"),high=list(gene="red"))
 ```
 
 ## ggbio

@@ -20,9 +20,17 @@ Dr. Robert Sandler, PhD Student, School of Health and Related Research (ScHARR)
 <p style="text-align:right;">
 Dr. Sarah Boddy,ProSec3 Study Manager, Sheffield Institute for Translational Neuroscience (SITraN)
 </p>
+
+
 Bioinformatics Support
 -----------------------------
 
+> We have worked with Mark and Bioinformatics Core team for several years and continue to collaborate with them on several projects which involve the experimental design, implementation and data analysis of WES and bulk/scRNAseq data. Mark has also helped train several of our PhD students and PDRAs and has co-supervised some of our MSc and PhD students. Additionally, we have been developing novel protocols around single cell and single nuclei RNAseq applications from fresh tumour tissue, and Mark has helped analyse pilot data and liaise with the kit manufacturers and NGS service providers to help drive forward these projects.
+
+<p style="text-align:right;">
+Dr. Spencer Collis, Reader, Head of the Genome Stability Laboratory,
+School of Medicine and Population Health
+</p>
 
 Code Clinics
 --------------------------

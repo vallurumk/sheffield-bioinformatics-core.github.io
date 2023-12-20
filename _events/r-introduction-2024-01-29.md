@@ -5,10 +5,10 @@ category: workshop
 title: Data Manipulation and Visualization
 excerpt: "Data Manipulation and Visualization using the R programming language"
 permalink: /training/r-introduction-2024-01-29
-startDate: 2024-01-29
-date: 2024-01-29
-endDate: 2024-02-03
-end-date: 2024-02-03
+startDate: 2024-02-05
+date: 2024-02-05
+endDate: 2024-02-09
+end-date: 2024-02-09
 startTime: 13.00
 from: "13:00"
 endTime: 17.00
@@ -31,9 +31,9 @@ speaker: Dr. Mark Dunning, Dr. Emily Chambers, Dr. Akshay Bhat
 
 There are options for attending online and in-person. If you are based in Sheffield, we would strongly recommend attending in-person if possible.
 
-- Monday January 29th 13:00 - 16:00 Bartolome House, Seminar Room EG03, or Online
-- Wednesday January 31st, 13:00 - 16:00 Bartolome House, Seminar Room EG03 or Online
-- Friday February 2nd 13:00, - 16:00 - Bartolome House, Seminar Room EG03 or Online
+- Monday 5th February 13:00 - 16:30 The wave Seminar room 10, 
+- Wednesday 7th February 12:30 - 16:30 Bartolome House Seminar Room EG03
+- Friday 9th February 12:30 - 16:30 The Wave Seminar Room 10
 
 Please only sign-up to the course if you are available on these dates, or prepared to devote time to review any sessions that you miss
 
