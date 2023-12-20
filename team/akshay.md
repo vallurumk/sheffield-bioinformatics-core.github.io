@@ -26,29 +26,35 @@ Akshay joined The University of Sheffield in October 2023 as a cancer bioinforma
 
 2010 – 2012: MRes. (Bioinformatics) University of Glasgow
 
+
 2005 – 2010: Bachelors of Engineering (BE - Biotechnology) The Oxford University of Technology - Bangalore, India
 
  ## Industrial Experience
  
+
  2013 - 2016: Bladder Multi-Omics Bioinformatician - Mosaiques Diagnostics GmBH, Hannover, Germany
  2018 - 2020: Research Analyst and Visiting Faculty - Proteomics Facility, Indian Institute of Technology - Bombay and University of Mumbai
+
  2021 - 2022: CTO, GeneBox Pvt Ltd. and SpeedGaze Technologies, Mumbai, India
  
  
  
  ## Biography
- 
+
  I am a Marie Curie Fellow with a background in bladder cancer, systems medicine and bioinformatics. I joined the Sheffield Bioinformatics Core in October 2023 after completing a position as a laboratory informatics systems (LIMS) manager at the CVR-CRUSH (COVID-19 Drug-Screening and Resistance Hub), University of Glasgow. Prior to this position, I was a bioinformatics scientific advisor (CTO) for commercial entities named the Gene Box and SpeedGaze technologies solution Pvt Ltd. (Mumbai). I completed two postdoctoral fellowship at the Dell Medical Center – UT Austin, Texas, USA and Vancouver Prostate Center - Canada before taking up a position as a visiting faculty for bioinformatics at the University of Mumbai and Indian Institute of Technology - Bombay. Earlier to this position, I was a Marie Curie early-stage researcher (PhD.) at the Charite University Berlin and Mosaiques Diagnositics GmBH - Germany in a bladder cancer project entitled Bladder Cancer Molecular Medicine (BCMolMed). The project emphasized on a multidisciplinary approach in discovering bladder cancer biomarkers and included biotech industries, universities, and academic research centers across the European Union and North America. 
 
 In the Mitacs Elevate/BCMolMed fellowships, my tasks involved the bioinformatics modelling of genomics, transcriptomics and proteomics changes in bladder cancer invasion patients treated with neoadjuvant chemotherapy. I am proficient in using statistical software R-bioconductor, bio-python
 packages and network modelling tools from Cytoscape to integrate protein-interaction networks, gene-regulatory data and pathway enrichment databases for defining relevant biological processes in bladder cancer invasion. In addition, I have also used large scale public databases like TCGA, AACR GENIE, CPTAC, ProteomeXchange, GEO, SRA-EBI and ENCODE in order to download, analyse and validate bladder, prostate, breast and colorectal cancer data. I have experience in handling and analyzing omics data sets from DNA/RNA sequencing (including CNV), gene expression microarrays, single-cell RNA-seq and mass-spectrometry profiles. My research as a cancer bioinformatician at the Sheffield University is to integrate -omics techniques with tissue imaging by using machine-learning and deep-neural networks algorithms to predict resistance to therapy in diseased patients and distinguish drug-responsive patients based on gene regulatory networks. In order to assimilate this knowledge, I had opportunities to attend courses, workshops and conferences held by EMBL, Heidelberg, Germany, and Marie-Curie training programs within the last years.
+
  
 ## Publications
 Selected Publications
 
 1. Xu Hua, Robert Marick, Yongsheng Li, Sairahul Pentaparthi, Daniel McGrail, Raymond Zou, Li Guo, Aditya Shrawat, Kara Cirillo, Qing Li, Akshay Bhat and S. Stephen Yi. mGI-map: Landscape of microRNA regulatory network architecture and functional rerouting in cancer - CAN-20-0371R1 – Jan 14th 2022.
 
+
 2. Akshay Bhat, Anna Capasso, Jeanne Kowalski-Muegge, Omar Hamdani, S. Gail Eckhardt, William Matsui, Carla Van Den Berg, Stephen Song Yi - Proteogenomic Analysis Reveals Distinct Functional Characterization of Left- and Right-Sided Colorectal Cancer - under co-author revision, Journal of Clinical Research in Oncology
+
 
 3. Xu Hua, Yongsheng Li, Li Guo, Min Xu, Dan Qi, Jason H. Huang, Akshay Bhat, Yunyun Zhou, Erxi Wu, and S. Stephen Yi - Systematic characterization of somatic mutation-mediated microRNA regulatory network perturbations - bioRxiv preprint, 2020 doi: https://doi.org/10.1101/2020.06.02.128777
 
