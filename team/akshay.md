@@ -29,7 +29,7 @@ Akshay joined The University of Sheffield in October 2023 as a cancer bioinforma
 
 2005 – 2010: Bachelors of Engineering (BE - Biotechnology) The Oxford University of Technology - Bangalore, India
 
- ## Industrial Experience
+## Industrial Experience
  
 
  2013 - 2016: Bladder Multi-Omics Bioinformatician - Mosaiques Diagnostics GmBH, Hannover, Germany
@@ -39,7 +39,7 @@ Akshay joined The University of Sheffield in October 2023 as a cancer bioinforma
  
  
  
- ## Biography
+## Biography
 
  I am a Marie Curie Fellow with a background in bladder cancer, systems medicine and bioinformatics. I joined the Sheffield Bioinformatics Core in October 2023 after completing a position as a laboratory informatics systems (LIMS) manager at the CVR-CRUSH (COVID-19 Drug-Screening and Resistance Hub), University of Glasgow. Prior to this position, I was a bioinformatics scientific advisor (CTO) for commercial entities named the Gene Box and SpeedGaze technologies solution Pvt Ltd. (Mumbai). I completed two postdoctoral fellowship at the Dell Medical Center – UT Austin, Texas, USA and Vancouver Prostate Center - Canada before taking up a position as a visiting faculty for bioinformatics at the University of Mumbai and Indian Institute of Technology - Bombay. Earlier to this position, I was a Marie Curie early-stage researcher (PhD.) at the Charite University Berlin and Mosaiques Diagnositics GmBH - Germany in a bladder cancer project entitled Bladder Cancer Molecular Medicine (BCMolMed). The project emphasized on a multidisciplinary approach in discovering bladder cancer biomarkers and included biotech industries, universities, and academic research centers across the European Union and North America. 
 
