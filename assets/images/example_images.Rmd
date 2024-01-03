@@ -36,10 +36,7 @@ head(topgoDE_macrophage_IFNg_vs_naive, 2)
 res_enrich_macrophage <- shake_topGOtableResult(topgoDE_macrophage_IFNg_vs_naive)
 colnames(res_enrich_macrophage)
 
-res_enrich_macrophage <- get_aggrscores(res_enrich = res_enrich_macrophage,
-                                        res_de = res_macrophage_IFNg_vs_naive,
-                                        annotation_obj = anno_df,
-                                        aggrfun = mean)
+
 
 library("org.Hs.eg.db")
 anno_df <- data.frame(
@@ -48,7 +45,25 @@ anno_df <- data.frame(
   stringsAsFactors = FALSE,
   row.names = rownames(dds_macrophage)
 )
+
+res_enrich_macrophage <- get_aggrscores(res_enrich = res_enrich_macrophage,
+                                        res_de = res_macrophage_IFNg_vs_naive,
+                                        annotation_obj = anno_df,
+                                        aggrfun = mean)
+
 ```
+
+
+```{r}
+library(EnhancedVolcano)
+
+p1 <- EnhancedVolcano(data.frame(res_macrophage_IFNg_vs_naive), lab = res_macrophage_IFNg_vs_naive$SYMBOL, x = "log2FoldChange", y = "padj", caption = "Differential Expression of IFNg vs Naive")
+ggsave("example_volcano.jpeg", width = 1800, height=1800,units="px")
+
+
+
+```
+
 
 ```{r}
 vst_macrophage <- vst(dds_macrophage)

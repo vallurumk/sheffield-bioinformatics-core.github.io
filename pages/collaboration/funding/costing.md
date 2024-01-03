@@ -17,9 +17,10 @@ In many cases this will <em>require you to budget for SBC</em> time as part of y
 </p>
 <p>
 We can provide staffing for your grants (charged as 'directly incurred' costs) in one of two ways:- 
-
+<ul class="b">
 <li> Costing a %FTE of an existing named staff member </li>
 <li> Adding Bioinformatics Core time as a Facility charge on the costing tool at our hourly rate of £85, which would be more appropriate for short-term work</li>
+</ul>
 </p>
 <p>
 You can also add the SBC director (currently Dr. Mark Dunning) as a co-investigator on your grant for a small directly-incurred %FTE time. This would be to provide guidance and direction on the project as a whole, and is appealing to grant funders

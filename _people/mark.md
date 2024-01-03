@@ -10,7 +10,7 @@ role: Bioinformatics Core Director
 summary: Mark joined The University of Sheffield in October 2017 to establish the Bioinformatics Core. He works on a variety of different projects, and has a particular interest in Cancer Bioinformatics. He leads the development of our <a href="/training/">training program</a> and is an accredited Carpentries instructor and FHEA.
 ---
 <p style="text-align:center;">
-  <img src="/assets/images/people/mark.jpg" width="250">
+  <img src="/assets/images/people/Mark.jpg" width="250">
 </p>
 
 

@@ -9,7 +9,7 @@ role: Bioinformatics Core Analyst
 summary: Emily joined the Bioinformatics Core at The University of Sheffield in September 2017. She has supported a wide variety of analysis projects across the University, and is leading of understanding of analysis methods for single-cell RNA-seq and spatial transcriptomics data. Emily leads the teaching on some of our training workshops, and is an accredited instructor of The Carpentries and attained FHEA status with AdvanceHE.
 ---
 
-<img src="/assets/images/people/emily.jpg" alt="Emily" width="170"/>
+<img src="/assets/images/people/Emily.jpg" alt="Emily" width="170"/>
 
 Emily joined the Bioinformatics Core at The University of Sheffield in September 2017.
 

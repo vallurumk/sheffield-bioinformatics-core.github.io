@@ -94,7 +94,7 @@ jQuery(document).ready(function ($) {
                 }
 
                 if (prevNotAdded && eventDate.isBefore(currentTime)) {
-                    $('<h2 id="previous">Previous Events</h2><p>Includes slides and recordings.</p>').insertBefore(eventItem);
+                    $('<h2 id="previous">Previous Events</h2><p>Includes the workshop schedule, and in some cases materials. If you see a previous event that you are interested in, please <a href="/contact/">contact</a> us to ask if it can be re-run</p>').insertBefore(eventItem);
                     prevNotAdded = false;
                 }
             });

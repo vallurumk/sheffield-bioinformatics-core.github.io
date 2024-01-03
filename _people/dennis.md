@@ -6,7 +6,7 @@ permalink: /team/dennis
 othernames: Dennis
 surname: Wang
 role: Associate Scientific Director
-summary: Dennis joined The University of Sheffield in September 2016 as a Lecturer in Genomic Medicine
+summary: Dennis joined The University of Sheffield in September 2016 as a Lecturer in Genomic Medicine. During his time at Sheffield he acted as the co-Director for the MSc in Genomic Medicine course and Lead PI for Genomics in the NIHR Sheffield Biomedical Research Centre.
 ---
 
 

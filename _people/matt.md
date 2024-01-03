@@ -1,6 +1,6 @@
 ---
 alumnum: true
-level: 1
+level: 0
 published: true
 permalink: /team/matt
 othernames: Matt

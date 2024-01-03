@@ -14,10 +14,10 @@ Previous members of the Sheffield Bioinformatics Core team:
       {% if person.othernames and person.surname %}
         <h2><a href="{{person.url}}">{{person.othernames}} {{person.surname}}</a></h2>
       {% endif %}
-      {{ person.summary }}
-            <p style="text-align:center;">
-  <img src="/assets/images/people/{{person.othernames}}.jpg" width="250">
-  </p>
+      <div class="mycontainer">
+  <div><p>{{ person.summary }}</p></div>
+  <div><p><img src="/assets/images/people/{{person.othernames}}.jpg" width="250"></p></div>
+  </div>
     {% endif %}
 {% endfor %}
 </div>

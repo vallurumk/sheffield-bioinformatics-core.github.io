@@ -52,8 +52,9 @@ The SBC does not require or request co-authorship on studies using data generate
 
 In order to monitor our support service and satisfy institutional reporting requirements, we kindly-request that researchers acknowledge work performed by SBC in peer-reviewed research outputs in either one of the following two ways:
 
+<ul class="b">
 <li> in the acknowledgement section by stating that <em>"The authors would like to thank [Name of Consultant] of the Sheffield Bioinformatics Core, The University of Sheffield for assistance with [services performed],"</em></li> 
 
 <li>in the appropriate body text section for which SBC provided a service by stating that <em>"[Service] was provided by the Sheffield Bioinformatics Core, The University of Sheffield.</em>"</li>
-
+</ul>
 </details>

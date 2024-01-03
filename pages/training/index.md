@@ -25,6 +25,9 @@ Our current teaching format is to run shorter sessions split over multiple days.
 
 {% include events_list_upcoming.html category="workshop,carpentry,gitzerohero,dltraining" %}
 
+#### Previous training
+
+A record of all of our training workshops can be found on our [events](/events) page.
 
 ### IT Services Training
 
