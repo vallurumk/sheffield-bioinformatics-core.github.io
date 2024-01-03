@@ -10,9 +10,9 @@ date: 2024-03-20
 endDate: 2024-03-20
 end-date: 2024-03-20
 startTime: 13.00
-from: 13:00
+from: "13:00"
 endTime: 16.00
-to: 16:00
+to: "16:00"
 city: Sheffield, or online
 postcode: S3 7ND
 country: United Kingdom

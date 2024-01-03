@@ -10,9 +10,9 @@ date: 2023-10-25
 endDate: 2023-10-25
 end-date: 2023-10-25
 startTime: 13.00
-from: 13:00
+from: "13:00"
 endTime: 16.00
-to: 16:00
+to: "16:00"
 city: Sheffield, or online
 postcode: S1 3JQ
 country: United Kingdom

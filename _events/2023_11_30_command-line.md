@@ -10,9 +10,9 @@ date: 2023-11-30
 endDate: 2023-11-30
 end-date: 2023-11-30
 startTime: 13.00
-from: 13:00
+from: "13:00"
 endTime: 16.00
-to: 16:30
+to: "16:30"
 location: ONLINE
 city: Sheffield,
 postcode: S3 7ND

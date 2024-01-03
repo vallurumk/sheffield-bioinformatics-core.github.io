@@ -10,9 +10,9 @@ date: 2024-04-15
 endDate: 2024-04-19
 end-date: 2024-04-19
 startTime: 13.00
-from: 13:00
+from: "13:00"
 endTime: 16.00
-to: 16:00
+to: "16:00"
 city: Sheffield, or online
 postcode: S1 3JD
 location: Pam Liversidge Building, Design Studio 1, D06

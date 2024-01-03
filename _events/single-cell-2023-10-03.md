@@ -10,9 +10,9 @@ date: 2023-10-03
 endDate: 2023-10-03
 end-date: 2023-10-03
 startTime: 09.30
-from: 09:30
+from: "09:30"
 endTime: 16.30
-to: 16:30
+to: "16:30"
 city: Sheffield
 postcode: S10 2HQ
 country: United Kingdom

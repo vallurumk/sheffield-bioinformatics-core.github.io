@@ -10,9 +10,9 @@ date: 2023-06-26
 endDate: 2023-06-26
 end-date: 2023-06-26
 startTime: 09.30
-from: 09:30
+from: "09:30"
 endTime: 16.30
-to: 16:30
+to: "16:30"
 city: Sheffield,
 postcode: S3 7RD
 country: United Kingdom
