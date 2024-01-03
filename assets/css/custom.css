@@ -41,11 +41,11 @@ body {
 }
 
 .promo{
-    background: var(--uos-midnight-black);
+    background: var(--uos-midnight-black-90);
 }
 
 .footer{
-    background: var(--uos-midnight-black);
+    background: var(--uos-deep-violet);
 }
 
 /* Sizes for h1 to h6, overriding bootstrap css */
@@ -69,16 +69,20 @@ a {
 }
 
 .contact {
-    background: var(--uos-midnight-black);
+    background: var(--uos-powder-blue);
 }
 
 .contact-inner a {
-    color: var(--uos-powder-blue);
+    color: var(--uos-deep-violet);
     text-decoration: underline;
 }
 
+.contact-inner p {
+    color: var(--uos-deep-violet);
+}
+
 .contact-inner h2 {
-    color: var(--white) !important;
+    color: var(--uos-deep-violet) !important;
 }
 
 .seminar-section {
@@ -257,4 +261,20 @@ div.mycontainer {
 div.mycontainer div {
   width:50%;  
   float:left;
+}
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
 }

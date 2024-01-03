@@ -17,30 +17,43 @@ To quote R.A. Fisher
 
 
 ## What to Expect
+<details>
+  <summary>See More..</summary>
+An initial meeting, which is free of charge will then be scheduled to discuss your requirements and how the SBC can assist. The meeting will involve yourself, the SBC director, one of the analysis team, and ideally a representative of the facility you intend to use to generate your data. As a result of this initial meeting, the Core will determine whether the proposed project fits within their remit, or recommend referral to other local expertise; such as the <a href="https://rse.shef.ac.uk/">Research Software Engineering (RSE) Group</a>. 
 
-An initial meeting, which is free of charge will then be scheduled to discuss your requirements and how the SBC can assist. The meeting will involve yourself, the SBC director, one of the analysis team, and ideally a representative of the facility you intend to use to generate your data. As a result of this initial meeting, the Core will determine whether the proposed project fits within their remit, or recommend referral to other local expertise; such as the [Research Software Engineering group](https://rse.shef.ac.uk/). 
-
+</details>
 ### Best Practices
-
+<details>
+  <summary>See More..</summary>
 We employ established techniques in reproducible research and version control, and our analysis scripts can be made available to you on request or at the point of submission to a journal. 
 
-## Invoicing
+</details>
 
-After our agreed project deliverables have been completed, we will issue an invoice through TUoS internal charging system. In order to make this as efficient as possible please let us know your **grant code** or cost centre and advise us if **any funding deadlines apply**.
+## Invoicing
+<details>
+  <summary>See More..</summary>
+After our agreed project deliverables have been completed, we will issue an invoice through TUoS internal charging system. In order to make this as efficient as possible please let us know your <b>grant code</b> or cost centre and advise us if <b>any funding deadlines apply</b>.
+</details>
 
 ## Fees
+<details>
+  <summary>See More..</summary>
+  
+The SBC charge an hourly-rate of <b>85</b> for internal clients, and <b>£100</b> per-hour for external clients. We will provide you with an estimate of the number of hours required, and a quote. During the project you will receive detailed monthly billing updates and ongoing analysis results. 
 
-The SBC charge an hourly-rate of ***£85*** for internal clients, and ***£100*** per-hour for external clients. We will provide you with an estimate of the number of hours required, and a quote. During the project you will receive detailed monthly billing updates and ongoing analysis results. 
+<b>Please note that payment of fees for data analysis services and authorship are not mutually exclusive</b>. Depending on their contributions to a project, SBC data analysts might be considered collaborators at the same level as other academic colleagues who contribute intellectually and receive funding for work on a project. The recovery of Core expenses through the recharge system does not exclude the possibility for authorship for Core personnel. Similarly, authorship does not substitute for payment of Core expenses for services rendered. 
 
-***Please note that payment of fees for data analysis services and authorship are not mutually exclusive***. Depending on their contributions to a project, SBC data analysts might be considered collaborators at the same level as other academic colleagues who contribute intellectually and receive funding for work on a project. The recovery of Core expenses through the recharge system does not exclude the possibility for authorship for Core personnel. Similarly, authorship does not substitute for payment of Core expenses for services rendered. 
-
+</details>
 ## Publications
 
+<details>
+  <summary>See More..</summary>
 The SBC does not require or request co-authorship on studies using data generated solely by using off-the-shelf software on a fee-for-service basis by our facilities. However, in cases where significant intellectual contributions are made by SBC members, co-authorship follows commonly-accepted scientific practice.
 
-In order to monitor our support service and satisfy institutional reporting requirements, we require clients acknowledge work performed by SBC in peer-reviewed publications in either one of the following two ways:
+In order to monitor our support service and satisfy institutional reporting requirements, we kindly-request that researchers acknowledge work performed by SBC in peer-reviewed research outputs in either one of the following two ways:
 
-- in the acknowledgement section by stating that *"The authors would like to thank [Name of Consultant] of the Sheffield Bioinformatics Core, The University of Sheffield for assistance with [services performed],"* or
+<li> in the acknowledgement section by stating that <em>"The authors would like to thank [Name of Consultant] of the Sheffield Bioinformatics Core, The University of Sheffield for assistance with [services performed],"</em></li> 
 
-- in the appropriate body text section for which SBC provided a service by stating that *"[Service] was provided by the Sheffield Bioinformatics Core, The University of Sheffield."*
+<li>in the appropriate body text section for which SBC provided a service by stating that <em>"[Service] was provided by the Sheffield Bioinformatics Core, The University of Sheffield.</em>"</li>
 
+</details>

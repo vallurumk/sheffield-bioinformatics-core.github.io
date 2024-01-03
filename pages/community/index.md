@@ -11,7 +11,6 @@ The best way to keep updated on these is to
 join [**Sheffield Bioinformatics Core's News Google Group**](https://groups.google.com/a/sheffield.ac.uk/g/bioinformatics-core-news):
 
 <a href="https://groups.google.com/a/sheffield.ac.uk/g/bioinformatics-core-news">
-<img src="/assets/images/google-group.png" alt="Sheffield Bioinformatics Google Group" style="display: block; margin-left: auto; margin-right: auto; width: 10%;" />
 </a>
 
 The mailing list is for moderated announcements only (not discussion).
@@ -19,15 +18,27 @@ The mailing list is for moderated announcements only (not discussion).
 
 ## Other Initiatives at the University of Sheffield
 
-There are a number of other local initiatives that may be of interest to the Bioinformatics community.
+There are a number of other local initiatives and facilities that may be of interest to the Bioinformatics and data science community.
 
-* The [multi-omics facility in SITraN](https://www.sheffield.ac.uk/sitran/facilities/multiomics) and The [Genomics Laboratory in Biosciences](https://sites.google.com/sheffield.ac.uk/genomics-laboratory/home) both offer Oxford Nanopore sequencing, 10X library preparation and other Genomics services
-* The University of Sheffield's [Research Software Engineering (RSE) Group](https://rse.shef.ac.uk) - offering support on software development tasks
-* The University of Sheffield's [Open Data Science Initiative](http://opendsi.cc)
-* The city of Sheffield has an [active R-user's group](https://sheffieldr.github.io/)
 
-## Local Bioinformatics Community
+## Research
 
-We are also founding members of the Northern Bioinformatics Use 
+- [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute)
+- [Healthy Lifespance Institute (HELSI)](https://www.sheffield.ac.uk/healthy-lifespan)
+- [Sheffield Cancer Research Strategy](https://www.sheffield.ac.uk/cancer)
+- [INSIGNEO](https://www.sheffield.ac.uk/insigneo)
+- [Data Connect](https://www.sheffield.ac.uk/data-connect)
 
-* [NothernBUG](https://northernbug.github.io/)
+## Infrastructure / Facilities
+
+- The [multi-omics facility in SITraN](https://www.sheffield.ac.uk/sitran/facilities/multiomics) and The [Genomics Laboratory in Biosciences](https://sites.google.com/sheffield.ac.uk/genomics-laboratory/home) both offer Oxford Nanopore sequencing, 10X library preparation and other Genomics services
+- The University of Sheffield's [Research Software Engineering (RSE) Group](https://rse.shef.ac.uk) - offering support on software development tasks
+- [Data Analysis Support](https://students.sheffield.ac.uk/it-services/research/data-analysis-support)
+- [High Performance Computing (HPC) support](https://students.sheffield.ac.uk/it-services/research/hpc-facilities)
+- [Statistical Services Unit (SSU)](https://www.sheffield.ac.uk/maths/research/statistical-services-unit)
+
+## Wider Bioinformatics Community
+
+We are also founding members of the Northern Bioinformatics User Group (NorthernBUG)
+
+- [NothernBUG](https://northernbug.github.io/)

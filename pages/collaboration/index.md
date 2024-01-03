@@ -1,5 +1,5 @@
 ---
-title: Why work with us?
+title: Who are we?
 permalink: /collaboration/
 slug: index
 type: text
