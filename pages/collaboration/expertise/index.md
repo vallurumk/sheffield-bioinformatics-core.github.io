@@ -5,6 +5,7 @@ slug: index
 type: text
 carousels:
   - images: 
+    - image: /assets/images/pah_app.png
     - image: /assets/images/example_heatmap.png
     - image: /assets/images/example_umap.png
     - image: /assets/images/example_oncoplot.png

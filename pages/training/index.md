@@ -16,14 +16,16 @@ We appreciate the support of PhD student demonstrators during our workshops. If 
 
 ---
 
-At the moment our workshops have online and in-person attendance options available. If you chose to attend online you will have access to main instructor's screen online. There will be demonstrators online to assist if you have any issues.
+At the moment our workshops have online (via google meets) and in-person attendance options available. If you chose to attend online you will have access to main instructor's screen online. There will be demonstrators online to assist if you have any issues. The online option will still be available if you sign-up to attend in-person, but cannot make the session for some reason. Recordings are made available to all course attendees
+
+We can produce attendance certificates if these are required to meet funding requirements, but these are not produced automatically. Please get in touch if you require a certificate.
 
 Our current teaching format is to run shorter sessions split over multiple days. This is to allow participants time to review the materials in-between sessions.
 
 
 #### Upcoming training
 
-{% include events_list_upcoming.html category="workshop,carpentry,gitzerohero,dltraining" %}
+{% include events_list_upcoming.html category="workshop,carpentry" %}
 
 #### Previous training
 
@@ -35,6 +37,4 @@ Our colleagues in [IT Services](https://students.sheffield.ac.uk/it-services/res
 
 ### Statement on charging for courses
 
-Our courses currently have a registration fee in-line with other providers of Bioinformatics training. We try and keep these fees as low as possible to make them affordable.
-
-Researchers at TuOS can pay via a grant code or cost centre where possible.
+Our courses currently have a registration fee in-line with other providers of Bioinformatics training. We try and keep these fees as low as possible to make them affordable. Researchers at TuOS can pay via a grant code or cost centre where possible. We recommend that students ask their supervisors or department for a code that can be used to pay for the course rather than paying themselves.
