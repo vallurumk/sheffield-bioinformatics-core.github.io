@@ -115,3 +115,4 @@ circle(hg19sub, geom = "scale", size = 2) +
 circle(hg19sub, geom = "text", aes(label = seqnames), vjust = 0, size = 3)
 gg.crc1 <- crc.gr[values(crc.gr)$individual == "CRC-1"]
 ```
+
