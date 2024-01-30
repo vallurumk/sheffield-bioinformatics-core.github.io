@@ -25,11 +25,14 @@ There are a number of other local initiatives and facilities that may be of inte
 
 - [Neuroscience Institute](https://www.sheffield.ac.uk/neuroscience-institute)
 - [Healthy Lifespance Institute (HELSI)](https://www.sheffield.ac.uk/healthy-lifespan)
-- [Sheffield Cancer Research Strategy](https://www.sheffield.ac.uk/cancer)
+- [Sheffield Cancer Research](https://www.sheffield.ac.uk/cancer)
+- [Sheffield Institute for Nucleic Acids (SInFoNiA)](https://sites.google.com/sheffield.ac.uk/sinfonia/home)
 - [INSIGNEO](https://www.sheffield.ac.uk/insigneo)
 - [Data Connect](https://www.sheffield.ac.uk/data-connect)
 
-## Infrastructure / Facilities
+## Related Infrastructure / Facilities
+
+We are connected to a number of local facilities offering research support. If you are not sure how is best-placed to answer your query, please get in touch and we can direct you as required.
 
 - The [multi-omics facility in SITraN](https://www.sheffield.ac.uk/sitran/facilities/multiomics) and The [Genomics Laboratory in Biosciences](https://sites.google.com/sheffield.ac.uk/genomics-laboratory/home) both offer Oxford Nanopore sequencing, 10X library preparation and other Genomics services
 - The University of Sheffield's [Research Software Engineering (RSE) Group](https://rse.shef.ac.uk) - offering support on software development tasks
@@ -41,4 +44,4 @@ There are a number of other local initiatives and facilities that may be of inte
 
 We are also founding members of the Northern Bioinformatics User Group (NorthernBUG)
 
-- [NothernBUG](https://northernbug.github.io/)
+- [NorthernBUG](https://northernbug.github.io/)

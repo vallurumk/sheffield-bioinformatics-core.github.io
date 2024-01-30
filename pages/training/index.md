@@ -8,7 +8,7 @@ permalink: /training/
 
 People conducting Bioinformatics analysis for research whether they are performing an RNA-seq analysis or creating a bespoke analysis pipeline need skills that academic training might not provide. 
 
-The SBC’s aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the SBC Team, our University of Sheffield colleagues or other sources.
+The SBC’s aspiration is that all researchers who need these skills should be given the opportunity to learn them, either from the SBC Team, our University of Sheffield colleagues or other sources. **Our courses are available to researchers outside the University of Sheffield, and online attendance is usually available**.
 
 If you take one of our courses, you will have an experience and qualified trainer leading the teaching. We take our commitment to training seriously and ensuring that it meets best-practice guidelines. SBC members Mark, Emily and Lewis have all been attended and passed the "train the trainer" instructor training offered by [The Carpentries](https://carpentries.org/index.html) and have FHEA status through [AdvanceHE](https://www.advance-he.ac.uk/).
 
@@ -33,7 +33,7 @@ A record of all of our training workshops can be found on our [events](/events) 
 
 ### IT Services Training
 
-Our colleagues in [IT Services](https://students.sheffield.ac.uk/it-services/research) offer a range of [free training courses](https://sites.google.com/sheffield.ac.uk/research-training/). This is a good place to look if you want to learn how to generic computational skills such as command-line or High-Performance Computing code, but there are a wide range of other courses there as well.
+Our colleagues in [IT Services](https://students.sheffield.ac.uk/it-services/research) offer a range of [free training courses](https://sites.google.com/sheffield.ac.uk/research-training/) for staff and students at The University of Sheffield. This is a good place to look if you want to learn how to generic computational skills such as command-line, High-Performance Computing, other languages that we do not currently cover such as Python or Matlab.
 
 ### Statement on charging for courses
 

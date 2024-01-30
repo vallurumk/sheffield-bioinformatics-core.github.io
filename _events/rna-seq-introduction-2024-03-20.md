@@ -16,7 +16,7 @@ to: "16:00"
 city: Sheffield, or online
 postcode: S3 7ND
 country: United Kingdom
-location: "Bartolome House, Seminar Room EG03"
+location: "Bartolome House, Seminar Room EG03, or ONLINE"
 speaker: "Dr. Mark Dunning, Dr. Akshay Bhat"
 venue: Bartolome House Seminar Room EG03, or ONLINE
 description: "High-throughput RNA-sequencing is now the standard technique for quantifying transcript abundance in a biological sample of interest. In this course we will describe the processes that take place once you submit a library for RNA sequencing. We will describe the steps involved to go from sequencing counts to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Degust interface (https://degust.erc.monash.edu/) to demonstrate tasks such as quality control and assessing differential expression. We will also showcase some web sites you can use for enrichment and pathways analysis"

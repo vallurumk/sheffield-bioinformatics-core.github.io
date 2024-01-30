@@ -13,7 +13,7 @@ startTime: 13.00
 endTime: 17.00
 from: "13:00"
 to: "17:00"
-location: "Bartolome House - Seminar Room EG03"
+location: "Bartolome House - Seminar Room EG03, or ONLINE"
 speaker: "Dr. Aya Elwazir, Dr. Mark Dunning"
 postcode: S3 7ND
 city: Sheffield, or online

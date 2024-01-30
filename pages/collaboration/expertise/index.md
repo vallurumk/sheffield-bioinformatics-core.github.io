@@ -20,7 +20,7 @@ carousels:
 ---
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
-The SBC has expertise in the following areas, and software packages:-
+The SBC has expertise in the following areas, and software packages. If you are interested in some software or methodologies not listed here, please ask.
 
 ## Experimental Design
 If you are planning an experiment, please come to us before generating data so that we can discuss the design...
@@ -45,13 +45,16 @@ For experimental advice on performing high-throughput studies, please contact th
 <details>
   <summary>See more...</summary>
   <ul class="b">
+<li> Retrieval and analysis of public datasets on Gene Expression Omnibus (GEO) and Sequencing Read Archive (SRA) </li>
 <li> BWA, and other aligners for all NGS platforms and applications </li>
-<li> edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis </li>
+<li> edgeR, DESeq2, STAR and salmon (among others) for RNA-Seq analysis and differential expression</li>
+<li> Clustering and PCA to identify batch effects </li>
+<li> Downstream analysis of gene lists to identify over-represented pathways / ontologies using GSEA, goseq, or other online tools such as DAVID</li>
+<li> Alternative splicing analysis and visualization (e.g. sashimi plots)</li>
 <li> GATK, VarScan and MuTect for somatic and germline mutation calling </li>
 <li> MACS2, and other peak callers for ChIP-Seq and ATAC-seq analysis </li>
-<li> Analysis of public datasets on Gene Expression Omnibus (GEO) and Sequencing Read Archive (SRA) </li>
 <li> Submission of data to public repositories for publication </li>
-</li>- Downstream analysis of gene lists to identify over-represented pathways / ontologies using GSEA, goseq, or other online tools such as DAVID</li>
+
 </ul>
 </details>
 
@@ -61,7 +64,10 @@ For experimental advice on performing high-throughput studies, please contact th
 <details>
   <summary>See more...</summary>
   <ul class="b">
-<li> QC, analysis and visualisation for single cell RNA-seq data</li>
+<li> Running cellranger</li>
+<li> QC of single-cell RNA-seq and filtering poor quality cells / samples</li>
+<li> Dimensionality reduction and plotting with UMAP, TSNE etc</li>
+<li> Marker gene identification</li>
 <li> Analysis of Spatial transcriptomics data</li>
 </ul>
 </details>
@@ -70,8 +76,9 @@ For experimental advice on performing high-throughput studies, please contact th
 <details>
   <summary>See more...</summary>
 <ul class="b">
-<li>- Experience with data from Affymetrix and Illumina platforms</li>
-<li>Varying data types, including expression, methylation (450K), SNP and copy-number</li>
+<li>Experience with data from gene expression data from Affymetrix and Illumina platforms</li>
+<li> Re-analysing public data deposited on GEO or ArrayExpress </li>
+<li>Experience with varying data types, including expression, methylation (450K), SNP and copy-number</li>
 </ul>
 </details>
 
