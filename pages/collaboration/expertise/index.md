@@ -5,15 +5,17 @@ slug: index
 type: text
 carousels:
   - images: 
-    - image: /assets/images/pah_app.png
+    - image: /assets/images/nf-core-rnaseq_metro_map_grey.png
+    - image: /assets/images/example_volcano.png    
     - image: /assets/images/example_heatmap.png
-    - image: /assets/images/example_umap.png
-    - image: /assets/images/example_oncoplot.png
-    - image: /assets/images/spt.png
-    - image: /assets/images/example_go.png
-    - image: /assets/images/example_network_analysis.png
     - image: /assets/images/example_genetonic1.png
     - image: /assets/images/example_genetonic2.png
+    - image: /assets/images/example_umap.png
+    - image: /assets/images/spt.png
+    - image: /assets/images/example_rainfall.png
+    - image: /assets/images/example_oncoplot.png
+    - image: /assets/images/example_go.png
+    - image: /assets/images/example_network_analysis.png
     - image: /assets/images/hsa04110.pathview.png
 ---
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}

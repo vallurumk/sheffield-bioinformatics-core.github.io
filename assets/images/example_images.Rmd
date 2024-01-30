@@ -55,13 +55,17 @@ res_enrich_macrophage <- get_aggrscores(res_enrich = res_enrich_macrophage,
 
 
 ```{r}
-library(EnhancedVolcano)
-
-p1 <- EnhancedVolcano(data.frame(res_macrophage_IFNg_vs_naive), lab = res_macrophage_IFNg_vs_naive$SYMBOL, x = "log2FoldChange", y = "padj", caption = "Differential Expression of IFNg vs Naive")
-ggsave("example_volcano.jpeg", width = 1800, height=1800,units="px")
-
-
-
+library(tidyverse)
+p1 <- res_macrophage_IFNg_vs_naive %>% 
+  data.frame %>% 
+  mutate(Significant = padj < 0.005, abs(log2FoldChange) > 2) %>% 
+  arrange(padj) %>% 
+  filter(!is.na(padj)) %>% 
+  mutate(Rank = 1:n()) %>% 
+  mutate(Label = ifelse(Rank < 21, SYMBOL, "")) %>% 
+  ggplot(aes(x = log2FoldChange, y  = -log10(padj),col = Significant, label = Label)) + geom_point() + ggrepel::geom_text_repel(col = "black") + scale_color_manual(values = c("#9ADBE8","#440099")) + geom_vline(xintercept = c(-2,2),col="red",lty=2)
+  
+ggsave(p1, filename = "example_volcano.png",width = 6, height=3)
 ```
 
 
@@ -117,19 +121,15 @@ hsa04110 <- pathview(gene.data  = geneList,
                      low=list(gene="navy"),high=list(gene="red"))
 ```
 
-## ggbio
+## maftools
 
 ```{r}
-data("CRC", package = "biovizBase")
-library(biovizBase)
-library(ggbio)
+library(maftools)
+brca <- system.file("extdata", "brca.maf.gz", package = "maftools")
+brca = read.maf(maf = brca, verbose = FALSE)
+png("example_rainfall.png", width = 800, height=400)
+rainfallPlot(maf = brca, detectChangePoints = TRUE, pointSize = 0.4)
+dev.off()
 ```
 
-```{r}
-p <- ggbio() + circle(mut.gr, geom = "rect", color = "steelblue") +
-circle(hg19sub, geom = "ideo", fill = "gray70") +
-circle(hg19sub, geom = "scale", size = 2) +
-circle(hg19sub, geom = "text", aes(label = seqnames), vjust = 0, size = 3)
-gg.crc1 <- crc.gr[values(crc.gr)$individual == "CRC-1"]
-```
 
