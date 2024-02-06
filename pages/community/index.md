@@ -39,6 +39,7 @@ We are connected to a number of local facilities offering research support. If y
 - [Data Analysis Support](https://students.sheffield.ac.uk/it-services/research/data-analysis-support)
 - [High Performance Computing (HPC) support](https://students.sheffield.ac.uk/it-services/research/hpc-facilities)
 - [Statistical Services Unit (SSU)](https://www.sheffield.ac.uk/maths/research/statistical-services-unit)
+- [SheffieldR ](https://sheffieldr.github.io/)- Local R user group to informally discuss aspects of the R language
 
 ## Wider Bioinformatics Community
 

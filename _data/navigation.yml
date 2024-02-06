@@ -14,6 +14,8 @@
   subitems:
     - title: Bioinformatics Training with SBC
       url: /training/
+    - title: High Performance Computing (HPC) / Bioinformatics Pipelines
+      url: /training/hpc
     - title: Links to other materials
       url: /training/other-materials
 - title: Our Community
