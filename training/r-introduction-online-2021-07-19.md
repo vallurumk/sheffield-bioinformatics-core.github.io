@@ -4,12 +4,6 @@ author: "Sheffield Bioinformatics Core"
 output: 
 startDate: 2021-07-19
 endDate: 2021-07-23
-  html_document: 
-    toc: yes
-    toc_float: yes
-    css: stylesheets/styles.css
-editor_options: 
-  chunk_output_type: inline
 ---
 
 ## Contact
