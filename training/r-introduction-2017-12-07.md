@@ -6,7 +6,7 @@ excerpt: "Intro to R and Bioconductor"
 startDate: 2017-12-07
 endDate: 2017-12-07
 startTime: 09.30
-endTime. 17.00
+endTime: 17.00
 city: Sheffield
 postcode: S1 3JD
 country: United Kingdom
