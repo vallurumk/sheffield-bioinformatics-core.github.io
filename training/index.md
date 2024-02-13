@@ -29,18 +29,21 @@ We have also made a curated list of other training materials available online an
 
 
 ## Upcoming (more to follow soon)
-
-- [Data Manipulation and Visualization in R](r-introduction-2024-01-29), 5th, 7th and 9th February 2024, In-person and online, [booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Statistical Analysis of Biological Data in R](stats-introduction-2024-02-28)), 28th February 2024, In-person and online, [booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Introduction to RNA-seq analysis](rna-seq-introduction-2024-03-20), Wednesday 20th March, 12:30 - 16:30, [booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
 - [Introduction to RNA-seq Analysis in R](rna-seq-in-r-2024-04-15), 15th, 17th and 19th April 2024, [booking now](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-medicine-dentistry-and-health/medical-school)
-
+- Analysis of Biological Networks using Cytoscape, New course, Coming soon
+- Analysis of 10X single-cell data in R
 
 University of Sheffield staff and student can also access free, shorter, R and Linux training via Research-IT
 
 - [Research-IT training course list (UoS VPN required to access)](https://sites.google.com/sheffield.ac.uk/research-training/)
 
 ## Past Courses
+
+## 2024
+
+- [Data Manipulation and Visualization in R](r-introduction-2024-01-29), 5th, 7th and 9th February 2024,
 
 ## 2023
 - [Introduction to the Command-Line for Bioinformatics](2023_11_30_command-line), 30th November 2023, ONLINE
