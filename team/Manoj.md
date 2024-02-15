@@ -11,7 +11,7 @@ I joined the [Kidney Genetics Group](https://www.sheffield.ac.uk/smph/people/cli
 - [Twitter](https://twitter.com/mkvalluru)
 - [Google Scholar](https://scholar.google.com/citations?user=FrUCR-AAAAAJ&hl=en)
 - [ORCiD](https://orcid.org/0000-0001-9156-866X)
-- [LinkedIn](www.linkedin.com/in/manoj-kumar-valluru-78651260)
+- [LinkedIn](https://www.linkedin.com/in/manoj-kumar-valluru-78651260/)
 
 
 ## Experience
