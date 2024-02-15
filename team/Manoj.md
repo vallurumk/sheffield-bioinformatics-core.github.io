@@ -4,7 +4,7 @@ title: Manoj Kumar Valluru Ph.D
 excerpt: "More about Manoj..."
 ---
 
-<div style="text-align:center"><img src="/images/Manoj.jpg"></div>
+<div style="text-align:center"><img src="/images/Manoj.jpeg"></div>
 
 I joined the [Kidney Genetics Group](https://www.sheffield.ac.uk/smph/people/clinical-medicine/albert-cm-ong) at The University of Sheffield in 2019. My research has been centered around the functional characterization of genomic, transcriptomic, and proteomic changes observed in cellular and experimental models of Autosomal dominant polycystic kidney disease (ADPKD).
 
