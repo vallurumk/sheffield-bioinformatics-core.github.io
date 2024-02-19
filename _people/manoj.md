@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_people/manoj.md
 alumnum: false
 level: 2
 published: true
@@ -13,6 +14,14 @@ summary: Manoj's research has been centered around the functional characterizati
 <div style="text-align:center"><img src="/assets/images/people/Manoj.jpg"></div>
 
 KRUK PDRA, Kidney Genetics Group, Division of Clinical Medicine, School of Medicine and Population Health
+=======
+layout: page
+title: Manoj Kumar Valluru Ph.D
+excerpt: "More about Manoj..."
+---
+
+<div style="text-align:center"><img src="/images/Manoj.jpeg"></div>
+>>>>>>> master:team/manoj.md
 
 I joined the [Kidney Genetics Group](https://www.sheffield.ac.uk/smph/people/clinical-medicine/albert-cm-ong) at The University of Sheffield in 2019. My research has been centered around the functional characterization of genomic, transcriptomic, and proteomic changes observed in cellular and experimental models of Autosomal dominant polycystic kidney disease (ADPKD).
 
